@@ -16,7 +16,7 @@ cover: "/Assets/Images/Party/Hexaforce/Magnus/icon_magnus.png"
 :FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Avec Amour, avec Ruse et si rien ne marche, avec Espoir.  :FasQuoteRight: | Aliases : Magnus Myst, Vyllin Myrrh, Lethen
 ___
 > [!infobox|no-t right]
-> ![[Magnus_01.png]]
+> ![[magnus_s3.png]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
@@ -58,6 +58,7 @@ ___
 
 ![[COLLAGE_Magnus.png]]
 ```image-layout-masonry-3
+![[Magnus_01.png]]
 ![[loosing faith.png]]
 ![[mag_ph.png]]
 ![[Magnus (2).png]]
