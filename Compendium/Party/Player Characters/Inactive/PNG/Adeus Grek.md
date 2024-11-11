@@ -1,0 +1,53 @@
+---
+type: pc
+tags:
+ - class/guerrier
+ - race/humain
+headerLink: "[[Adeus Grek#Adeus Grek]]"
+level: "5"
+race: "Humain"
+class: "Guerrier"
+subClass: "Défenseur Champion"
+cover: "/Assets/Images/Party/PNG/Adeus.png"
+---
+
+###### Adeus Grek
+:FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: Possède un avantage contre les portes. :FasQuoteRight:
+___
+> [!infobox|no-t right]
+> ![[Adeus.png]]
+> ###### Details:
+> | Type | Stat |
+> | ---- | ---- |
+> | :FasCrown: Niveau   | `=this.level` |
+> | :RiSwordFill: Classe |  `=this.class`|
+> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> |  :FasUserGroup: Race |  `=this.race`|
+> |  :LiSwords: Groupe |  [[PNG]] |
+
+> [!quote|no-t]
+> Noble descendu de [[Padhiver|Neverwinter]] pour le bien commun, il aide la communauté à grand coup de hache à deux mains. Peu patient, il est plus enclin à enfoncer une porte qu'à la crocheter, où à attendre qu'on viennent ouvrir...
+ 
+#### marker
+> [!column|flex 3]
+>> [!info]- QUÊTES/STORYLINES:
+>>```dataview
+>>LIST WITHOUT ID headerLink
+>>FROM "Compendium/Party/Quests" AND [[Adeus Grek]]
+>>SORT file.ctime DESC
+>
+>>[!note]- HISTOIRE
+>>```dataview
+>>LIST WITHOUT ID headerLink
+>>FROM "Session Notes" AND [[Adeus Grek]]
+>>SORT file.ctime DESC
+>
+>>[!hint]- Relations (PNJ)
+>>```dataview
+>>LIST WITHOUT ID headerLink
+>>FROM "Compendium/NPC's" AND [[Adeus Grek]]
+>>SORT file.ctime DESC
+>>
+```image-layout-masonry-3
+
+```
