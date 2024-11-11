@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/Lore/Events/Le Jour de la Convergence.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Le Jour de la Convergence"
+              "title": "README"
             }
           }
         ],
@@ -240,6 +240,7 @@
   },
   "active": "3f03ee4b1fd3f2a3",
   "lastOpenFiles": [
+    "Compendium/Lore/Events/Le Jour de la Convergence.md",
     "Compendium/Lore/Events/Renaissance de l'Arbre-Monde.md",
     "Compendium/Lore/Events/Descente en Averne.md",
     "Assets/Images/Location/DeA/667px-Avernus_View.webp.png",
@@ -257,7 +258,6 @@
     "Assets/Images/Notes",
     "Assets/Images/New folder",
     "Notes Sessions.md",
-    "Compendium/Lore/Events/Le Jour de la Convergence.md",
     "Assets/Templates/QUEST.md",
     "Compendium/Party/Quests/Campaign/La Convergence.md",
     "Compendium/Party/Player Characters/Active/Alexander White.md",
