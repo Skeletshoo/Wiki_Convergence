@@ -4,10 +4,10 @@ Bonjour et bienvenue! Voici un wiki autour de notre campagne Convergence :]c
 Si vous avez des questions, MPez moi sur discord.
 
 # HOW TO USE
-Étape 1 :  Téléchargez Obsidiant. https://obsidian.md/download
-Étape 2 : Vous clonez le git avec Fork là et tt, je peux pas expliquer cette partie
-Étape 3 : Vous ouvrez obisidiant -> Open Folder as vault -> Et vous allez ouvrir le fichier (qui devrais être dans C/User/Username et c Wiki_Convergence)
-Étape 4 : Enjoy :] 
+Étape 1 :  Téléchargez Obsidiant. https://obsidian.md/download <br>
+Étape 2 : Vous clonez le git avec Fork là et tt, je peux pas expliquer cette partie <br>
+Étape 3 : Vous ouvrez obisidiant -> Open Folder as vault -> Et vous allez ouvrir le fichier (qui devrais être dans C/User/Username et c Wiki_Convergence) <br>
+Étape 4 : Enjoy :]  <br>
 
 
 ## Si le template vous intéresse:
