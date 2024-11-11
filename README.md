@@ -7,7 +7,7 @@ Si vous avez des questions, MPez moi sur discord.
 Étape 1 :  Téléchargez Obsidiant. https://obsidian.md/download <br>
 Étape 2 : Vous clonez le git avec Fork là et tt, je peux pas expliquer cette partie <br>
 Étape 3 : Vous ouvrez obisidiant -> Open Folder as vault -> Et vous allez ouvrir le fichier (qui devrais être dans C/User/Username et c Wiki_Convergence) <br>
-Étape 4 : Enjoy :]  <br>
+Étape 4 : Si vous souhaitez créer des pages, merci de passer par l'INDEX, d'ouvrir les catégories et de cliquer sur les boutons [+ ADD (x)] ! :DD  <br>
 
 
 ## Si le template vous intéresse:
