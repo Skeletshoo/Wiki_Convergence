@@ -4,11 +4,11 @@ locations:
   - "[[La Côte des Épées]]"
 tags:
   - location/city
-headerLink: "[[La Flèche de Givre#La Flèche de Givre]]"
+headerLink: "[[Padhiver#Padhiver]]"
 ---
 
 ![[baldursGate.webp|banner]]
-###### La Flèche de Givre
+###### Padhiver
 <span class="sub2">:FasCity: City</span>
 ___
 
@@ -54,12 +54,12 @@ dv.list(data);
 >> [!example]- LOCATIONS
 >>```dataview
 LIST WITHOUT ID headerLink
-FROM "Compendium/Atlas/Plan Matériel/Toril/Faerûn/La Côte des Épées/La Flèche de Givre"
+FROM "Compendium/Atlas/Plan Matériel/Toril/Faerûn/La Côte des Épées/Padhiver"
 WHERE type= "landmark"
 SORT file.name ASC
 >
 >> [!note]- HISTORY
 >>```dataview
 LIST WITHOUT ID headerLink
-FROM "Session Notes" AND [[La Flèche de Givre]]
+FROM "Session Notes" AND [[Padhiver]]
 SORT file.ctime DESC
