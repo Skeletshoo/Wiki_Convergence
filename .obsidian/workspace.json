@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Compendium/Lore/Organizations/Groupes et Guildes d'Aventuriers/Hexaforce.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Hexaforce"
             }
           }
         ],
@@ -240,6 +240,10 @@
   },
   "active": "3f03ee4b1fd3f2a3",
   "lastOpenFiles": [
+    "Compendium/Lore/Organizations/Groupes et Guildes d'Aventuriers/Guildes de Sorcelume.md",
+    "Session Notes/Hexaforce - Descente en Averne/H-DeA_Session 09 (2023-05-11).md",
+    "Compendium/Lore/Organizations/Groupes et Guildes d'Aventuriers/Hexaforce.md",
+    "README.md",
     "Compendium/Lore/Events/Le Jour de la Convergence.md",
     "Compendium/Lore/Events/Renaissance de l'Arbre-Monde.md",
     "Compendium/Lore/Events/Descente en Averne.md",
@@ -267,10 +271,6 @@
     "Assets/Templates/PLAYER.md",
     "Assets/Templates/PLAYER_B.md",
     "Assets/Templates/PLAYER_C.md",
-    "Session Notes/Pentaforce - La Renaissance de l'Arbre-Monde/P_RdAM_Session 10 (2024-04-17).md",
-    "Session Notes/Pentaforce - La Renaissance de l'Arbre-Monde/P_RdAM_Session 09 (2024-04-01).md",
-    "Session Notes/Pentaforce - La Renaissance de l'Arbre-Monde/P_RdAM_Session 07 (2024-03-03).md",
-    "Session Notes/Pentaforce - La Renaissance de l'Arbre-Monde/P_RdAM_Session 05 (2023-12-02).md",
     "Assets/Images/Party/Saltombanques/file-Pcg6ofcPCEx2ZOsM3DikGxDC.webp",
     "Assets/Images/Party/Saltombanques/coco_dille_2.png",
     "Assets/Images/Party/Saltombanques/cocodille.png",

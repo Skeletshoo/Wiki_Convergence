@@ -12,7 +12,7 @@ headerLink: "[[Hexaforce#Hexaforce]]"
 ___
 
 > [!quote|no-t]
->![[embed.jpg|right wm-sm]]Profile de Hexaforce, la chaotic good organisation.
+>![[Poster_vB_3.png|right wm-sm]]Profile de Hexaforce, la chaotic good organisation.
 
 #### marker
 > [!column|flex 3]
@@ -30,3 +30,11 @@ ___
 >>```dataview
 >>LIST WITHOUT ID headerLink
 >>FROM "Session Notes" AND [[Hexaforce]]
+>
+>>[!note]- CAMPAGNES
+>>```dataview
+>>LIST WITHOUT ID headerLink
+>>FROM "Compendium/Party/Quests/Campaign" AND [[Hexaforce]]
+
+![[ILLU_FINAL_small.png]]
+![[Untitled_Artwork.png]]
