@@ -7,12 +7,12 @@ headerLink: "[[Gilgas Saga#Gilgas Saga]]"
 level: "5"
 race: "Humain"
 class: "Guerrier"
-subClass: "Défenseur Champion"
+subClass: "Chevalier"
 cover: "/Assets/Images/Party/Daronne_Slayers/Gilgas_Saga.png"
 ---
 
 ###### Gilgas Saga
-:FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: Peut sentir l'argent :FasQuoteRight:
+:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Je sens un butin pas loin, et il va finir dans ma bourse :FasQuoteRight:
 ___
 > [!infobox|no-t right]
 > ![[Gilgas_Saga.png]]
@@ -21,12 +21,15 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :RiSwordFill: Archétype |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[Daronnes Slayers]] |
 
 > [!quote|no-t]
 > Jeune fils d'une famille de nobles assassinés, Gilgas recherche sa soeur enlevée dans les environs de [[Padhiver|Neverwinter]]. Il est déterminé à obtenir justice sans abandonner la veuve, l'orphelin et les pièces d'or sur son chemin.
+> Son périple le mena jusqu'à Phandaline, où il exerça pendant quelques jours en tant qu'aventurier. Avec ses nouveaux compagnons, il mit au jour un complot impliquant un mage drow, Nezznar l'Araignée Noire, qui cherchait à retrouver et s'approprier la Forge des Sorts, ancienne forge magique naine disparue depuis longtemps.
+> Après leur triomphe, le petit groupe d'aventurier reprit la route et finit par atteindre la Porte de Baldur, où ils furent engagés par [[Nox]] pour aider à faire régner l'ordre dans la ville.
+> Malheureusement, depuis la [[Le Jour de la Convergence|Convergence]], lui et ses alliés sont introuvables.
  
 #### marker
 > [!column|flex 3]

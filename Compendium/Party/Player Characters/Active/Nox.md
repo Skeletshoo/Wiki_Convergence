@@ -12,8 +12,8 @@ groupe: "[[Arkhan Bullies]]"
 cover: "/Assets/Images/Party/Arkhan_Bullies/Nox.png"
 ---
 
-###### Nox
-:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Et... oui... C'est bien toi. :FasQuoteRight: | Aliases : Amnir, Léa, Capitaine, Comte Einzbern
+###### Nox, Le Grand Horloger
+:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Mouais. Rien qu'un bon missile ne puisse régler. :FasQuoteRight: | Aliases : Amnir, Léa, Capitaine, Comte Einzbern
 ___
 > [!infobox|no-t right]
 > ![[Nox.png]]
@@ -22,7 +22,7 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :RiToolsFill: Specialist |  `=this.subClass`|
+> | :RiToolsFill: Spécialité |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  `=this.groupe`|
 
