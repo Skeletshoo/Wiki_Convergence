@@ -22,7 +22,7 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :RiSwordFill: Archetype |  `=this.subClass`|
+> | :RiSwordFill: Archétype |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  `=this.groupe`|
 

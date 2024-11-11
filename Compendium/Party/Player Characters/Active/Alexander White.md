@@ -7,13 +7,13 @@ headerLink: "[[Alexander White#Alexander White]]"
 level: "20"
 race: Humain Demi-Dieu
 class: Ensorceleur
-subClass: Ombre
+subClass: Ombres
 groupe: "[[Arkhan Bullies]]"
 cover: /Assets/Images/Party/Arkhan_Bullies/Alexander.png
 ---
 
-###### Alexander White
-:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Il est où mon fils :FasQuoteRight:
+###### Alexander White, Le Sombre Voyageur
+:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Qu'il vienne. Il va goûter à ma Flèche de Sombrume, ça va lui faire tout drôle. :FasQuoteRight:
 ___
 > [!infobox|no-t right]
 > ![[Alexander.png]]
@@ -22,7 +22,7 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasHandSparkles: Origin |  `=this.subClass`|
+> | :FasHandSparkles: Origine |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  `=this.groupe`|
 

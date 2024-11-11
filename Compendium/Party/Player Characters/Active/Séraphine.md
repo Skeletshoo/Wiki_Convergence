@@ -6,14 +6,14 @@ tags:
 headerLink: "[[Séraphine#Séraphine]]"
 level: "20"
 race: "Halfeline Archidiablesse"
-class: "Roublarde 18 | Cartomancienne 2"
-subClass: "Assassine | Collectionneuse"
+class: "Roublarde 18 / Cartomancienne 2"
+subClass: "Assassine / Collectionneuse"
 groupe: "[[Arkhan Bullies]]"
 cover: "/Assets/Images/Party/Arkhan_Bullies/Seraphine.png"
 ---
 
-###### Séraphine
-:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Nyaverne :FasQuoteRight: | Aliases : Séraphine "Atraxia" Rosebonbon
+###### Séraphine Rosebonbon, La Diablesse Rose
+:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Mais Viggo, tu as un couteau dans les côtes ! :FasQuoteRight: | Aliases : Atraxia
 ___
 > [!infobox|no-t right]
 > ![[Seraphine.png]]
@@ -22,7 +22,7 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :FasCircleQuestion: Archétype / Style |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  `=this.groupe`|
 
