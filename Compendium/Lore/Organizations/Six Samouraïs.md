@@ -12,7 +12,7 @@ headerLink: "[[Six Samouraïs#Six Samouraïs]]"
 ___
 
 > [!quote|no-t]
->![[SixSamourais.png|right wm-sm]]Les Six Samouraïs sont un groupe de héros célèbres en [[Kara-Tur]] pour avoir sauvé l’un des panthéon locaux, la Bureaucratie Céleste d’un complot de grande envergure visant à créer un nouveau dieu. Pour leurs services rendus, les membres du groupe ont été inscrits dans les légendes du continent par l’Empereur de Jade lui-même. Ainsi, de nombreux habitants du continents connaissent le groupe presque comme par magie, sans que leurs noms précis n’aient jamais été que des suppositions. Les Six Samouraïs sont actuellement séparés.
+>![[SixSamourais.png|right wm-sm]]Les Six Samouraïs sont un groupe de héros célèbres en [[Kara-Tur]] pour avoir sauvé l’un des panthéon locaux, la Bureaucratie Céleste d’un complot de grande envergure visant à créer un nouveau dieu. Pour leurs services rendus, les membres du groupe ont été inscrits dans les légendes du continent par l’Empereur de Jade lui-même. Ainsi, de nombreux habitants du continents connaissent le groupe presque comme par magie, sans que leurs noms précis n’aient jamais été que des suppositions. Les membres du groupe sont actuellement séparés et vaquent à leurs occupation autour du globe, mais nul doute qu'ils reprendront du service si Toril se trouvait à nouveau en danger.
 
 #### marker
 > [!column|flex 3]
