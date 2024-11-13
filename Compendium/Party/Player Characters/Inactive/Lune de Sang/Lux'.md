@@ -25,6 +25,9 @@ ___
 > | :RiSwordFill: Archetype |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  `=this.groupe`|
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Les origines mystérieuses de Lux' ne sont même pas connu de ses compagnons. Drow ayant une affinité avec la manipulation sanguine, il surine ses ennemis pour se renforcer. Toujours prêt à faire une mauvaise blague, souvent au détriment de [[Wesmyre]], il n'en reste pas moins un ami sur lequel cette dernière peut compter. Au cours de leur démantèlement d'un culte de [[Bhaal]] saccrifiant des humains pour ressuciter leur maitre, sa discrétion naturelle aida grandement à sauver les ôtages, et à amener un peu de chaos dans les bases bien propre de leurs ennemis

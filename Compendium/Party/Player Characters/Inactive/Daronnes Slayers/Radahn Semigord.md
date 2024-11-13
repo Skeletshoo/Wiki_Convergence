@@ -7,7 +7,7 @@ headerLink: "[[Radahn Semigord#Radahn Semigord]]"
 level: "5"
 race: "Nain"
 class: "Clerc"
-subClass: "Domaine de la Vie"
+subClass: "Vie"
 cover: "/Assets/Images/Party/Daronne_Slayers/Radahn.png"
 ---
 
@@ -21,9 +21,12 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :FasLandmark: Domaine |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[Daronnes Slayers]] |
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Soigneur du groupe, Radahn incarne tout l'amour des nains pour la nourriture et le combat. Fier et revenchard, il n'hésite pas à clamer la grandeur de son peuple et à croquer tout ce qui ressemble de près ou de loin à de la nourriture.

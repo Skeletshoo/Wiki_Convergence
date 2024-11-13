@@ -7,7 +7,7 @@ headerLink: "[[Nyx#Nyx]]"
 level: "11"
 race: "Gnomide"
 class: "Druide"
-subClass: "Cercle des Étoiles"
+subClass: "Étoiles"
 groupe: "[[Noyhetisier]]"
 cover: "/Assets/Images/Party/Noyhetisier/Nyx.png"
 ---
@@ -25,6 +25,9 @@ ___
 > | :FasMoon: Circle |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  `=this.groupe`|
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | Perdue dans le temps |
 
 > [!quote|no-t]
 >Description à ajouter.

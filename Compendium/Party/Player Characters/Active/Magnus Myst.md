@@ -25,6 +25,9 @@ ___
 > | :FasCircleQuestion: Domaine / Archétype |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  `=this.groupe`|
+> |  :LiCalendarClock: Âge | 147 ans |
+> |  :LiCalendar: Anniversaire | 14 Martel |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Ayant rejoint le plan matériel très jeune, Magnus cache sa nature de Shadar-Kai à l'aide d'un anneau rendant la majorité de son anatomie rose. Il a grandit en [[Cormyr]], avant de partir pour rendre sa famille fière. Cela a été loin d'une réussite, vu qu'il s'est retrouvé dans le [[Cirque De la Brume]] et s'est [[Ilphas|fiancé]].

@@ -7,7 +7,7 @@ headerLink: "[[Eidelinn Tishana#Eidelinn Tishana]]"
 level: "13"
 race: "Changelin"
 class: "Barde"
-subClass: "College of Glamour"
+subClass: "Séduction"
 groupe: "[[Hexaforce]]"
 cover: "/Assets/Images/Party/Hexaforce/Linn/Eidelinn_cha.png"
 ---
@@ -22,9 +22,12 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :FasMusic: Collège |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  `=this.groupe`|
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Changeline ayant perdu contact avec son frère, [[Théryon Tishana|Théryon]], elle le chercha pendant de longues années. Barde de profession, un démon se logea en elle, nourrit par ses inquiétudes et sa rancoeur. Impliquée bien malgré elle dans le complot de Baldur, Linn aida énormément le groupe grâce à ses sorts de charmes particulièrement puissants. Cependant, lorsque ses craintes ressurgissent, le démon prend le contrôle et Linn devient bien plus aggressive et puissante. C'est à la [[Citadelle Sanglante]], alors que leur quête touchait à sa fin, que la nature démoniaque de Linn quitta son corps pour prendre une forme physique, forcée par une barrière anti-fiélon. Affrontant son autre elle, Linn finit par se débarasser entièrement de ce parasite, retrouvant enfin un peu de paix intérieure. Elle retrouvera son frère peu après, aux prises avec une malédiction, dont elle le libérera. À sa sortie des enfers, elle quittera ses compagnons pour se retirer tranquillement à [[Vonholme]], avec son frère, pour couler des jours plus paisibles.

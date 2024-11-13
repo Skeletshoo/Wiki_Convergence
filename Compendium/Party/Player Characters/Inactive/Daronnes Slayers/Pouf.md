@@ -24,6 +24,9 @@ ___
 > | :FasCircleQuestion: Sub Class |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[Daronnes Slayers]] |
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Autrefois gobelin harcelé par ses pairs, aujourd'hui servant de baliste, Pouf est la mascotte toute désignée du groupe. Adopté par les [[Daronnes Slayers]], il semble beaucoup plus apprécier la vie avec une arme de siège entre les mains.

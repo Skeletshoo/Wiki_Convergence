@@ -19,7 +19,14 @@ ___
 > | ---- | ---- |
 > | :FasBriefcase: Occupation |  Éclaireuse |
 > | :FasVenusMars: Genre | Féminin |
+> | :FasCrown: Niveau   | 12 |
+> | :RiSwordFill: Classe |  Animiste |
+> | :FasCircleQuestion: Technique |  Marionnettiste|
 > | :FasUser: Race | Eladrin |
+> |  :LiSwords: Groupe |  Aucun|
+> |  :LiCalendarClock: Âge | 59 ans |
+> |  :LiCalendar: Anniversaire | 26 Uktar |
+> | :LiActivity: Statut | En vie |
 <span class="clearfix"></span>
 
 > [!quote|no-t]

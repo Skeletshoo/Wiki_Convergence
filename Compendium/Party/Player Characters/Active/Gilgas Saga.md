@@ -24,6 +24,9 @@ ___
 > | :RiSwordFill: Archétype |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[Daronnes Slayers]] |
+> |  :LiCalendarClock: Âge | 29 ans |
+> |  :LiCalendar: Anniversaire | 10 Flammerige |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Jeune fils d'une famille de nobles assassinés, Gilgas recherche sa soeur enlevée dans les environs de [[Padhiver|Neverwinter]]. Il est déterminé à obtenir justice sans abandonner la veuve, l'orphelin et les pièces d'or sur son chemin.

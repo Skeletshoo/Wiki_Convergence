@@ -7,7 +7,7 @@ headerLink: "[[Coco Dille#Coco Dille]]"
 level: "4"
 race: "Kenku"
 class: "Druide"
-subClass: "Cercle du Berger"
+subClass: "Berger"
 cover: "/Assets/Images/Party/Saltombanques/cocodille.png"
 ---
 
@@ -21,9 +21,12 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :FasMoon: Cercle |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[Saltombanques]] |
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Petit kenku sur l'épaule de [[Citrouille]], grosse cape dont seulement une dague ou un bec dépassent.

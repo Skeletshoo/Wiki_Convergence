@@ -25,6 +25,9 @@ ___
 > | :FasCircleQuestion: Archétype / Style |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  `=this.groupe`|
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Principale raison de la formation du groupe, Séraphine a la facheuse tendance de régler les problèmes par un coup de couteau dans les côtes. Et il semblerait que sa chance légendaire lui permette d'esquiver à chaque fois les conséquences de ses actes. Bien qu'elle ait parfois cherché à faire cavalier seul, elle reste attachée au groupe, comme à la protection des orphelins de la [[Porte de Baldur]]. Bien que ses ennemis pensent le contraire avant de mourir, Séraphine n'est donc pas un diable ou un démon et cherche avant tout le frisson de l'aventure.

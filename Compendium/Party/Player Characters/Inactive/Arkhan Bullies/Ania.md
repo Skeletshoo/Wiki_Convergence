@@ -25,6 +25,9 @@ ___
 > | :FasBurst: Patron |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  `=this.groupe`|
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 > | :FasUserGroup: Relations|  |
 > | Ceidil | Mère, Bonne |
 > | Laucian Galanodel | Père, Bonne |

@@ -24,6 +24,9 @@ ___
 > | :RiSwordFill: Archétype |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[PNG]] |
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Noble descendu de [[Padhiver|Neverwinter]] pour le bien commun, il aide la communauté à grand coup de hache à deux mains. Peu patient, il est plus enclin à enfoncer une porte qu'à la crocheter, où à attendre qu'on viennent ouvrir...

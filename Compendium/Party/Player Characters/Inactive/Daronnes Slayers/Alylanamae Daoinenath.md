@@ -6,7 +6,7 @@ tags:
 headerLink: "[[Alylanamae Daoinenath#Alylanamae Daoinenath]]"
 level: "5"
 race: "Haute-Elfe"
-class: "Magnicienne"
+class: "Magicienne"
 subClass: "Évocatrice"
 cover: "/Assets/Images/Party/Daronne_Slayers/Alylanamae.png"
 ---
@@ -21,9 +21,12 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :FasBook: Tradition |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[Daronnes Slayers]] |
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Les années d'études magiques d'Alyla semblent avoir autant affiné sa puissance magique que ses étranges coutumes. Car bien que la belle elfe recherche surtout de nouveaux sorts à ajouter à sa collection, ses adversaires se rappellent surtout de la torture psychologique subie en cas de refus de la contenter.

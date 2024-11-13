@@ -53,6 +53,18 @@
             }
           },
           {
+            "id": "87b34b8025bdc024",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
             "id": "d7517b913195c8db",
             "type": "leaf",
             "state": {
@@ -74,7 +86,7 @@
               "type": "markdown",
               "state": {
                 "file": "INDEX.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
@@ -83,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -224,49 +236,49 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4082df8e64cf1dac",
+  "active": "3f03ee4b1fd3f2a3",
   "lastOpenFiles": [
-    "Compendium/NPC's/Himiko Tenrei.md",
-    "Compendium/NPC's/Suleiman Al-Ghazi.md",
+    "Compendium/Party/Player Characters/Inactive/Saltombanques/Pedro Skeleto.md",
+    "Compendium/Party/Player Characters/Inactive/Saltombanques/Luc Six-Fers.md",
+    "Compendium/Party/Player Characters/Inactive/Saltombanques/Émile Ferron.md",
+    "Compendium/Party/Player Characters/Inactive/Saltombanques/Coco Dille.md",
+    "Compendium/Party/Player Characters/Inactive/Saltombanques/Citrouille.md",
+    "Compendium/Party/Player Characters/Inactive/Saltombanques/Al Owin.md",
+    "Compendium/Party/Player Characters/Inactive/PNG/Varis Liadon.md",
+    "Compendium/Party/Player Characters/Inactive/Daronnes Slayers/Alylanamae Daoinenath.md",
+    "Compendium/Party/Player Characters/Inactive/PNG/Ormuk Armaniel.md",
+    "Compendium/Party/Player Characters/Inactive/PNG/Aldadin Rochtal.md",
+    "Compendium/Party/Player Characters/Inactive/Noyhetisier/Aukan Le Vertueux.md",
+    "Compendium/Party/Player Characters/Inactive/Noyhetisier/Liodan.md",
+    "Compendium/Party/Player Characters/Inactive/Noyhetisier/Nyx.md",
+    "Compendium/Party/Player Characters/Inactive/Guildes de Sorcelume/Leonhard Breginton.md",
+    "Compendium/Party/Player Characters/Inactive/Lune de Sang/Wesmyre.md",
+    "Compendium/Party/Player Characters/Inactive/Lune de Sang/Lux'.md",
+    "Compendium/Party/Player Characters/Inactive/Lune de Sang/Luther.md",
+    "Compendium/Party/Player Characters/Inactive/Hexaforce_Pintaforce/Hogarth Kontsonkan.md",
+    "Compendium/Party/Player Characters/Inactive/Hexaforce_Pintaforce/Eidelinn Tishana.md",
+    "Compendium/Party/Player Characters/Inactive/Hexaforce_Pintaforce/Grimm.md",
     "Compendium/Party/Player Characters/Active/Nox.md",
-    "Compendium/Atlas/Plan Matériel/Toril/Zakhara/Zakhara.md",
-    "INDEX.md",
-    "Compendium/Lore/Organizations/Six Samouraïs.md",
-    "Compendium/Party/Player Characters/Active/Alexander White.md",
-    "Compendium/NPC's/Parents et Familles de PJ/Sudeiman.md",
-    "Compendium/NPC's/Porte de Baldur/La Guilde/Thernis Aoir.md",
-    "Compendium/Party/Player Characters/Active/Lulu.md",
-    "Compendium/Atlas/Plan Matériel/Toril/Faerûn/Faerûn.md",
-    "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Calliope.md",
-    "Compendium/Party/Player Characters/temp.md",
+    "Compendium/Party/Player Characters/Active/Gilgas Saga.md",
+    "Compendium/Party/Player Characters/Inactive/Hexaforce_Pintaforce/Edarsjach Dentranchante.md",
+    "Compendium/Party/Player Characters/Inactive/Guildes de Sorcelume/The Hand.md",
+    "Compendium/Party/Player Characters/Inactive/Guildes de Sorcelume/Silas.md",
+    "Compendium/Party/Player Characters/Inactive/Guildes de Sorcelume/Père Vicar.md",
+    "Assets/Images/Party/liv.png",
     "Assets/Images/Location/Zakhara/Zakhara.jpg",
     "Assets/Images/Location/Zakhara/Akhara.jpg",
     "Assets/Images/Location/Zakhara/be01eebb80f967a4e151071c47299ac7.jpg",
     "Assets/Images/Location/Zakhara",
     "Assets/Images/Location/New folder",
     "Compendium/Atlas/Plan Matériel/Toril/Zakhara",
-    "Compendium/Party/Player Characters/Active/Magnus Myst.md",
-    "Compendium/Lore/Organizations/Groupes et Guildes d'Aventuriers/Hexaforce.md",
     "Assets/Images/Lore/Organisations/SixSamourais.png",
-    "Compendium/Lore/Organizations/Conseil des Quatres.md",
-    "Compendium/Atlas/Plan Matériel/Toril/Kara-Tur/Kara-Tur.md",
     "Assets/Images/Location/KaraTur/KaraTur.jpg",
     "Assets/Images/Location/KaraTur/add9cb86af514697c1c5c3f48b9d4058.jpg",
     "Assets/Images/Location/KaraTur",
     "Compendium/Atlas/Plan Matériel/Toril/Kara-Tur",
-    "Compendium/Party/Player Characters/Active/Séraphine.md",
-    "Compendium/NPC's/Mont Céleste/Burney.md",
-    "Compendium/NPC's/Mont Céleste/Archange Zariel.md",
-    "Compendium/Atlas/Plan Matériel/Toril/Faerûn/Les 10 Cités/Les 10 Cités.md",
-    "Compendium/Atlas/Plan Matériel/Toril/Faerûn/Marches d'Argent/Marches d'Argent.md",
-    "Compendium/Lore/Objects/Main du Maître de Stage.md",
-    "Compendium/Lore/Objects/Make-It-Shine.md",
-    "Compendium/Lore/Objects/Tortionnaire.md",
-    "Compendium/Lore/Objects/Dévoreuse de Temples.md",
     "Assets/Images/Notes/doodle_convergence_session_01.png",
     "Assets/Images/NPC/Ennemis/Cryovain.webp",
     "Assets/Images/NPC/Ennemis/Essentials_Kit_key_art.webp",
-    "Assets/Images/NPC/Ennemis/cherchepasse_heraut_dhier.png",
     "Assets/Images/NPC/Ennemis",
     "Assets/Images/NPC/Nouveau dossier",
     "Compendium/NPC's/Ennemis",

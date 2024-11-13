@@ -25,6 +25,12 @@ ___
 > | :RiToolsFill: Spécialité |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  `=this.groupe`|
+> |  :LiCalendarClock: Âge | 35 ans |
+> |  :LiCalendar: Anniversaire | Inconnu |
+> | :LiActivity: Statut | En vie |
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 >   Artificier de génie, maître de la pègre de la [[Porte de Baldur]], sauveur d'[[Elturel]], les visages de Nox et ses rôles sont multiples. Lui qui était orphelin est désormais membre d'une grande famille et compte bien tout faire pour la protéger... y compris inventer une quantité de mécaniques plus dangereuses les unes que les autres.

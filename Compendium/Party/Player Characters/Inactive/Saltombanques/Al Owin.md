@@ -7,7 +7,7 @@ headerLink: "[[Al Owin#Al Owin]]"
 level: "5"
 race: "Humain normal"
 class: "Paladin 3 | Maître de Guilde 2"
-subClass: "Serment de Dévotion"
+subClass: "Dévotion"
 cover: "/Assets/Images/Party/Portrait.jpg"
 ---
 
@@ -21,9 +21,12 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :FasChessKing: Serment |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[Saltombanques]] |
+> |  :LiCalendarClock: Âge | 37 ans |
+> |  :LiCalendar: Anniversaire | 30 Nuiteuse |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Humain, Vampire Foire-fouille, Maître de la Guilde des [[Saltombanques]]

@@ -7,7 +7,7 @@ headerLink: "[[Père Vicar#Père Vicar]]"
 level: "5"
 race: "Squelette Éveillé"
 class: "Clerc"
-subClass: "Domaine de la Mort"
+subClass: "Mort"
 cover: "/Assets/Images/Party/portrait.jpg"
 ---
 
@@ -21,9 +21,12 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :FasLandmark: Domaine |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[Guildes de Sorcelume]] |
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Texte
