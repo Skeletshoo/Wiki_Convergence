@@ -36,9 +36,69 @@
               "icon": "lucide-file",
               "title": "Réseau Héliades"
             }
+          },
+          {
+            "id": "84615156e0c3ea1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INDEX.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "INDEX"
+            }
+          },
+          {
+            "id": "8f55c981007446a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INDEX.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "INDEX"
+            }
+          },
+          {
+            "id": "c383d79d41668a10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/Lore/Organizations/Bureaucratie Céleste.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Bureaucratie Céleste"
+            }
+          },
+          {
+            "id": "10da824c13d0198f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/Atlas/Plan Matériel/Toril/Faerûn/Péninsule de Chult/Péninsule de Chult.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Péninsule de Chult"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,19 +239,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3f03ee4b1fd3f2a3",
+  "active": "84615156e0c3ea1a",
   "lastOpenFiles": [
-    "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Galatée.md",
     "Compendium/Lore/Organizations/Réseau Héliades.md",
+    "Compendium/Lore/Organizations/Six Samouraïs.md",
+    "INDEX.md",
+    "Compendium/Lore/Organizations/Bureaucratie Céleste.md",
+    "Compendium/Atlas/Plan Matériel/Toril/Faerûn/Péninsule de Chult/Péninsule de Chult.md",
+    "Assets/Images/Lore/Organisations/Bureaucratie.jpg",
+    "Assets/Images/Lore/Bureaucratie.jpg",
+    "Assets/Images/Bureaucratie.jpg",
+    "Assets/Images/Location/Chult/Bureaucratie.jpg",
+    "Assets/Images/Location/Chult/cf89382710e3eb9cc396c099583892b8.jpg",
+    "Chult.md",
+    "Compendium/NPC's/Suleiman Al-Ghazi.md",
+    "Compendium/Atlas/Plan Matériel/Toril/Faerûn/Péninsule de Chult/Port Nyanzaru/Port Nyanzaru.md",
+    "Assets/Images/Location/Chult/Nyanzaru.webp",
+    "Compendium/Atlas/Plan Matériel/Toril/Faerûn/Péninsule de Chult/Port Nyanzaru",
+    "Assets/Images/Location/Chult/JunglesChultimg.webp",
+    "Assets/Images/Location/Chult/JunglesChult.webp",
+    "Assets/Images/Location/Chult",
+    "Assets/Images/Location/New folder",
+    "Compendium/Atlas/Plan Matériel/Toril/Faerûn/Péninsule de Chult",
+    "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Galatée.md",
     "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Lampade.md",
     "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Lotis.md",
     "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Métis.md",
     "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Himalia.md",
     "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Calypso.md",
     "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Calliope.md",
-    "INDEX.md",
     "Compendium/Party/Player Characters/Active/Nox.md",
-    "Compendium/Lore/Organizations/Six Samouraïs.md",
     "Compendium/Party/Player Characters/Inactive/Saltombanques/Pedro Skeleto.md",
     "Compendium/NPC's/Himiko Tenrei.md",
     "Compendium/Atlas/Plan Matériel/Toril/Faerûn/La Côte des Épées/Porte de Baldur/Porte de Baldur.md",
@@ -202,30 +279,12 @@
     "Compendium/Party/Player Characters/Active/Séraphine Rosebonbon.md",
     "Compendium/Party/Player Characters/Active/Liv.md",
     "Assets/Templates/REFRESH.md",
-    "Compendium/NPC's/Suleiman Al-Ghazi.md",
-    "Compendium/Party/Player Characters/Inactive/Saltombanques/Luc Six-Fers.md",
-    "Compendium/Party/Player Characters/Inactive/Saltombanques/Émile Ferron.md",
-    "Compendium/Party/Player Characters/Inactive/Saltombanques/Coco Dille.md",
-    "Compendium/Party/Player Characters/Inactive/Saltombanques/Al Owin.md",
-    "Compendium/Party/Player Characters/Inactive/PNG/Varis Liadon.md",
     "Assets/Images/Party/liv.png",
-    "Assets/Images/Location/Zakhara/Zakhara.jpg",
-    "Assets/Images/Location/Zakhara/Akhara.jpg",
-    "Assets/Images/Location/Zakhara/be01eebb80f967a4e151071c47299ac7.jpg",
     "Assets/Images/Location/Zakhara",
-    "Assets/Images/Location/New folder",
     "Compendium/Atlas/Plan Matériel/Toril/Zakhara",
-    "Assets/Images/Lore/Organisations/SixSamourais.png",
-    "Assets/Images/Location/KaraTur/KaraTur.jpg",
-    "Assets/Images/Location/KaraTur/add9cb86af514697c1c5c3f48b9d4058.jpg",
     "Assets/Images/Location/KaraTur",
     "Compendium/Atlas/Plan Matériel/Toril/Kara-Tur",
-    "Assets/Images/Notes/doodle_convergence_session_01.png",
-    "Assets/Images/NPC/Ennemis/Cryovain.webp",
     "Assets/Images/NPC/Ennemis",
-    "Assets/Images/NPC/Nouveau dossier",
-    "Compendium/NPC's/Ennemis",
-    "Assets/Images/Notes",
-    "Assets/Images/New folder"
+    "Assets/Images/NPC/Nouveau dossier"
   ]
 }
