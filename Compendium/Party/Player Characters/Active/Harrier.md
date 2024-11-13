@@ -3,7 +3,7 @@ type: pc
 tags:
  - class/roublard
  - race/demiElfe
-headerLink: "[[Harrier#Harrier]]"
+headerLink: "[[Harrier von Kessler#Harrier von Kessler]]"
 level: "17"
 race: "Demi-Elfe"
 class: "Roublard"

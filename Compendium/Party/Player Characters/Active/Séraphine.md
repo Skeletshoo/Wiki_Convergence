@@ -3,7 +3,7 @@ type: pc
 tags:
  - class/roublarde18|Cartomancienne2
  - race/halfelineArchidiablesse
-headerLink: "[[Séraphine#Séraphine]]"
+headerLink: "[[Séraphine Rosebonbon#Séraphine Rosebonbon]]"
 level: "20"
 race: "Halfeline Archidiablesse"
 class: "Roublarde 18 / Cartomancienne 2"
