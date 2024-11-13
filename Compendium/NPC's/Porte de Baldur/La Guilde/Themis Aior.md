@@ -1,14 +1,14 @@
 ---
 type: npc
 locations:
- - "[[Porte de Baldur]]"
+  - "[[Porte de Baldur]]"
 tags:
- - affinity/friendly
- - job/caïD
- - race/?
-headerLink: "[[Thernis Aoir#Thernis Aoir]]"
+  - affinity/friendly
+  - job/caïD
+  - race/?
+headerLink: "[[Themis Aior#Thernis Aoir]]"
 ---
-###### Thernis Aoir
+###### Themis Aior
 <span class="sub2">:FasMapLocationDot: [[Porte de Baldur#Porte de Baldur]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
 ___
 
