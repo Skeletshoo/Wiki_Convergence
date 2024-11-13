@@ -11,15 +11,17 @@
             "id": "ab6aa70ebc240009",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Compendium/Party/Player Characters/Inactive/Saltombanques/Pedro Skeleto.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "file": "Compendium/Lore/Events/Timeline_La_Convergence.canvas",
+                "viewState": {
+                  "x": -2710.25196609085,
+                  "y": 2408.5245749522123,
+                  "zoom": -2.6119553182447675
+                }
               },
-              "icon": "lucide-file",
-              "title": "Pedro Skeleto"
+              "icon": "lucide-layout-dashboard",
+              "title": "Timeline_La_Convergence"
             }
           },
           {
@@ -232,11 +234,25 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "modalforms:Edit forms": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "canvas:Create new canvas": false
     }
   },
   "active": "ab6aa70ebc240009",
   "lastOpenFiles": [
+    "Compendium/Lore/Events/Timeline_AB_H.canvas",
+    "Compendium/Lore/Events/Timeline_La_Convergence.canvas",
+    "Assets/Images/Token_Timeline/token_bienfaiteur_occulaire.png",
+    "Assets/Images/Token_Timeline/token_aine.png",
+    "Assets/Images/Token_Timeline/token_seraphine.png",
+    "Assets/Images/Token_Timeline/token_nox.png",
+    "Assets/Images/Token_Timeline/token_alexander.png",
+    "Assets/Images/Token_Timeline/token_magnus.png",
+    "Assets/Images/Token_Timeline/token_lulu.png",
+    "Assets/Images/Token_Timeline/token_harrier.png",
+    "Assets/Images/Token_Timeline",
+    "Assets/Images/New folder",
+    "Compendium/Party/Player Characters/Inactive/Saltombanques/Pedro Skeleto.md",
     "Compendium/Party/Player Characters/Inactive/Saltombanques/Luc Six-Fers.md",
     "Compendium/Party/Player Characters/Inactive/Saltombanques/Émile Ferron.md",
     "Compendium/Party/Player Characters/Inactive/Saltombanques/Coco Dille.md",
@@ -261,27 +277,15 @@
     "Compendium/Party/Player Characters/Inactive/Arkhan Bullies/Viggo.md",
     "Compendium/Party/Player Characters/Inactive/Arkhan Bullies/Ania.md",
     "Compendium/Party/Player Characters/Active/Séraphine Rosebonbon.md",
-    "Compendium/Party/Player Characters/Active/Nox.md",
-    "Compendium/Party/Player Characters/Active/Magnus Myst.md",
     "Assets/Images/Party/liv.png",
     "Assets/Images/Location/Zakhara/Zakhara.jpg",
-    "Assets/Images/Location/Zakhara/Akhara.jpg",
-    "Assets/Images/Location/Zakhara/be01eebb80f967a4e151071c47299ac7.jpg",
     "Assets/Images/Location/Zakhara",
     "Assets/Images/Location/New folder",
     "Compendium/Atlas/Plan Matériel/Toril/Zakhara",
-    "Assets/Images/Lore/Organisations/SixSamourais.png",
-    "Assets/Images/Location/KaraTur/KaraTur.jpg",
-    "Assets/Images/Location/KaraTur/add9cb86af514697c1c5c3f48b9d4058.jpg",
     "Assets/Images/Location/KaraTur",
     "Compendium/Atlas/Plan Matériel/Toril/Kara-Tur",
-    "Assets/Images/Notes/doodle_convergence_session_01.png",
-    "Assets/Images/NPC/Ennemis/Cryovain.webp",
-    "Assets/Images/NPC/Ennemis/Essentials_Kit_key_art.webp",
     "Assets/Images/NPC/Ennemis",
     "Assets/Images/NPC/Nouveau dossier",
-    "Compendium/NPC's/Ennemis",
-    "Assets/Images/Notes",
-    "Assets/Images/New folder"
+    "Compendium/NPC's/Ennemis"
   ]
 }
