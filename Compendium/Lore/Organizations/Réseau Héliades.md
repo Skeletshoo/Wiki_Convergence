@@ -12,7 +12,8 @@ headerLink: "[[Réseau Héliades#Réseau Héliades]]"
 ___
 
 > [!quote|no-t]
->![[embed.jpg|right wm-sm]]Fait partie de la [[Grande Alliance de Défense de Toril]]
+>![[HeliadesNetwork.png|right wm-sm]]
+>Secrètement créé par le [[Nox|Grand Horloger]], le réseau des Héliades ou Réseau Héliades est une organisation semi-secrète qui réunit un groupe d’homoncules basés à la [[Porte de Baldur]]. Autonomes et discrets, ses membres assurent la gestion des affaires de leur créateur en son absence. Disposant d’un réseau télépathique uni capable de dépasser les frontières des mondes, leurs relations touchent directement à [[La Guilde]], au Parlement des Pairs ou au [[Conseil des Quatres]] qui soutient certaines de leurs activités légales.
 
 #### marker
 > [!column|flex 3]
