@@ -24,8 +24,8 @@ ___
 > | :FasBook: Tradition |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[PNG]] |
-> |  :LiCalendarClock: Âge | - |
-> |  :LiCalendar: Anniversaire | - |
+> |  :LiCalendarClock: Âge | 19 ans |
+> |  :LiCalendar: Anniversaire | 25 Alturiak |
 > | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]

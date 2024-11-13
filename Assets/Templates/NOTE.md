@@ -75,12 +75,12 @@ ___
 >> - [[Characters]] 
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Àine Korgan]]
->> - [[Harrier]]
+>> - [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Magnus Myst]]
 >> - [[Lulu]]
 >> - [[Alexander White]]
->> - [[Séraphine]]
+>> - [[Compendium/Party/Player Characters/Active/Séraphine Rosebonbon]]
 >> - [[Nox]]
 >
 >> [!example|flex] LIEUX:

@@ -17,7 +17,7 @@ ___
 >- 💡 Piste 1 : Tarina. Trouvée au Chant de L’Elfe. Refuse de parler on doit la protéger de ses camarades pirates.(Chant elfique non habituel /!\)
 >- Pirate arrivent.  ⚔️ 3 pirates tué☠️, Edarsjach down 🦴. Eideline -> Négociation -> Apaiser les pirates en détroussant Tarina.
 >- 💡 Piste 2 : Quartier Nord, recherche par Hogarth -> Bain publiques. Normal à premier coup d’oeil, persuasion masseuse -> passage secret salle nord!
->- [[Harrier]]
+>- [[Harrier Von Kessler]]
 
 #### marker
 > [!column|flex 3]
@@ -27,8 +27,8 @@ ___
 >> - [[Jean Pipi]]
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Àine Korgan]]
->> - [[Harrier]]
+>> - [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Eidelinn Tishana]]
 >> - [[Magnus Myst]]
 >> - [[Edarsjach Dentranchante]]

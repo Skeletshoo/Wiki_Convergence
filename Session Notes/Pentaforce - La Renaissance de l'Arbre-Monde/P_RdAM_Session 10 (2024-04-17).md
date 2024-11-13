@@ -25,8 +25,8 @@ ___
 > > - Le Dragon (pet de [[Cassandre]]) a été tué par Edarsjach
 > > - Le Squelette et le Goliath ont été tué par Occam (?) (Non je ne me souvient pas de ce que ça veut dire)
 > > - [[Qina]] a été tué par [[Archange Zariel]]
-> > - [[Cassandre]] a été tué par [[Àine Korgan|Àine]]
-> > - [[Jolmond]] a été tué par [[Harrier]] et [[Magnus Myst|Magnus ]]
+> > - [[Cassandre]] a été tué par [[Áine Korgan|Àine]]
+> > - [[Jolmond]] a été tué par [[Harrier Von Kessler]] et [[Magnus Myst|Magnus ]]
 > Beaucoup de loot a été obtenu! Jv pas tout noter! Hihi! 
 
 #### marker
@@ -39,8 +39,8 @@ ___
 >> - [[Jolmond]]
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Àine Korgan]]
->> - [[Harrier]]
+>> - [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Magnus Myst]]
 >> - [[Edarsjach Dentranchante]]
 >> - [[Lulu]]

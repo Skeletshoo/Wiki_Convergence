@@ -31,10 +31,10 @@ ___
 >>
 >>> [!tip] Hors de notre plan (Nécessite l'Arbre-Monde)
 >>> - *J'aimerai bien retrouver la véritable [[Edarsjach Dentranchante|Edarsjach]]. Pour m'assurer qu'elle n'ait aucun problème...* - ***[[Lulu]]***
->>> - *Si on arrive à convaincre [[Titania]] de la gravité de la menace, elle contactera peut être la [[Seldarine]], et ils refusent rarement de lui prêter leurs forces. D'autant plus qu'on est en bon termes avec [[Séluné|Archelune]].* - ***[[Àine Korgan|Àine]]***
->>> - *Si on arrive à retourner en Féérie, d'une façon ou d'une autre, je peux aussi tenter de convaincre une de nos [[Aisling|occultistes spécialisés]] en stratégie de venir avec nous.* - ***[[Àine Korgan|Àine]]***
->>> - *On pourra en rediscuter apres notre mission a port nyanzaru ([[Cania]]) mais avoir notre bateau volant accélèrera considerablement toutes nos operations sur le plan matériel.* - ***[[Séraphine]]***
->>> - *Peut-être que [[Cylana]] sait quelque chose ? En tous cas, ce n'est pas une mauvaise idée de faire alliance avec les [[Chasseurs d'Arborée]].* - ***[[Àine Korgan|Àine]]***
+>>> - *Si on arrive à convaincre [[Titania]] de la gravité de la menace, elle contactera peut être la [[Seldarine]], et ils refusent rarement de lui prêter leurs forces. D'autant plus qu'on est en bon termes avec [[Séluné|Archelune]].* - ***[[Áine Korgan|Àine]]***
+>>> - *Si on arrive à retourner en Féérie, d'une façon ou d'une autre, je peux aussi tenter de convaincre une de nos [[Aisling|occultistes spécialisés]] en stratégie de venir avec nous.* - ***[[Áine Korgan|Àine]]***
+>>> - *On pourra en rediscuter apres notre mission a port nyanzaru ([[Cania]]) mais avoir notre bateau volant accélèrera considerablement toutes nos operations sur le plan matériel.* - ***[[Compendium/Party/Player Characters/Active/Séraphine Rosebonbon]]***
+>>> - *Peut-être que [[Cylana]] sait quelque chose ? En tous cas, ce n'est pas une mauvaise idée de faire alliance avec les [[Chasseurs d'Arborée]].* - ***[[Áine Korgan|Àine]]***
 >>> - *La [[Reine Corneille]] peut-être ?* - ***[[Alexander White|Alexander]]***
 >>> - *Choper tout la troupe du [[Mont Céleste]] est une bonne idée.*
 
@@ -42,12 +42,12 @@ ___
 > [!column|flex 3]
 > > [!note]- HÉROS
 > >- [[Lulu]]
-> >- [[Àine Korgan]]
->> - [[Harrier]]
+> >- [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Magnus Myst]]
 >> - [[Nox]]
 >> - [[Alexander White]]
->> - [[Séraphine]]
+>> - [[Compendium/Party/Player Characters/Active/Séraphine Rosebonbon]]
 > 
 >>[!note]- HISTOIRE
 >>```dataview

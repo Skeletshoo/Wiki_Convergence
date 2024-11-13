@@ -12,7 +12,7 @@ groupe: "[[Arkhan Bullies]]"
 cover: "/Assets/Images/Party/Arkhan_Bullies/Seraphine.png"
 ---
 
-###### Séraphine Rosebonbon, La Diablesse Rose
+###### Séraphine Rosebonbon
 :FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Mais Viggo, tu as un couteau dans les côtes ! :FasQuoteRight: | Aliases : Atraxia
 ___
 > [!infobox|no-t right]

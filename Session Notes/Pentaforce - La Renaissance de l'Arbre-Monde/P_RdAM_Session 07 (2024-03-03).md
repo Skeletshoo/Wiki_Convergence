@@ -39,8 +39,8 @@ ___
 >> - [[Ceanil Archelune]]
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Àine Korgan]]
->> - [[Harrier]]
+>> - [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Magnus Myst]]
 >
 >> [!example|flex] LIEUX:

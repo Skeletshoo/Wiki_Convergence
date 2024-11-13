@@ -13,11 +13,11 @@ headerLink: "[[H-DeA_Session 13 (2023-06-02)#Personne ne sera laissé derrière|
 ___
 
 > [!quote|no-t] RÉSUMÉ
->- [[Magnus Myst|Magnus]] explique la situation au groupe : [[Harrier]] s’est infiltré dans l’endroit avec un dragon et a finit par se faire choper, ainsi que [[Hogarth Kontsonkan|Hogarth]]
+>- [[Magnus Myst|Magnus]] explique la situation au groupe : [[Harrier Von Kessler]] s’est infiltré dans l’endroit avec un dragon et a finit par se faire choper, ainsi que [[Hogarth Kontsonkan|Hogarth]]
 > - Discussion sur s’il faut aller les aider!
 >> - [[Lulu]] veut les aider!
 >> - Magnus aussi!
->> - [[Àine Korgan|Àine]] accepte, à la condition que Magnus l’amène à l’oracle dont il a parlé pour retrouver son frère
+>> - [[Áine Korgan|Àine]] accepte, à la condition que Magnus l’amène à l’oracle dont il a parlé pour retrouver son frère
 >> - [[Edarsjach Dentranchante|Edarsjach]] accepte d’aider, mais limitera sa participation car elle ne veut pas s’attirer les foudres de [[Tiamat]]
 >> - [[Eidelinn Tishana|Eidelinn]] accepte d’aider à récupérer Hogarth, par contre Harrier est une autre histoire
 > - Etape 1 : Àine utilise un sort pour savoir si les deux sont vivants! Hogarth et Harrier sont en effet vivants, dans une tente jaune au tapis jaune et noir. Ils sont baillonés et tout, mais n’ont pas été dépouillés. Le sort d’Àine est repéré par un Sang-Dragon mais au moins on sait qu’ils ne sont pas dans la tour.
@@ -26,7 +26,7 @@ ___
 > - Il y a la tente jaune! Et 12 d’Abishaï blancs
 > - On réussit à se faire entendre par Arkhan. Il est accompagné d’un Minotaur, [[Torogar]], un tortle, [[Krull]], un Manticore et un Pixie, [[Oìsin Korgan|Oisìn]], le frère d’Àine.
 > - Arkhan n’est pas content et venir ici n’est pas la meilleure idée.
-> - En discutant on réussit à négocier la libération d’Hogarth contre l’[[Orbe de dragon|orbe de dragon]]. Par contre [[Harrier]] a volé un trésor inestimable donc si on veut le libérer, ce sera contre la vie de [[Lulu]].
+> - En discutant on réussit à négocier la libération d’Hogarth contre l’[[Orbe de dragon|orbe de dragon]]. Par contre [[Harrier Von Kessler]] a volé un trésor inestimable donc si on veut le libérer, ce sera contre la vie de [[Lulu]].
 > - Pas question.
 > - Le groupe est reconduit dehors par [[Oìsin Korgan|Oisìn]], Àine tente de demander des explications mais il ne peut pas en donner. [[Oìsin Korgan|Oisìn]] est sous les ordres d’Arkhan et ne veut pas avoir à blesser soeur. C’est aussi un occultiste. 
 > - Breakdown d’Àine avec Eidelinn.
@@ -77,8 +77,8 @@ ___
 >> - [[Torogar]]
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Àine Korgan]]
->> - [[Harrier]]
+>> - [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Eidelinn Tishana]]
 >> - [[Magnus Myst]]
 >> - [[Edarsjach Dentranchante]]

@@ -13,7 +13,7 @@ headerLink: "[[Averne#Averne]]"
 ___
 
 > [!quote|no-t]
->Actuellement, [[Séraphine]] en est l'Archidiablesse.
+>Actuellement, [[Compendium/Party/Player Characters/Active/Séraphine Rosebonbon]] en est l'Archidiablesse.
 
 #### marker
 > [!column|flex 3]

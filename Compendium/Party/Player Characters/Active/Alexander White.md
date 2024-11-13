@@ -12,7 +12,7 @@ groupe: "[[Arkhan Bullies]]"
 cover: /Assets/Images/Party/Arkhan_Bullies/Alexander.png
 ---
 
-###### Alexander White, Le Sombre Voyageur
+###### Alexander White
 :FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Qu'il vienne. Il va goûter à ma Flèche de Sombrume, ça va lui faire tout drôle. :FasQuoteRight:
 ___
 > [!infobox|no-t right]

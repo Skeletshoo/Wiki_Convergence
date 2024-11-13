@@ -30,12 +30,12 @@ titleMode: all
 #### marker
 > [!column|flex 3]
 > >[!note]- HÉROS
-> >- [[Àine Korgan]]
->> - [[Harrier]]
+> >- [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Magnus Myst]]
 >> - [[Lulu]]
 >> - [[Nox]]
->> - [[Séraphine]]
+>> - [[Compendium/Party/Player Characters/Active/Séraphine Rosebonbon]]
 >> - [[Alexander White]]
 > 
 >>[!note]- HISTOIRE

@@ -25,7 +25,7 @@ ___
 >- [[Wrath]] et [[Sloth]] sont là! Tentative de kidnapping!
 >- Merci à Réya, Edarsjach qui a tenu le coup à distance, Àiné et son illusion, Hogarth et sa Couronne du Dément, Eidelinn pour être revenur+Sort de Sommeil <333 ^-^
 >- Personne (d’important) n’est mort. 3 sous-fifre sont morts mais on en a tué que 2 <3 
->- [[Eidelinn Tishana|Eidelinn]] a récupéré le cube d’[[Harrier]]
+>- [[Eidelinn Tishana|Eidelinn]] a récupéré le cube d’[[Harrier Von Kessler]]
 >- Harrier est allé au post, a dû révéler certains secrets mais s’en est sorti car cela correspond à ce que Zodge ( | [[Poings Enflammés]]) leur a dit. 
 
 
@@ -42,8 +42,8 @@ ___
 >> - [[Sujets de la Reine Dragon]]
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Àine Korgan]]
->> - [[Harrier]]
+>> - [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Eidelinn Tishana]]
 >> - [[Magnus Myst]]
 >> - [[Edarsjach Dentranchante]]

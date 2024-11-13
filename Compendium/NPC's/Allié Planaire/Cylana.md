@@ -30,7 +30,7 @@ ___
 <span class="clearfix"></span>
 
 > [!quote|no-t]
->Éladrin de l'hivers, Éclaireuse des [[Chasseurs d'Arborée]] rencontrée sur l'[[Arbre-Monde]] par [[Magnus Myst|Magnus]], [[Harrier]] et [[Àine Korgan|Àine Korgan]].
+>Éladrin de l'hivers, Éclaireuse des [[Chasseurs d'Arborée]] rencontrée sur l'[[Arbre-Monde]] par [[Magnus Myst|Magnus]], [[Harrier Von Kessler]] et [[Áine Korgan|Áine Korgan]].
 #### marker
 > [!column|flex 3]
 >> [!important]- QUÊTE:

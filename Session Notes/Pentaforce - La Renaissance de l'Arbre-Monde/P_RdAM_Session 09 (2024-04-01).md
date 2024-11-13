@@ -32,7 +32,7 @@ ___
 >> [!info|felx] PNJs:
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Harrier]]
+>> - [[Harrier Von Kessler]]
 >> - [[Magnus Myst]]
 >> - [[Edarsjach Dentranchante]]
 >> - [[Lulu]]

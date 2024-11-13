@@ -23,7 +23,7 @@ ___
 <span class="clearfix"></span>
 
 > [!quote|no-t]
->Une des deux pixies engagées par [[Àine Korgan]] pour protéger le [[Manoir Hexaforce]].
+>Une des deux pixies engagées par [[Áine Korgan]] pour protéger le [[Manoir Hexaforce]].
 >Fait partie de la [[Cour d'Été]]. (?)
 
 #### marker

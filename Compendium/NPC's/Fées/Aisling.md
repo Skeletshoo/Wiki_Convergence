@@ -23,7 +23,7 @@ ___
 <span class="clearfix"></span>
 
 > [!quote|no-t]
-> Une connaissance de [[Àine Korgan]], une occultiste spécialisée en stratégie. 
+> Une connaissance de [[Áine Korgan]], une occultiste spécialisée en stratégie. 
 > Fait partie de la [[Cour d'Été]]. (?)
 
 #### marker

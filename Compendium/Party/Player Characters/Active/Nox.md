@@ -12,7 +12,7 @@ groupe: "[[Arkhan Bullies]]"
 cover: "/Assets/Images/Party/Arkhan_Bullies/Nox.png"
 ---
 
-###### Nox, Le Grand Horloger
+###### Nox
 :FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Mouais. Rien qu'un bon missile ne puisse régler. :FasQuoteRight: | Aliases : Amnir, Léa, Capitaine, Comte Einzbern
 ___
 > [!infobox|no-t right]

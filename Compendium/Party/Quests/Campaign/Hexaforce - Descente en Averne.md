@@ -21,8 +21,8 @@ Après avoir sauvé Elturel, deux de nos camarades reprennent un train de vie pl
 #### marker
 > [!column|flex 3]
 > >[!note]- HÉROS
-> >- [[Àine Korgan]]
->> - [[Harrier]]
+> >- [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Eidelinn Tishana]]
 >> - [[Magnus Myst]]
 >> - [[Edarsjach Dentranchante]]

@@ -16,8 +16,8 @@ ___
 #### marker
 > [!column|flex 3]
 > >[!note]- HÉROS
-> >- [[Àine Korgan]]
->> - [[Harrier]]
+> >- [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Eidelinn Tishana]]
 >> - [[Magnus Myst]]
 >> - [[Edarsjach Dentranchante]]

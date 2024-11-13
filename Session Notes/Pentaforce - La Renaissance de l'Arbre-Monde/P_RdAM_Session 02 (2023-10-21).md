@@ -21,7 +21,7 @@ ___
 > - Une personne étrange demande à voir un elfe roux, et demande s’il reconnaît un certain symbole.
 >> - La personne est une sorte de squelette partiellement et majoritairement mécanique. 
 >> - Le symbole est un ensemble de cercle avec des oiseaux
->> - [[Harrier]] et [[Magnus Myst|Magnus]] reconnaissent ce symbole, car ils l’ont vu sur les armes de [[Greed]] et [[Gluttony]]. Des armes qu’Harrier a acheté et offert aux deux. 
+>> - [[Harrier Von Kessler]] et [[Magnus Myst|Magnus]] reconnaissent ce symbole, car ils l’ont vu sur les armes de [[Greed]] et [[Gluttony]]. Des armes qu’Harrier a acheté et offert aux deux. 
 >> - Harrier décide de ne pas parler directement de cette information, mais mentionne qu’il a une idée d’où en trouver. Car cette personne est très insistante pour récupérer ces armes.
 >> - Après des débuts difficiles et une zone de vérité de [[Lulu]], on arrive à point d’entente, se présente et lap personne sd présente.
 >> - Il s’agit de [[Grimm]], un artificier qui a été réanimé il y a une semaines et cherche des armes qu’il a créé. Il n’a presque pas de souvenir de son ancienne vie, mais il aime faire du café, fumer la pipe et bricoler. 
@@ -33,7 +33,7 @@ ___
 >> - ‘Va-t-en, avant que je ne change d’avis.”
 > - En revenant, Harrier parle de sa rencontre avec les autres, dont Magnus. Ce dernier ne se souvient pas de magie particulière la dernière fois qu’il est passé au cimetière pendant son stage. 
 > - De retour ensemble, le groupe discute de leur première destination. [[Grimm]] a été convaincu qu’il pourra peut être trouver des infos lors de leurs voyages, mais il compte rester de toute façon car Harrier a des infos sur certaines de ses armes. 
-> - Grimm a été convaincu par [[Àine Korgan|Aìne]], et un peu Magnus, de signer le tome de d’Aine. Magnus lui a menti plusieurs fois au long de la session sur des petits trucs car c’est fun. 
+> - Grimm a été convaincu par [[Áine Korgan|Aìne]], et un peu Magnus, de signer le tome de d’Aine. Magnus lui a menti plusieurs fois au long de la session sur des petits trucs car c’est fun. 
 > - On fait quelques préparation, notamment de commander un boîte en plomb et d’acheter des composants de sorts. Aine arnaque un vendeur. Et elle en est fière. 
 > - La première destination sera l’[[Achéron]]!
 > - Lulu nous en parle plus en détail : On ira touuuut en bas et elle nous parle des seuls natif du plan, qui vivent dans une sorte de bastion. 
@@ -103,8 +103,8 @@ ___
 >> -  [[Cassandre]]
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Àine Korgan]]
->> - [[Harrier]]
+>> - [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Magnus Myst]]
 >> - [[Edarsjach Dentranchante]]
 >> - [[Lulu]]
