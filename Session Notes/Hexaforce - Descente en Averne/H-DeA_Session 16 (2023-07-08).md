@@ -26,7 +26,7 @@ ___
 > - On retourne vers [[Elturel]]. 
 > - Sur le champ de bataille on voit [[Archange Zariel|Zariel]] ! Par contre, pour y arriver il faudra passer une horde de démon et 2 seigneurs démons : [[Yeenoghu]] et (sjmsb) [[Baphomet]]. 
 > - Oisin s'est par ailleurs barré à un moment. 
-> - [[Àine Korgan|Áine]] et [[Lulu]] se concentrent pour faire un sort qui fera un passage ! 
+> - [[Áine Korgan|Áine]] et [[Lulu]] se concentrent pour faire un sort qui fera un passage ! 
 > - Ouaaa ça fait un gros passage et on passe ^-^
 > - Par contre Baphomet se met dans notre chemin. 
 > - Et il ne va pas nous laisser passer, apparemment les deux anges sentent appétissant. 
@@ -57,10 +57,10 @@ ___
 > - C'est Les au revoir avec Lulu (qui est maintenant un Mammouth doré) et Zariel. Zariel nous est éternellement reconnaissante et nous confie une plume. Si on a besoin de son aide, on pourra l'utiliser pour l'appeler. 
 > - Maintenant il faut reconstruire Elturel, mais le duc va bien et Réya aussi !! 
 > - On fait la fête :DD Avec ce qu'il y a. 
-> - [[Eidelinn Tishana|Eidelinn]] va avec [[Àine Korgan|Áine]] et [[Oìsin Korgan|Oìsin]] en [[Féerie]], où ils vont retrouver leur père et s'y reposer après ces aventures. 
+> - [[Eidelinn Tishana|Eidelinn]] va avec [[Áine Korgan|Áine]] et [[Oìsin Korgan|Oìsin]] en [[Féerie]], où ils vont retrouver leur père et s'y reposer après ces aventures. 
 > - [[Hogarth Kontsonkan|Hogarth]] va aller voir ses parents (car se faire taper par eux ou ses amis c'est pareil, ouch fait enough), mais sinon il voyager et chanter leurs aventures. 
 > - [[Edarsjach Dentranchante|Edarsjach]] à prévu de continuer sa quête des [[Éclat d'Ombre|éclats d'ombre]]. 
-> - [[Harrier]] et [[Magnus Myst|Magnus]] ont des comptes à régler, donc ils ne vont pas y réfléchir tout de suite. ^-^) 
+> - [[Harrier Von Kessler]] et [[Magnus Myst|Magnus]] ont des comptes à régler, donc ils ne vont pas y réfléchir tout de suite. ^-^) 
 
 
 #### marker
@@ -71,8 +71,8 @@ ___
 >> - [[Arkhan]]
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Àine Korgan]]
->> - [[Harrier]]
+>> - [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Eidelinn Tishana]]
 >> - [[Magnus Myst]]
 >> - [[Edarsjach Dentranchante]]

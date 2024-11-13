@@ -25,6 +25,9 @@ ___
 > | :FasBullseye: Conclave |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  `=this.groupe`|
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Rôdeur aux origines mysterieuses, Ziriark est un esprit libre suivant le groupe en toutes circonstances. La quête de ses origines l'a conduit dans le [[Plan de l'Air]] ou ses pairs Aarakocra ont supplié le groupe de se lancer dans la quête du sceptre des 7 fragments pour combattre un Seigneur Démon particulièrement puissant. En tant que Héraut du [[Plan de l'Air]], Ziriark est pressenti pour en devenir le Roi et régner sur les vents. Mais il reste attaché au groupe en tant que son éclaireur et parfois moyen de transport.

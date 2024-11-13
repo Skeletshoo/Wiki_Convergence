@@ -7,7 +7,7 @@ headerLink: "[[Nepeta Cataria#Nepeta Cataria]]"
 level: "5"
 race: "Tabaxi"
 class: "Ensorceleur"
-subClass: "Aberrant"
+subClass: "Aberrance"
 cover: "/Assets/Images/Party/portrait.jpg"
 ---
 
@@ -21,9 +21,12 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :FasHandSparkles: Origine |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[Guildes de Sorcelume]] |
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Texte

@@ -7,7 +7,7 @@ headerLink: "[[Ormuk Armaniel#Ormuk Armaniel]]"
 level: "5"
 race: "Nain"
 class: "Clerc"
-subClass: "Domaine de la Vie"
+subClass: "Vie"
 cover: "/Assets/Images/Party/PNG/Ormuk.png"
 ---
 
@@ -21,9 +21,12 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :FasLandmark: Domaine |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[PNG]] |
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > /

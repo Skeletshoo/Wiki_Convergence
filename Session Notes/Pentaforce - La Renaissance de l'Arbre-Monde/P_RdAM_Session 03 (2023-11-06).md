@@ -13,7 +13,7 @@ headerLink: "[[P_RdAM_Session 03 (2023-11-06)#P_RdAM_03_Les Roublards jouent aux
 ___
 
 > [!quote|no-t] RÉSUMÉ
->- [[Magnus Myst|Magnus]] et [[Harrier]] sont à la maison avec [[Lulu]], que vont-ils faire ? 
+>- [[Magnus Myst|Magnus]] et [[Harrier Von Kessler]] sont à la maison avec [[Lulu]], que vont-ils faire ? 
 > - Les deux sont intéressés par le cimetière, donc on ira par là.
 >> - Etape de déguisement! On se teint en noir, s’habille moins voyant, cache l’halo et l’aile de Magnus, etc. Y en a un pour qui c’est plus facile. 
 >>> - Harrier va chercher des infos autour du cimetière. 
@@ -82,7 +82,7 @@ ___
 > - On sort tranquillou et bien content ^-^) Un portail nous ramène au cimetière
 > - Lulu est là! Ha >__ >””” Elle est énervée car on l’a beaucoup inquiétée.
 > - Elle nous a tp pour nous soigner à la maison. 
-> - [[Harrier]] veut parler à son frère. [[Lulu]] l’accompagne, donc [[Magnus Myst|Magnus]] aussi ^-^)/ Lulu ne veut pas le laisser seul après qu’il se soit mis en danger comme ça! 
+> - [[Harrier Von Kessler]] veut parler à son frère. [[Lulu]] l’accompagne, donc [[Magnus Myst|Magnus]] aussi ^-^)/ Lulu ne veut pas le laisser seul après qu’il se soit mis en danger comme ça! 
 >> - Wrath est toujours là!
 >> - Harrier lui parle de la bouteille qu’il a reçu de leur mère, qui porte le symbole de [[Shar]] et qui vient de [[Calimshan]]. 
 >> - Harrier veut en savoir plus sur elle et ce qui est arrivé à leur père. 
@@ -99,7 +99,7 @@ ___
 >> - [[Greed]]
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Harrier]]
+>> - [[Harrier Von Kessler]]
 >> - [[Magnus Myst]]
 >> - [[Lulu]]
 >

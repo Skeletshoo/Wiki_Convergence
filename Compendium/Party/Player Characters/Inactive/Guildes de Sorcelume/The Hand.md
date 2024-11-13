@@ -7,7 +7,7 @@ headerLink: "[[The Hand#The Hand]]"
 level: "4"
 race: "Squelette Éveillé"
 class: "Clerc"
-subClass: "Domaine de la Vie"
+subClass: "Vie"
 cover: "/Assets/Images/Party/Guildes_de_Sorcelume/The_Hand.png"
 ---
 
@@ -21,9 +21,12 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :FasLandmark: Domaine |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[Guildes de Sorcelume]] |
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Texte

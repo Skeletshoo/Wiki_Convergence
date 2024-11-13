@@ -16,7 +16,7 @@ headerLink: "[[H-DeA_Session 11 (2023-05-24)#Team Baland - Une fée, une éléph
 ___
 
 > [!quote|no-t] RÉSUMÉ
->- [[Àine Korgan|Àine]],[[Eidelinn Tishana|Eidelinn]]/Linn, [[Edarsjach Dentranchante|Edarsjach]] et [[Lulu]] vont vers le bassin d’Ichor!
+>- [[Áine Korgan|Àine]],[[Eidelinn Tishana|Eidelinn]]/Linn, [[Edarsjach Dentranchante|Edarsjach]] et [[Lulu]] vont vers le bassin d’Ichor!
 > - Edarsjach décide de garder des notes de leurs aventures pour Magnus :D
 > - Direction le Bassin d’Ichor, pas de démons à l’arrivée
 >> - 5 diables barbus en train de transporter des poulet démoniaques
@@ -78,7 +78,7 @@ ___
 >> - [[Méphistophélès]]
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Àine Korgan]]
+>> - [[Áine Korgan]]
 >> - [[Eidelinn Tishana]]
 >> - [[Edarsjach Dentranchante]]
 >> - [[Lulu]]

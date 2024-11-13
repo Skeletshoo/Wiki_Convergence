@@ -23,7 +23,7 @@ ___
 <span class="clearfix"></span>
 
 > [!quote|no-t]
->Le frère d'[[Àine Korgan|Àine Korgan]]. Il a été enlevé, vendu en esclavage. Il a beaucoup vécu et souffert, mais nous avons réussit à le sauver en [[Averne]].
+>Le frère d'[[Áine Korgan|Áine Korgan]]. Il a été enlevé, vendu en esclavage. Il a beaucoup vécu et souffert, mais nous avons réussit à le sauver en [[Averne]].
 >Fait partie de la [[Cour d'Été]]. (?)
 
 #### marker

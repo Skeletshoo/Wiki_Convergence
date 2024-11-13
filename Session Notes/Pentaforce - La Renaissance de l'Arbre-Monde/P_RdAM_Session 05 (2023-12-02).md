@@ -19,12 +19,12 @@ ___
 > - 2 malewives making coffee and who didn’t stir up any shit ahahahahahha 
 > - Magnus est très doué pour partager tout ce qu'il sait ✨(y compris ce qui ne devrait pas être partagé au petit nouveau)
 > - Info des autres : 
->> - [[Eidelinn Tishana|Linn]] va bien, [[Théryon Tishana|Théryon]] bosse moins pour [[Shar]], les 3 ont rencontré une druide qui leur a fait des cadeaux (crocs magiques pour Edarsjach, balais magique pour [[Grimm]], Bâton magique pour [[Àine Korgan|Àine]] + de l’alcool?)
+>> - [[Eidelinn Tishana|Linn]] va bien, [[Théryon Tishana|Théryon]] bosse moins pour [[Shar]], les 3 ont rencontré une druide qui leur a fait des cadeaux (crocs magiques pour Edarsjach, balais magique pour [[Grimm]], Bâton magique pour [[Áine Korgan|Àine]] + de l’alcool?)
 >> - Théryon avait reçu son éclat au désert d’Anrockil y a plusieurs années par 3 personnes (+on apprend les noms de [[Qina]], [[Cassandre]] et [[Jolmond]])
 >> - Grimm a fait une maison de poupée dans sa cage thoracique pour Aìne*
 >> - Les Sharrans veulent utiliser l’[[Arbre-Monde]] pour accéder au plan au se trouve [[Séluné]] qui est très affaiblie et donc vulnérable. 
 > - On leur a parlé de la magnifique fanfiction :] 
-> - [[Harrier]] (+[[Lulu]]), [[Grimm]] et [[Magnus Myst|Magnus]] vont faire des courses pendant que Aìne et et Edarsjach font (mystère).
+> - [[Harrier Von Kessler]] (+[[Lulu]]), [[Grimm]] et [[Magnus Myst|Magnus]] vont faire des courses pendant que Aìne et et Edarsjach font (mystère).
 >> - Discute un peu, Magnus ment :] Je me souviens quel est le mensonge, mais il ment sur comment il connaît Harrier
 >> - C’est un batard car il demande quand même à Grimm de lui faire une boîte secrète et il lui a mentionné qu’il cherche quelque chose pour se protéger de charmes
 >> - Harrier et Magnus décident de remplir la demande de Grimm
@@ -62,8 +62,8 @@ ___
 >> - [[Jolmond]]
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Àine Korgan]]
->> - [[Harrier]]
+>> - [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Magnus Myst]]
 >> - [[Edarsjach Dentranchante]]
 >> - [[Lulu]]

@@ -22,8 +22,8 @@ ___
 >> - Spa!! Premier bain depuis minimum une bonne semaine voir plus (on s’était pas arrêté pour ça en allant à Candlekeep…)
 >
 >>> - Une autre excellente idée! Boire dans le bain! :D 
->>> - Harrier parle de pourquoi son frère lui en voulait de base. [[Harrier]] l’a empêché d’aller aider quelqu’un qui leur était cher en sachant que la personne était déjà condamné et que [[Wrath|Jacdal]] âge 8 ans n’allait pas beaucoup aider.
->>> - [[Àine Korgan|Àiné]] parle de ses cicatrice! Wow elle a combattu des ours o_O
+>>> - Harrier parle de pourquoi son frère lui en voulait de base. [[Harrier Von Kessler]] l’a empêché d’aller aider quelqu’un qui leur était cher en sachant que la personne était déjà condamné et que [[Wrath|Jacdal]] âge 8 ans n’allait pas beaucoup aider.
+>>> - [[Áine Korgan|Àiné]] parle de ses cicatrice! Wow elle a combattu des ours o_O
 >>> - Edarsjach parle de comment elle connait la Cour de [[Cormyr]] et de la guerre à laquelle son grand-père a participé!
 >>> - Eidelinn parle de son frère, un paladin de Shar! Elle parle de pourquoi elle avait conclut un contrat avec Amrick mais avait finalement changé d’avis
 >>> - Magnus parle de son ex-compagnon, [[Ilphas]] :D Je ne me souviens pas ce que j’ai dit, j’ai pas pris de note et Magnus était bourré ^-^ Heureusement que l’argent lui a permis de ne pas faire la décision de texter son ex bourré!
@@ -56,8 +56,8 @@ ___
 >> - Fuck j'ai jamais chopé le nom du général correctement, rip à lui
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Àine Korgan]]
->> - [[Harrier]]
+>> - [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Eidelinn Tishana]]
 >> - [[Magnus Myst]]
 >> - [[Edarsjach Dentranchante]]

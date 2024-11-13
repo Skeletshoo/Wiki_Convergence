@@ -26,8 +26,8 @@ ___
 >**Sloth**, de son vrai nom **Vagrundad**, est un Demi-Orc et un des généraux des [[Lames de Sang]]. Il est relativement amical de surface, mais n'est vraiment proche de personne, à part peut-être [[Envy]], et éventuellement [[Wrath]]. Son travail principal tourne autour du maintien, la défense et de la récolté d'infos. Si c'est une chose de choper des nouveaux territoires, c'en est une autre de les garder. 
 >Il traîne souvent, et peu de gens savent qu'il est général car il ne le montre pas beaucoup. Il est proche de ceux qui gèrent la [[Bouche de Baldur]], qui lui fournissent beaucoup d'infos.
 >Il a grandit dans un clan orc, avec un grand futur. Cependant, il a tenté d'éviter une prophécie à tous prix, et s'est fait bannir. Il est arrivé à la [[Porte de Baldur]] et a finit par rencontrer [[Bann]], et rejoindre le groupe.
->C'est quelqu'un de très calme, et la seule fois où il a été énervé c'est quand les conneries de [[Harrier|Pride]] ont causé la perte d'une amante à lui, à qui il tenait réellement. C'est lui qui a poussé pour son expulsion. 
->C'est [[Sloth]] qui a choisit [[Magnus Myst|Magnus]] comme stagiaire-espion pour [[Harrier|Pride]], car il savait qu'il était un bon espion, qu'on ne remarque pas trop. Autant dire que quand le gars s'est pointé tout rose, ça lui a fait bizarre.
+>C'est quelqu'un de très calme, et la seule fois où il a été énervé c'est quand les conneries de [[Harrier Von Kessler|Pride]] ont causé la perte d'une amante à lui, à qui il tenait réellement. C'est lui qui a poussé pour son expulsion. 
+>C'est [[Sloth]] qui a choisit [[Magnus Myst|Magnus]] comme stagiaire-espion pour [[Harrier Von Kessler|Pride]], car il savait qu'il était un bon espion, qu'on ne remarque pas trop. Autant dire que quand le gars s'est pointé tout rose, ça lui a fait bizarre.
 #### marker
 > [!column|flex 3]
 >> [!important]- QUÊTE:

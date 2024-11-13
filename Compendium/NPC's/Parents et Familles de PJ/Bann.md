@@ -23,7 +23,7 @@ ___
 <span class="clearfix"></span>
 
 > [!quote|no-t]
->Père Adoptif de [[Wrath|Jacdal]] et [[Harrier|Jendal]]. Décédé. Possiblement a aidé à fonder les [[Lames de Sang]]. A été proche de tous les membres. 
+>Père Adoptif de [[Wrath|Jacdal]] et [[Harrier Von Kessler|Jendal]]. Décédé. Possiblement a aidé à fonder les [[Lames de Sang]]. A été proche de tous les membres. 
 #### marker
 > [!column|flex 3]
 >> [!important]- QUÊTE:

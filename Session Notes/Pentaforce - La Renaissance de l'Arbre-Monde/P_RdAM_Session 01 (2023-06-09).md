@@ -22,7 +22,7 @@ ___
 > - Rencontre avec [[Ulder Gardecorbeau|Ulder]]!
 >> - Il nous remercie et souhaite nous récompenser pour avoir sauvé [[Elturel]] :DD 
 >> - Il mentionne que cela a dû prendre du temps car il y a pas mal de prolèmes à régler notamment avec des criminels. Des problèmes qu’ils n’ont pas réussit à résoudre autant qu’ils l’espèreraient.
->>> - Oui oui monsieur, [[Harrier]] n’a rien à voir avec ça. Persuasion ? Mensonge ? Qui sait! On était pas là! 😇
+>>> - Oui oui monsieur, [[Harrier Von Kessler]] n’a rien à voir avec ça. Persuasion ? Mensonge ? Qui sait! On était pas là! 😇
 >> - Récompenses: 
 >>> - Un petite boîte à 2 boucles d’oreilles (pierres mauve pâles) qui sont des boucles de communication -> Harrier et [[Edarsjach Dentranchante|Edarsjach]]
 >>> - Un titre de co-propriété dans le Nord-Est!
@@ -68,8 +68,8 @@ ___
 >> - [[Jean Pipi]]
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Àine Korgan]]
->> - [[Harrier]]
+>> - [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Magnus Myst]]
 >> - [[Edarsjach Dentranchante]]
 >> - [[Lulu]]

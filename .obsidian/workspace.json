@@ -13,28 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INDEX.md",
+                "file": "Compendium/Party/Player Characters/Inactive/Saltombanques/Pedro Skeleto.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "INDEX"
-            }
-          },
-          {
-            "id": "628a98b55059f2e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/NPC's/Tsering Zhao.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tsering Zhao"
+              "title": "Pedro Skeleto"
             }
           },
           {
@@ -53,6 +38,33 @@
             }
           },
           {
+            "id": "4082df8e64cf1dac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/NPC's/Suleiman Al-Ghazi.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Suleiman Al-Ghazi"
+            }
+          },
+          {
+            "id": "87b34b8025bdc024",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
             "id": "d7517b913195c8db",
             "type": "leaf",
             "state": {
@@ -68,22 +80,21 @@
             }
           },
           {
-            "id": "a11d13498b53450c",
+            "id": "3f03ee4b1fd3f2a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Métis.md",
+                "file": "INDEX.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Métis"
+              "title": "INDEX"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,15 +158,10 @@
             "id": "34783b92fcf002b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/Lore/Deities/Ibrandul.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ibrandul"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -229,52 +235,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d7517b913195c8db",
+  "active": "ab6aa70ebc240009",
   "lastOpenFiles": [
-    "Compendium/NPC's/Himiko Tenrei.md",
-    "Compendium/NPC's/Tsering Zhao.md",
-    "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Métis.md",
-    "Compendium/Lore/Organizations/Six Samouraïs.md",
-    "Assets/Images/NPC/Six Samourais/Tsering.png",
-    "Assets/Images/NPC/Six Samourais/Capture d'écran 2024-11-13 015243.png",
-    "INDEX.md",
-    "Compendium/NPC's/Anjing.md",
-    "Assets/Images/NPC/Six Samourais/Anjing.png",
-    "Assets/Images/NPC/Six Samourais/Capture d'écran 2024-11-13 014833.png",
-    "Compendium/NPC's/Amamu Raksha.md",
-    "Assets/Images/NPC/Six Samourais/Ammamu.jpg",
+    "Compendium/Party/Player Characters/Inactive/Saltombanques/Luc Six-Fers.md",
+    "Compendium/Party/Player Characters/Inactive/Saltombanques/Émile Ferron.md",
+    "Compendium/Party/Player Characters/Inactive/Saltombanques/Coco Dille.md",
+    "Compendium/Party/Player Characters/Inactive/Saltombanques/Al Owin.md",
+    "Compendium/Party/Player Characters/Inactive/PNG/Varis Liadon.md",
+    "Compendium/Party/Player Characters/Inactive/PNG/Ormuk Armaniel.md",
+    "Compendium/Party/Player Characters/Inactive/PNG/Aldadin Rochtal.md",
+    "Compendium/Party/Player Characters/Inactive/Noyhetisier/Nyx.md",
+    "Compendium/Party/Player Characters/Inactive/Noyhetisier/Liodan.md",
+    "Compendium/Party/Player Characters/Inactive/Noyhetisier/Aukan Le Vertueux.md",
+    "Compendium/Party/Player Characters/Inactive/Lune de Sang/Wesmyre.md",
+    "Compendium/Party/Player Characters/Inactive/Hexaforce_Pintaforce/Hogarth Kontsonkan.md",
+    "Compendium/Party/Player Characters/Inactive/Hexaforce_Pintaforce/Grimm.md",
+    "Compendium/Party/Player Characters/Inactive/Hexaforce_Pintaforce/Eidelinn Tishana.md",
+    "Compendium/Party/Player Characters/Inactive/Hexaforce_Pintaforce/Edarsjach Dentranchante.md",
+    "Compendium/Party/Player Characters/Inactive/Guildes de Sorcelume/Leonhard Breginton.md",
+    "Compendium/Party/Player Characters/Inactive/Daronnes Slayers/Radahn Semigord.md",
+    "Compendium/Party/Player Characters/Inactive/Daronnes Slayers/Pouf.md",
+    "Compendium/Party/Player Characters/Inactive/Daronnes Slayers/Lélia d'Arbrefoudre.md",
+    "Compendium/Party/Player Characters/Inactive/Daronnes Slayers/Alylanamae Daoinenath.md",
+    "Compendium/Party/Player Characters/Inactive/Arkhan Bullies/Ziriak.md",
+    "Compendium/Party/Player Characters/Inactive/Arkhan Bullies/Viggo.md",
+    "Compendium/Party/Player Characters/Inactive/Arkhan Bullies/Ania.md",
+    "Compendium/Party/Player Characters/Active/Séraphine Rosebonbon.md",
     "Compendium/Party/Player Characters/Active/Nox.md",
-    "Compendium/Party/Player Characters/Active/Gilgas Saga.md",
     "Compendium/Party/Player Characters/Active/Magnus Myst.md",
-    "Compendium/Party/Player Characters/Active/Séraphine.md",
-    "Compendium/NPC's/Kagemusha Banshun.md",
-    "Compendium/NPC's/Suleiman Al-Ghazi.md",
-    "Compendium/Lore/Deities/Ibrandul.md",
-    "Assets/Images/NPC/Six Samourais/Kagemusha.png",
-    "Assets/Images/NPC/Six Samourais/Yaichi.png",
-    "Compendium/Lore/Deities/Aoskar.md",
-    "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Lampade.md",
-    "Compendium/NPC's/Porte de Baldur/La Guilde/Themis Aior.md",
-    "Compendium/Lore/Organizations/La Guilde.md",
-    "Assets/Images/NPC/Six Samourais/Akane.png",
-    "Assets/Images/NPC/Six Samourais/Capture d'écran 2024-11-13 003159.png",
-    "Assets/Images/NPC/Six Samourais",
-    "Assets/Images/NPC/Nouveau dossier",
-    "Compendium/Atlas/Plan Matériel/Toril/Zakhara/Zakhara.md",
-    "Compendium/Party/Player Characters/Active/Alexander White.md",
-    "Compendium/NPC's/Parents et Familles de PJ/Sudeiman.md",
-    "Compendium/Party/Player Characters/Active/Lulu.md",
-    "Compendium/Atlas/Plan Matériel/Toril/Faerûn/Faerûn.md",
-    "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Calliope.md",
-    "Compendium/Party/Player Characters/temp.md",
+    "Assets/Images/Party/liv.png",
     "Assets/Images/Location/Zakhara/Zakhara.jpg",
+    "Assets/Images/Location/Zakhara/Akhara.jpg",
+    "Assets/Images/Location/Zakhara/be01eebb80f967a4e151071c47299ac7.jpg",
     "Assets/Images/Location/Zakhara",
     "Assets/Images/Location/New folder",
     "Compendium/Atlas/Plan Matériel/Toril/Zakhara",
+    "Assets/Images/Lore/Organisations/SixSamourais.png",
+    "Assets/Images/Location/KaraTur/KaraTur.jpg",
+    "Assets/Images/Location/KaraTur/add9cb86af514697c1c5c3f48b9d4058.jpg",
     "Assets/Images/Location/KaraTur",
     "Compendium/Atlas/Plan Matériel/Toril/Kara-Tur",
+    "Assets/Images/Notes/doodle_convergence_session_01.png",
+    "Assets/Images/NPC/Ennemis/Cryovain.webp",
+    "Assets/Images/NPC/Ennemis/Essentials_Kit_key_art.webp",
     "Assets/Images/NPC/Ennemis",
+    "Assets/Images/NPC/Nouveau dossier",
     "Compendium/NPC's/Ennemis",
-    "Assets/Images/Notes"
+    "Assets/Images/Notes",
+    "Assets/Images/New folder"
   ]
 }

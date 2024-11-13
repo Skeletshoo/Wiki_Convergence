@@ -21,9 +21,12 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :FasBook: Tradition |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[PNG]] |
+> |  :LiCalendarClock: Âge | 19 ans |
+> |  :LiCalendar: Anniversaire | 25 Alturiak |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 >  Disciple dans un temple d'[[Oghma]], il s'est joint à trois aventuriers de passage pour exercer sa magie tout en aidant un petit village en proie à la tourmente. Bien que talentueux, il a tendance à oublier qu'un sort de zone ne ciblera pas que ses ennemis.

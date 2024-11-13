@@ -17,7 +17,7 @@ dv.table(["cover", "name", "details"],
     .map(p => [
       `![](${vault}/${p.cover})`, // For image link use: [![](${vault}/${p.cover})](<${p.file.name}#${p.file.name}>)
       p.headerLink,
-      obsidian.Platform.isMobile ? `:FasCrown: Level ${p.level}<br>:FasUserGroup: ${p.race}<br>:RiSwordFill: ${p.class}` : `:FasCrown: Level ${p.level} / :FasUserGroup: ${p.race} / :RiSwordFill: ${p.class}`
+      obsidian.Platform.isMobile ? `:FasCrown: Niveau ${p.level}<br>:FasUserGroup: ${p.race}<br>:RiSwordFill: ${p.class}` : `:FasCrown: Niveau ${p.level} / :FasUserGroup: ${p.race} / :RiSwordFill: ${p.class}`
     ])
 );
 ```

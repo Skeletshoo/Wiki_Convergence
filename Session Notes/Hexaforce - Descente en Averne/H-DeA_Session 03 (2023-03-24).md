@@ -16,7 +16,7 @@ ___
 >- Récompense récupérée + **Badge haut Gradé**  [[Poings Enflammés]]
 >- Klim Jhasso nous a ghosté
 >- Shopping!
->- [[Lanterne Engourdie]], Amrick. Traînage pendant un moment, [[Eidelinn Tishana|Eidelinn]] a quelque chose avec le vin du Nord? [[Harrier]] bourré, Eidelinne a tenté un truc mais s’est faite contractée. ⚔️ Amrick et ses deux gardes du corps tués. 
+>- [[Lanterne Engourdie]], Amrick. Traînage pendant un moment, [[Eidelinn Tishana|Eidelinn]] a quelque chose avec le vin du Nord? [[Harrier Von Kessler]] bourré, Eidelinne a tenté un truc mais s’est faite contractée. ⚔️ Amrick et ses deux gardes du corps tués. 
 >- Rencontre avec [[Réya Mornecape|Réya]], plus d’info sur ce qui s’est passé
 >- Retrouvaille avec Morlock.
 >- Plan pour la duchesse -> Info sur le conseil des ducs.
@@ -35,8 +35,8 @@ ___
 >> - [[Sujets de la Reine Dragon]]
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Àine Korgan]]
->> - [[Harrier]]
+>> - [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Eidelinn Tishana]]
 >> - [[Magnus Myst]]
 >> - [[Edarsjach Dentranchante]]

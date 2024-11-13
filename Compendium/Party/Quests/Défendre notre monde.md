@@ -38,12 +38,12 @@ ___
 > [!column|flex 3]
 > > [!note]- HÉROS
 > >- [[Lulu]]
-> >- [[Àine Korgan]]
->> - [[Harrier]]
+> >- [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Magnus Myst]]
 >> - [[Nox]]
 >> - [[Alexander White]]
->> - [[Séraphine]]
+>> - [[Compendium/Party/Player Characters/Active/Séraphine Rosebonbon]]
 > 
 >>[!note]- HISTOIRE
 >>```dataview

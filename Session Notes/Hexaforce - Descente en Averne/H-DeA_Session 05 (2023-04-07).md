@@ -58,8 +58,8 @@ ___
 >> - [[Traxigor]]
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Àine Korgan]]
->> - [[Harrier]]
+>> - [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Eidelinn Tishana]]
 >> - [[Magnus Myst]]
 >> - [[Edarsjach Dentranchante]]

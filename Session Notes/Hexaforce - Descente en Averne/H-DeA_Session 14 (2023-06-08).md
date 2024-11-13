@@ -14,7 +14,7 @@ ___
 
 > [!quote|no-t] RÉSUMÉ
 >- Maintenant qu’on a la tête d’[[Arkhan]] dans le sac d’[[Eidelinn Tishana|Eidelinn]], qu’est ce qu’on fait ?
-> - [[Àine Korgan|Àine]] et Eidelinn sont plutôt énervées contre [[Harrier]], mais [[Magnus Myst|Magnus]] a réussi à éviter que le groupe se tabasse ^-^
+> - [[Áine Korgan|Àine]] et Eidelinn sont plutôt énervées contre [[Harrier Von Kessler]], mais [[Magnus Myst|Magnus]] a réussi à éviter que le groupe se tabasse ^-^
 > - Harrier donne la convention de stage à Magnus, il peut en faire ce qu’il en veut. Le stage continue, mais Magnus peut décider de détruire la convention pour y mettre fin
 > - Edarsjach confronte le démon d’Eidelinn, il a prit le contrôle plusieurs fois durant le combat. Eidelinn ne s’en souvient pas et le démon répond simplement qu’il l’a aidé parce qu’elle l’a demandé et pour qu’il puisse taper du diable. Edarsjach n’aime pas ça, mais dans le cas présent, il aide. Eidelinn n’aime pas non plus le fait qu’il prenne contrôle de son corps. 
 > - [[Lulu]] raconte leurs aventures à [[Oìsin Korgan|Oisìn]], qui nous parle de son contrat vaguement. Pas de nom de son patron et il ne pourra pas nous aider contre les diables. 
@@ -63,8 +63,8 @@ ___
 >> - [[Uldrak]]
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Àine Korgan]]
->> - [[Harrier]]
+>> - [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Eidelinn Tishana]]
 >> - [[Magnus Myst]]
 >> - [[Edarsjach Dentranchante]]

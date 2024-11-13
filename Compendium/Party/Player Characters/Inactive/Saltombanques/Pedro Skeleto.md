@@ -7,7 +7,7 @@ headerLink: "[[Pedro Skeleto#Pedro Skeleto]]"
 level: "4"
 race: "Squelette Éveillé"
 class: "Barde"
-subClass: "Collège des Esprits"
+subClass: "Esprits"
 cover: "/Assets/Images/Party/Saltombanques/pedro_skeleton_1.jpg"
 ---
 
@@ -21,9 +21,12 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :FasMusic: Collège |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[Saltombanques]] |
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Un Squelette mariatchi espagnol, qui joue et attaque avec ses maracasses. 

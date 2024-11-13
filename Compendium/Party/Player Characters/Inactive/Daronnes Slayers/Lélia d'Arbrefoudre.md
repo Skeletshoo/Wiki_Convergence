@@ -7,7 +7,7 @@ headerLink: "[[Lélia d'Arbrefoudre#Lélia d'Arbrefoudre]]"
 level: "5"
 race: "Humaine"
 class: "Guerrière"
-subClass: "Archère Championne"
+subClass: "Championne"
 cover: "/Assets/Images/Party/Daronne_Slayers/Lelia_dArbrefoudre.png"
 ---
 
@@ -21,9 +21,12 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :RiSwordFill: Archétype |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[Daronnes Slayers]] |
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Héroïne des petits villages aux alentours de [[Phandelver]], Lélia protège les petites gens comme les petites créatures sans oublier les membres du groupe. Elle se bat afin de mériter sa réputation et de s'assurer que les environs de [[Padhiver[Neverwinter]]] restent sûrs.

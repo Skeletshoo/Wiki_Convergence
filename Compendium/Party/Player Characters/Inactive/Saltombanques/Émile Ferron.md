@@ -7,7 +7,7 @@ headerLink: "[[Émile Ferron#Émile Ferron]]"
 level: "4"
 race: "Gobelours"
 class: "Roublard 1 / Barbare 3"
-subClass: "Zélote"
+subClass: "Aucun / Zélote"
 cover: "/Assets/Images/Party/Portrait.jpg"
 ---
 
@@ -21,9 +21,12 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :FasCircleQuestion: Archétype / Voie |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[Saltombanques]] |
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Goblours, Gros manteau, Masque en bois uni et anonyme, Épée courte qui ressemble à un couteau de boucher.

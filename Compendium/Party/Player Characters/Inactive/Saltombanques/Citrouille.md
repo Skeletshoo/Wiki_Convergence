@@ -7,7 +7,7 @@ headerLink: "[[Citrouille#Citrouille]]"
 level: "4"
 race: "Épouvantail"
 class: "Clerc"
-subClass: "Domaine de la Nature"
+subClass: "Nature"
 cover: "/Assets/Images/Party/Portrait.jpg"
 ---
 
@@ -21,9 +21,12 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :FasLandmark: Domaine |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[Saltombanques]] |
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Un épouvantail, qui ressemble à une armure rembourrée de foin avec une citrouille (animée) dessus, faux, ceinture de Chauntéa.

@@ -46,7 +46,7 @@ ___
 >> - Oscar Navet ?
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Harrier]]
+>> - [[Harrier Von Kessler]]
 >> - [[Magnus Myst]]
 >> - [[Lulu]]
 >

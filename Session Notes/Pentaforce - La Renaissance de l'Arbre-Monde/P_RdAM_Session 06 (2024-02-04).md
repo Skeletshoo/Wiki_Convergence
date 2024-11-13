@@ -34,7 +34,7 @@ ___
 > - On sort, voit des bourgeons dehors. On est attaqués par 3 gros dragons!
 > - Rencontre avec [[Cylana]]! IUne éladrin de l’hivers, enfants, fils de vitalité+^lateformes magiques
 > - C’est une [[Chasseurs d'Arborée|chasseresse d’Arborée]], envoyée comme scout dans l’arbre monde
-> - “Généralement je n’aime pas être attachée, mais là ça me plaît!” – [[Àine Korgan|Àine]]
+> - “Généralement je n’aime pas être attachée, mais là ça me plaît!” – [[Áine Korgan|Àine]]
 > - Repos! Spooning? 🥺
 > - [[Cylana]] connaît un chemin vers les [[Portes de La Lune]], en passant par l’[[Arborée]]/Proche de l’Arborée. Pour cela, il faudra passer par [[Cynosure]], un plan de discussion abandonné mais peut être avec quelques givres qui le protège. 
 > - On monte tranquillou grâce à son escalier :] Elle nous préviens qu’il vaut mieux éviter de voler car ça attire l’attention
@@ -54,7 +54,7 @@ ___
 >> - J’ai bien faillit y crever hihi ^-^)
 >> - A un tour près j’était down (5pv)
 >> - A un tour près, Harrier était down! Heureusement que bouclier+Esquive instinctive l’a sauvé (1-3pv je crois?)
->> - [[Harrier]] a tué [[Cerbère]] en attaquant le gros poin lumineux et a sorti Magnus :DD 
+>> - [[Harrier Von Kessler]] a tué [[Cerbère]] en attaquant le gros poin lumineux et a sorti Magnus :DD 
 >> - Canon : Magnus est trauma de ça
 >> - Par contre il sera aussi très très reconnaissant 
 
@@ -65,8 +65,8 @@ ___
 >> - [[Characters]] (status)
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Àine Korgan]]
->> - [[Harrier]]
+>> - [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Magnus Myst]]
 >
 >> [!example|flex] LIEUX:

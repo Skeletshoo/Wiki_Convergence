@@ -6,8 +6,8 @@ tags:
 headerLink: "[[Aldadin Rochtal#Aldadin Rochtal]]"
 level: "5"
 race: "Humain"
-class: "Guerrier"
-subClass: "Championne Archer"
+class: "Guerrière"
+subClass: "Championne"
 cover: "/Assets/Images/Party/PNG/Aldadin.png"
 ---
 
@@ -21,9 +21,12 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :RiSwordFill: Archétype |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[PNG]] |
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Guerrière qui manie l'arc avec précision, elle a jurée de libérer son village natale de la menace d'un terrible dragon. Ainsi, lorsqu'elle a appris qu'un dragon terrorisait une région toute entière, elle n'hésita pas à utiliser ses compétences martiale au service de pauvres civils innocents.

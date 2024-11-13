@@ -23,7 +23,7 @@ ___
 <span class="clearfix"></span>
 
 > [!quote|no-t]
->Le père d'[[Àine Korgan|Àine Korgan]], retrouvé dans le manoir des Vathampur et secouru.
+>Le père d'[[Áine Korgan|Áine Korgan]], retrouvé dans le manoir des Vathampur et secouru.
 >Fait partie de la [[Cour d'Été]]. (?)
 
 #### marker

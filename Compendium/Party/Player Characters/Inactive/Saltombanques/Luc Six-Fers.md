@@ -7,7 +7,7 @@ headerLink: "[[Luc Six-Fers#Luc Six-Fers]]"
 level: "4"
 race: "Satyre"
 class: "Roublard 1 / Barde 3"
-subClass: "Collège du Savoir"
+subClass: "Aucun / Savoir"
 cover: "/Assets/Images/Party/Portrait.jpg"
 ---
 
@@ -21,9 +21,12 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :FasCircleQuestion: Archétype / Collège |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[Saltombanques]] |
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Un grand satyre, qui se fait passer pour un prêtre et cherche à partager la bonne parole de Satan/Asmodée. Joue de l'Orgue de Barbarie et de l'Accordéon, qu'il trimballe partout. 

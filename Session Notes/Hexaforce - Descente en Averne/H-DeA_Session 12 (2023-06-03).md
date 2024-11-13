@@ -14,7 +14,7 @@ ___
 Imagine te faire capturer par les cultistes de Tiamat. 
 
 > [!quote|no-t] RÉSUMÉ
->- [[Hogarth Kontsonkan|Hogarth]], [[Harrier|Harrier/Jendal]] et [[Magnus Myst|Magnus/Lethen]] vont vers le monument qui brille. 
+>- [[Hogarth Kontsonkan|Hogarth]], [[Harrier Von Kessler|Harrier/Jendal]] et [[Magnus Myst|Magnus/Lethen]] vont vers le monument qui brille. 
 > - “***La plus pure des âmes attire les fiélons dans un piège infernal***”
 > - On grimpe, il y a une licorne en haut, enfermée dans une bubulle magique
 > - La protectrice de l’endroit nous repère! C’est une élémentaire de terre et elle a un gros marteau
@@ -76,7 +76,7 @@ Imagine te faire capturer par les cultistes de Tiamat.
 >> - [[Krull]]
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Harrier]]
+>> - [[Harrier Von Kessler]]
 >> - [[Magnus Myst]]
 >> - [[Hogarth Kontsonkan]]
 >

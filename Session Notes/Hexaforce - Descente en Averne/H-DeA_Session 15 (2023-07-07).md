@@ -16,14 +16,14 @@ ___
 >- Nos aventuriers arrivent à la [[Citadelle Sanglante|Citadelle]]! Le temple est enseveli sous une espèce de croûte et des chaînes la retiennent.Les chaînes sont couvertes de runes infernales magiques. 
 > - On décide de grimper! Il y a une ouverture en haut!
 > - On entre. A l’intérieur, la croûte saigne à plusieurs endroits
->> - [[Harrier]] récupère un bouclier et [[Magnus Myst|Magnus]] tente d’en récupérer dans une fiole
+>> - [[Harrier Von Kessler]] récupère un bouclier et [[Magnus Myst|Magnus]] tente d’en récupérer dans une fiole
 >> - Magnus touche le liquide, une paire d’aile de chauve-souris pousse à la place de ses oreilles!
 >> - Oops, Magnus est sourd maintenant <33 Au moins il a une vitesse de vol d’1,5m
 > - C’est parti pour de l’exploration!
 >> - A droite, 2 salles, une vide et une avec des démons autour du corps d’une genaude.
 >> - En bas, on combat des essaims de mouches et on arrive à une salle avec 3 grosses mouches démons et un fiélon, [[Barnabé]].
 >> - 80% du groupe est inconscient à cause du son
->> - On essaye de discuter mais on n'apprend pas grand chose (Magnus a le seum car il est sourd et à besoin des sous-titres de [[Eidelinn Tishana|Eidelinn]]/[[Àine Korgan|Áine]]) 
+>> - On essaye de discuter mais on n'apprend pas grand chose (Magnus a le seum car il est sourd et à besoin des sous-titres de [[Eidelinn Tishana|Eidelinn]]/[[Áine Korgan|Áine]]) 
 >> - Sur un malentendu, Áine attaque Hogarth (toucher glacial niv5 batard). Hogarth est très énervé et ça manque de partir en cacahuète. 
 >> - [[Hogarth Kontsonkan|Hogarth]] n'est pas satisfait de la résolution du problème et ne pardonne pas Áine. 
 >> - En allant à droite de la salle aux essaims de mouches, o trouve un démon des ombres qui ordonné 7 autres petits démons de creuser. On les défonces en 2-2 <33 
@@ -107,8 +107,8 @@ ___
 >> - [[Démon d'Eidelinn]]
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[Àine Korgan]]
->> - [[Harrier]]
+>> - [[Áine Korgan]]
+>> - [[Harrier Von Kessler]]
 >> - [[Eidelinn Tishana]]
 >> - [[Magnus Myst]]
 >> - [[Edarsjach Dentranchante]]

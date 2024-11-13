@@ -21,9 +21,12 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :FasCircleQuestion: Tradition / Archétype |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  Mettre Groupe Ici |
+> |  :LiCalendarClock: Âge | - |
+> |  :LiCalendar: Anniversaire | - |
+> | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
 > Depuis l'ascension de [[Wesmyre]] en tant que dirigeante du hameau de [[Vonholme|Dougan's Hole]], le village s’est vu bénéficier d’un dynamisme sans précédent. Un nouveau prêtre y a d’ailleurs été nommé afin d’apporter un peu de chaleur dans le froid du Nord. Et bien que les prières de [[Luther]] semblent en ravir plus d’un, personne ne s’attendait à ce qu’il accompagne le Groupe dans leur nouvelle aventure. Sans aucune pitié, [[Luther]] utilise ses poings et n’importe quel objet à sa portée pour éliminer les fauteurs de trouble. Le plaisir malsain qu’il prend à faire souffrir ses adversaires pose tout de même de sérieuses questions quant à ses objectifs et son identité.
