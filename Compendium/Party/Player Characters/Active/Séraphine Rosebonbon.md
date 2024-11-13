@@ -25,8 +25,8 @@ ___
 > | :FasCircleQuestion: Archétype / Style |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  `=this.groupe`|
-> |  :LiCalendarClock: Âge | - |
-> |  :LiCalendar: Anniversaire | - |
+> |  :LiCalendarClock: Âge | 21 ans |
+> |  :LiCalendar: Anniversaire | 5 Ches |
 > | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]

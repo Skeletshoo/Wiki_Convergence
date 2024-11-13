@@ -25,8 +25,8 @@ ___
 > | :FasBurst: Patron |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  `=this.groupe`|
-> |  :LiCalendarClock: Âge | - |
-> |  :LiCalendar: Anniversaire | - |
+> |  :LiCalendarClock: Âge | 115 ans |
+> |  :LiCalendar: Anniversaire | 9 Kythorn |
 > | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]

@@ -25,8 +25,8 @@ ___
 > | :RiSwordFill: Archétype |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  `=this.groupe`|
-> |  :LiCalendarClock: Âge | - |
-> |  :LiCalendar: Anniversaire | - |
+> |  :LiCalendarClock: Âge | 38 ans |
+> |  :LiCalendar: Anniversaire | 23 Marpenoth |
 > | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
