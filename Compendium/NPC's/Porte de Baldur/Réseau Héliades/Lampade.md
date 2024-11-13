@@ -23,7 +23,7 @@ ___
 <span class="clearfix"></span>
 
 > [!quote|no-t]
->Homonculus de [[Nox]], fait partie du [[Réseau Héliades]] (?).
+>Lampade est un projet d'Homoncule de [[Nox]] qui a pour but de fait partie du [[Réseau Héliades]]. Nox est actuellement en train de la conçevoir afin qu'elle puisse assister [[Séraphine Rosebonbon]] lorsqu'elle retournera dans en [[Averne]].
 #### marker
 > [!column|flex 3]
 >> [!important]- QUÊTE:
