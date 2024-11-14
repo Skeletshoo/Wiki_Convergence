@@ -13,20 +13,17 @@ headerLink: "[[Ren Gelbrulant#Ren Gelbrulant]]"
 ___
 
 > [!infobox|no-t right]
-> ![[Ren.png]]
+> ![[portrait.jpg]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasBriefcase: Occupation | Espion |
-> | :RiSwordFill: Classe | Roublard |
-> | :FasVenusMars: Genre | Masculin |
-> | :FasUser: Race | Humain |
+> | :FasBriefcase: Occupation |  Caïd |
+> | :FasVenusMars: Genre | ? |
+> | :FasUser: Race | ? |
 <span class="clearfix"></span>
 
 > [!quote|no-t]
->Maître dans l’art du cambriolage, Ren est un spécialiste des missions discrètes dans lesquelles personne n’aurait osé s’aventurer. Addict à l'adrénaline et aux plans alambiqués, ses objectifs ne sont jamais qu’un nouveau moyen de développer ses talents et de les montrer au monde. Ainsi, Ren s’est approché de [[La Guilde]] et de son projet titanesque de faire passer la criminalité sous les radars de l’autorité, plus par envie que poussé par son idéologie. 
-Pour [[Calypso]] et le [[Nox|Le Comte]], il remplit les tâches les plus délicates où la discrétion requise doit être totale. Falsification, assassinat propres, escorte et recherche d’information sont autant de missions qui lui sont attribuées pour le bien de la ville. Il attend avec impatience les affrontements avec des gangs rivaux pour déployer tous ses talents malgré les dangers évidents.
-
+>>Membre du Cercle Intérieur de la [[La Guilde|Guilde]].
 #### marker
 > [!column|flex 3]
 >> [!important]- QUÊTE:
