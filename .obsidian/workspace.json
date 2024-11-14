@@ -41,15 +41,17 @@
             "id": "84615156e0c3ea1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "INDEX.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "file": "Compendium/Lore/Events/Timeline_La_Convergence.canvas",
+                "viewState": {
+                  "x": -3392.514616513123,
+                  "y": 329.3274649143142,
+                  "zoom": -0.8891685652462002
+                }
               },
-              "icon": "lucide-file",
-              "title": "INDEX"
+              "icon": "lucide-layout-dashboard",
+              "title": "Timeline_La_Convergence"
             }
           },
           {
@@ -194,7 +196,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Varis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,9 +244,10 @@
   },
   "active": "84615156e0c3ea1a",
   "lastOpenFiles": [
-    "Compendium/NPC's/Allié Planaire/Cylana.md",
-    "INDEX.md",
+    "Compendium/Atlas/Plan Matériel/Toril/Toril.md",
     "Compendium/Party/Player Characters/Active/Áine Korgan.md",
+    "INDEX.md",
+    "Compendium/NPC's/Allié Planaire/Cylana.md",
     "Compendium/Party/Player Characters/Active/Harrier Von Kessler.md",
     "Compendium/Party/Player Characters/Active/Séraphine Rosebonbon.md",
     "Compendium/Lore/Events/Renaissance de l'Arbre-Monde.md",
@@ -279,7 +282,6 @@
     "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Galatée.md",
     "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Lampade.md",
     "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Lotis.md",
-    "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Métis.md",
     "Assets/Images/NPC/Réseau Héliades/HeliadesNetwork.png",
     "Assets/Images/Party/liv.png",
     "Assets/Images/Location/Zakhara",
