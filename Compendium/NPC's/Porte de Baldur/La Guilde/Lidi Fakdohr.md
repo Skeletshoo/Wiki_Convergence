@@ -25,7 +25,7 @@ ___
 
 > [!quote|no-t]
 >Immigrée venant du [[Valbise|Grand Nord]], Lidi est une dure, une survivante des bas-fonds qui s’est dressée contre les abus d’un ancien chef de district de Keene. Cette dernière avait reconnu sa valeur et lui avait donné la garde du district à la place de son bourreau mais les deux ne se sont jamais entendues. 
-Au changement de direction de [[La Guilde]] Lidi chercha immédiatement à rencontrer [[Nox|Le Comte]], y voyant une potentielle manière de gagner en influence pour aider son district. Finalement, son mode de pensée se maria bien avec celui de Nox et [[Séraphine Rosebonbon|Séraphine]] qui virent en elle une alliée de choix. Elle est membre du Cercle intérieur et sert de garde du corps ou de gros bras pour les missions les plus musclées. Les runes de sa patrie lui servent de protection et de puissant atout en combat.
+Au changement de direction de [[La Guilde]] Lidi chercha immédiatement à rencontrer [[Nox|Le Comte]], y voyant une potentielle manière de gagner en influence pour aider son district. Finalement, son mode de pensée se maria bien avec celui de Nox et [[Séraphine Rosebonbon|Séraphine]] qui virent en elle une alliée de choix. Elle est membre du [[Cercle Intérieur de la Guilde]] et sert de garde du corps ou de gros bras pour les missions les plus musclées. Les runes de sa patrie lui servent de protection et de puissant atout en combat.
 
 #### marker
 > [!column|flex 3]
@@ -38,3 +38,5 @@ Au changement de direction de [[La Guilde]] Lidi chercha immédiatement à renco
 >>```dataview
 >>LIST WITHOUT ID headerLink
 >>FROM "Session Notes" AND [[Lidi Fakdohr]]
+
+Lidi est responsable des caïds opérant dans les quartiers de Culbute, Ronçeuil et Pierreoeil.

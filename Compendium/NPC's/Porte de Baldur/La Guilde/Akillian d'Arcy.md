@@ -24,7 +24,7 @@ ___
 <span class="clearfix"></span>
 
 > [!quote|no-t]
->Akillian est un jeune homme juste et droit, le genre qui n’aurait jamais dû se retrouver dans les bas-fond de la [[Porte de Baldur]] et encore moins au sein de [[La Guilde]]. Il est pourtant tombé amoureux de ces quartiers mal famés en les protégeant autant qu’il le pouvait de la menace des monstres et de la Pègre. Presque ennemi numéro un de la Guilde de Keene, la prise de pouvoir du [[Nox|Comte Einzbern]] lui a sauvé la peau, même si cela n’a pas changé ses objectifs. Particulièrement réticent à l’idée de servir un syndicat du crime, le Comte et [[Séraphine Rosebonbon|Séraphine]] ont dû intervenir personnellement lui expliquer leur objectif de réduction du crime. Akillian sert actuellement la Guilde en tant que membre du cercle intérieur,  ce qui fait de lui l’un des lieutenants les plus respectés et les plus puissants. Il cherche à l’aiguiller vers le chemin le moins sombre et veille à ce que les citoyens innocents soient toujours protégés par la nouvelle pègre.
+>Akillian est un jeune homme juste et droit, le genre qui n’aurait jamais dû se retrouver dans les bas-fond de la [[Porte de Baldur]] et encore moins au sein de [[La Guilde]]. Il est pourtant tombé amoureux de ces quartiers mal famés en les protégeant autant qu’il le pouvait de la menace des monstres et de la Pègre. Presque ennemi numéro un de la Guilde de Keene, la prise de pouvoir du [[Nox|Comte Einzbern]] lui a sauvé la peau, même si cela n’a pas changé ses objectifs. Particulièrement réticent à l’idée de servir un syndicat du crime, le Comte et [[Séraphine Rosebonbon|Séraphine]] ont dû intervenir personnellement lui expliquer leur objectif de réduction du crime. Akillian sert actuellement la Guilde en tant que membre du [[Cercle Intérieur de la Guilde|Cercle Intérieur]],  ce qui fait de lui l’un des lieutenants les plus respectés et les plus puissants. Il cherche à l’aiguiller vers le chemin le moins sombre et veille à ce que les citoyens innocents soient toujours protégés par la nouvelle pègre.
 
 #### marker
 > [!column|flex 3]
@@ -37,3 +37,5 @@ ___
 >>```dataview
 >>LIST WITHOUT ID headerLink
 >>FROM "Session Notes" AND [[Akillian d'Arcy]]
+
+Akillian est responsable des caïds opérant dans les quartiers des Pentes, de L’Orient, et de Bas-Côté.
