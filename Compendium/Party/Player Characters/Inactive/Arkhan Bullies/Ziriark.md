@@ -1,18 +1,18 @@
 ---
 type: pc
 tags:
- - class/rôDeur
- - race/aarakocraÉLéMentaire
-headerLink: "[[Ziriak#Ziriak]]"
+  - class/rôDeur
+  - race/aarakocraÉLéMentaire
+headerLink: "[[Ziriark#Ziriak]]"
 level: "20"
-race: "Aarakocra Élémentaire"
-class: "Rôdeur"
-subClass: "Chasseur"
+race: Aarakocra Élémentaire
+class: Rôdeur
+subClass: Chasseur
 groupe: "[[Arkhan Bullies]]"
-cover: "/Assets/Images/Party/Arkhan_Bullies/Ziriark.png"
+cover: /Assets/Images/Party/Arkhan_Bullies/Ziriark.png
 ---
 
-###### Ziriak
+###### Ziriark
 :FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Cui cui :FasQuoteRight:
 ___
 > [!infobox|no-t right]
@@ -37,19 +37,19 @@ ___
 >> [!info]- QUÊTES/STORYLINES:
 >>```dataview
 >>LIST WITHOUT ID headerLink
->>FROM "Compendium/Party/Quests" AND [[Ziriak]]
+>>FROM "Compendium/Party/Quests" AND [[Ziriark]]
 >>SORT file.ctime DESC
 >
 >>[!note]- HISTOIRE
 >>```dataview
 >>LIST WITHOUT ID headerLink
->>FROM "Session Notes" AND [[Ziriak]]
+>>FROM "Session Notes" AND [[Ziriark]]
 >>SORT file.ctime DESC
 >
 >>[!hint]- Relations (PNJ)
 >>```dataview
 >>LIST WITHOUT ID headerLink
->>FROM "Compendium/NPC's" AND [[Ziriak]]
+>>FROM "Compendium/NPC's" AND [[Ziriark]]
 >>SORT file.ctime DESC
 >>
 ```image-layout-masonry-3

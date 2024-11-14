@@ -8,54 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7517b913195c8db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/Lore/Organizations/Six Samouraïs.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Six Samouraïs"
-            }
-          },
-          {
-            "id": "3f03ee4b1fd3f2a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/Lore/Organizations/Réseau Héliades.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Réseau Héliades"
-            }
-          },
-          {
-            "id": "84615156e0c3ea1a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Compendium/Lore/Events/Timeline_La_Convergence.canvas",
-                "viewState": {
-                  "x": -3392.514616513123,
-                  "y": 329.3274649143142,
-                  "zoom": -0.8891685652462002
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Timeline_La_Convergence"
-            }
-          },
-          {
-            "id": "8f55c981007446a6",
+            "id": "a821b32b9372621d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,37 +23,36 @@
             }
           },
           {
-            "id": "c383d79d41668a10",
+            "id": "84615156e0c3ea1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/Lore/Organizations/Bureaucratie Céleste.md",
+                "file": "Compendium/Lore/Organizations/La Guilde.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Bureaucratie Céleste"
+              "title": "La Guilde"
             }
           },
           {
-            "id": "10da824c13d0198f",
+            "id": "8f55c981007446a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/Atlas/Plan Matériel/Toril/Faerûn/Péninsule de Chult/Péninsule de Chult.md",
-                "mode": "preview",
+                "file": "Compendium/Party/Player Characters/Active/Nox.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Péninsule de Chult"
+              "title": "Nox"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 346.5
   },
   "right": {
     "id": "cbcc3a597fb0833b",
@@ -158,7 +110,7 @@
       {
         "id": "36fb3699cc5e9295",
         "type": "tabs",
-        "dimension": 23.77873563218391,
+        "dimension": 71.80232558139535,
         "children": [
           {
             "id": "34783b92fcf002b0",
@@ -175,7 +127,7 @@
       {
         "id": "1f6fc3dcaa6b4b26",
         "type": "tabs",
-        "dimension": 76.22126436781609,
+        "dimension": 28.197674418604652,
         "children": [
           {
             "id": "37992ec5383e3e3d",
@@ -196,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Varis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -231,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,53 +194,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "84615156e0c3ea1a",
+  "active": "a821b32b9372621d",
   "lastOpenFiles": [
-    "Compendium/Atlas/Plan Matériel/Toril/Toril.md",
-    "Compendium/Party/Player Characters/Active/Áine Korgan.md",
+    "Compendium/Party/Player Characters/Active/Nox.md",
     "INDEX.md",
-    "Compendium/NPC's/Allié Planaire/Cylana.md",
-    "Compendium/Party/Player Characters/Active/Harrier Von Kessler.md",
-    "Compendium/Party/Player Characters/Active/Séraphine Rosebonbon.md",
-    "Compendium/Lore/Events/Renaissance de l'Arbre-Monde.md",
-    "Compendium/Lore/Events/Le Jour de la Convergence.md",
-    "Compendium/Lore/Events/Descente en Averne.md",
-    "Compendium/Lore/Deities/Séluné.md",
-    "Compendium/Lore/Deities/Bahamut.md",
-    "Compendium/Lore/Deities/Aoskar.md",
-    "Compendium/Atlas/Plans Neutres/Plans Neutres.md",
-    "Compendium/Atlas/Plan Matériel/Plan Matériel.md",
-    "Compendium/Atlas/Plan Astral/Plan Astral.md",
+    "Compendium/NPC's/Porte de Baldur/La Guilde/Maximilien Aspros.md",
+    "Compendium/Lore/Organizations/La Guilde.md",
+    "Compendium/Party/Player Characters/Active/Gilgas Saga.md",
+    "Assets/Images/Lore/Organisations/LaGuilde.png",
+    "Assets/Images/Lore/Organisations/clb-c.png",
+    "Compendium/NPC's/Porte de Baldur/La Guilde/Themis Aior.md",
+    "Compendium/NPC's/Porte de Baldur/La Guilde/Rilsa Rael.md",
+    "Compendium/NPC's/Porte de Baldur/La Guilde/Ren Gelbrulant.md",
+    "Compendium/NPC's/Porte de Baldur/La Guilde/Lidi Fakdohr.md",
+    "Compendium/NPC's/Porte de Baldur/La Guilde/Akillian d'Arcy.md",
+    "Assets/Images/NPC/LaGuilde/Ren.png",
+    "Assets/Images/NPC/LaGuilde/Lidi.png",
+    "Assets/Images/NPC/LaGuilde/Akillian.png",
+    "Assets/Images/NPC/LaGuilde/Themis.png",
+    "Assets/Images/NPC/LaGuilde/Maximillien.png",
+    "Assets/Images/NPC/LaGuilde/Rilsa.png",
+    "Assets/Images/NPC/LaGuilde/Capture d'écran 2024-11-14 010553.png",
+    "Assets/Images/NPC/LaGuilde/Capture d'écran 2024-11-14 010546.png",
+    "Assets/Images/NPC/LaGuilde",
+    "Assets/Images/NPC/Nouveau dossier",
+    "Compendium/Party/Quests/Campaign/Hexaforce - Descente en Averne.md",
+    "Compendium/Party/Quests/Arkhan Bullies - Bataille pour la Porte de Baldur.md",
+    "Compendium/Party/Quests/Mafia et Vacances Autour du Monde.md",
+    "Compendium/Party/Quests/Arkhan Bullies - Le Sceptre des Sept Fragments.md",
+    "Compendium/Party/Quests/Arkhan Bullies - Descente en Averne.md",
+    "Compendium/Party/Quests/Arkhan Bullies - Interlude - Armes Légendaires.md",
+    "Compendium/Party/Player Characters/Inactive/Arkhan Bullies/Ziriark.md",
+    "Ziriark.md",
+    "Compendium/Party/Player Characters/Inactive/Arkhan Bullies/Ania.md",
+    "Compendium/Party/Player Characters/Active/Magnus Myst.md",
+    "Compendium/Party/Quests/À la Poursuite des Fidèles.md",
     "Compendium/Party/Player Characters/Active/Alexander White.md",
-    "Compendium/Lore/Organizations/Réseau Héliades.md",
-    "Compendium/Lore/Organizations/Six Samouraïs.md",
-    "Compendium/Lore/Organizations/Bureaucratie Céleste.md",
-    "Compendium/Atlas/Plan Matériel/Toril/Faerûn/Péninsule de Chult/Péninsule de Chult.md",
-    "Assets/Images/Lore/Organisations/Bureaucratie.jpg",
-    "Assets/Images/Lore/Bureaucratie.jpg",
-    "Assets/Images/Bureaucratie.jpg",
-    "Assets/Images/Location/Chult/Bureaucratie.jpg",
-    "Assets/Images/Location/Chult/cf89382710e3eb9cc396c099583892b8.jpg",
-    "Chult.md",
-    "Compendium/NPC's/Suleiman Al-Ghazi.md",
-    "Compendium/Atlas/Plan Matériel/Toril/Faerûn/Péninsule de Chult/Port Nyanzaru/Port Nyanzaru.md",
-    "Assets/Images/Location/Chult/Nyanzaru.webp",
+    "Compendium/Party/Player Characters/Active/Áine Korgan.md",
+    "Compendium/Party/Player Characters/Active/Adeus Grek.md",
+    "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Himalia.md",
     "Compendium/Atlas/Plan Matériel/Toril/Faerûn/Péninsule de Chult/Port Nyanzaru",
-    "Assets/Images/Location/Chult/JunglesChultimg.webp",
-    "Assets/Images/Location/Chult/JunglesChult.webp",
     "Assets/Images/Location/Chult",
     "Assets/Images/Location/New folder",
     "Compendium/Atlas/Plan Matériel/Toril/Faerûn/Péninsule de Chult",
-    "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Galatée.md",
-    "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Lampade.md",
-    "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Lotis.md",
-    "Assets/Images/NPC/Réseau Héliades/HeliadesNetwork.png",
-    "Assets/Images/Party/liv.png",
     "Assets/Images/Location/Zakhara",
     "Compendium/Atlas/Plan Matériel/Toril/Zakhara",
     "Assets/Images/Location/KaraTur",
-    "Compendium/Atlas/Plan Matériel/Toril/Kara-Tur",
-    "Assets/Images/NPC/Ennemis",
-    "Assets/Images/NPC/Nouveau dossier"
+    "Compendium/Atlas/Plan Matériel/Toril/Kara-Tur"
   ]
 }
