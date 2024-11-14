@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INDEX.md",
-                "mode": "preview",
+                "file": "Compendium/Party/Player Characters/Active/Nox.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "INDEX"
+              "title": "Nox"
             }
           },
           {
@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "Compendium/Party/Player Characters/Active/Nox.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
@@ -52,7 +52,8 @@
               "title": "Nox"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,12 +195,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a821b32b9372621d",
+  "active": "34783b92fcf002b0",
   "lastOpenFiles": [
     "Compendium/Party/Player Characters/Active/Nox.md",
+    "Assets/Images/Party/Arkhan_Bullies/Nox_fiche.jpg",
+    "Assets/Images/Party/Arkhan_Bullies/sticker_nox.png",
+    "Assets/Images/Party/Arkhan_Bullies/NoxFrontFig.PNG",
+    "Assets/Images/Party/Arkhan_Bullies/NoxBackFig.PNG",
+    "Compendium/Lore/Organizations/La Guilde.md",
+    "Session Notes/Session 01 (2024-10-30).md",
+    "Compendium/NPC's/Allié Planaire/Bienfaiteur Occulaire.md",
     "INDEX.md",
     "Compendium/NPC's/Porte de Baldur/La Guilde/Maximilien Aspros.md",
-    "Compendium/Lore/Organizations/La Guilde.md",
     "Compendium/Party/Player Characters/Active/Gilgas Saga.md",
     "Assets/Images/Lore/Organisations/LaGuilde.png",
     "Assets/Images/Lore/Organisations/clb-c.png",
@@ -212,10 +219,6 @@
     "Assets/Images/NPC/LaGuilde/Lidi.png",
     "Assets/Images/NPC/LaGuilde/Akillian.png",
     "Assets/Images/NPC/LaGuilde/Themis.png",
-    "Assets/Images/NPC/LaGuilde/Maximillien.png",
-    "Assets/Images/NPC/LaGuilde/Rilsa.png",
-    "Assets/Images/NPC/LaGuilde/Capture d'écran 2024-11-14 010553.png",
-    "Assets/Images/NPC/LaGuilde/Capture d'écran 2024-11-14 010546.png",
     "Assets/Images/NPC/LaGuilde",
     "Assets/Images/NPC/Nouveau dossier",
     "Compendium/Party/Quests/Campaign/Hexaforce - Descente en Averne.md",
@@ -231,8 +234,6 @@
     "Compendium/Party/Quests/À la Poursuite des Fidèles.md",
     "Compendium/Party/Player Characters/Active/Alexander White.md",
     "Compendium/Party/Player Characters/Active/Áine Korgan.md",
-    "Compendium/Party/Player Characters/Active/Adeus Grek.md",
-    "Compendium/NPC's/Porte de Baldur/Réseau Héliades/Himalia.md",
     "Compendium/Atlas/Plan Matériel/Toril/Faerûn/Péninsule de Chult/Port Nyanzaru",
     "Assets/Images/Location/Chult",
     "Assets/Images/Location/New folder",
