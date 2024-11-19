@@ -17,13 +17,14 @@ ___
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasBriefcase: Occupation |  Batard |
-> | :FasVenusMars: Genre | Inconnu |
-> | :FasUser: Race | Inconnu |
+> | :FasBriefcase: Occupation | Légionnaire Lourd |
+> | :FasVenusMars: Genre | Aucun |
+> | :FasUser: Race | Héraut d'Hier |
+> | :LiFastForward: Ost | [Rondo of Love and Darkness](https://youtu.be/z24_R-oJ44Q?si=yXkvuHEbXiF0JTFi) |
 <span class="clearfix"></span>
 
 > [!quote|no-t]
->Profile de Cherchepassé des Hérauts d'Hier, le inconnu inconnu PNJ.
+>Apparus à la [[Porte de Baldur]] et sur divers fronts depuis [[Le Jour de la Convergence]], les Cherchepassés semblent constituer la principale force d'élite des Hérauts d'Hier. Ces étranges créatures, ni vivantes ni mortes sont capables de reproduire certaines attaques effectuées contre elles sans que les conditions de cette capacités soient connues. Par ailleurs, elles volent aussi les ş̶̧̲͓̗͇̱̲͕̠̜̺̬͙͊͐̿̈́̎͛̈ę̵̲̭͕̥́͑̿̓͠d̷̪͋͆̓́̕͜  gagnés par leurs adversaires.
 #### marker
 > [!column|flex 3]
 >> [!important]- QUÊTE:
