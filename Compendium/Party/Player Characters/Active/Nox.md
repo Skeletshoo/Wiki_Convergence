@@ -99,6 +99,9 @@ ___
 >>Recul - Les effets de zone lancé prennent effets deux fois. Les durées des sorts et des effets augmentent de 1.
 >>Accélération - Les effets persistants prennent effets deux fois. Les durées des sorts et des effets diminues de 1.
 >>Stase (coûte 2 charges) - Toutes modification de l'environnement est interrompue pour la durée de l'effet OU Nox se place, lui et autant d'alliés de son choix, en stase. Il peut également choisir un nombre d'ennemis égal au nombre d'alliés en stase (lui compris) et leur appliquer le même effet. Dans cet état, un créature ne peut être affectée par aucun effet, ne peut ni subir de dégâts, ni être soignée, ni être déplacée. Peu importe l'option d'effet de la stase, cet effet dure 3 tours.  
+>>-------------------
+>>***Créateur d'Homoncule - Personnel***
+>>Nox est devenu maître dans l'art de créer des créatures artificielles. En passant suffisamment de temps sur son ouvrage et en dépensant les ressources nécessaires, il est capable de donner vie à des serviteurs homoncules autre qu'avec ses imprégnations d'artificier. Ces homoncules doivent avoir un rôle bien précis dans lequel elles auront de nombreuses compétences, mais peuvent se débrouiller seules et possèdent libre-arbitre, bien qu'un mot de leur créateur soit toujours un ordre absolu.
 
 
 Nox n'était qu'un jeune enfant lorsqu'il fut déposé dans un orphelinat à l'extrême Est de [[La Côte des Épées]]. Déjà conscient de son don, il s'attendit immédiatement à subir des discriminations de la part de ses nouveaux colocataires. Il prit donc une décision particulièrement dangereuse pour quelqu'un de son âge.

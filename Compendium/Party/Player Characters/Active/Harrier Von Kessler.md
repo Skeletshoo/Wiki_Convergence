@@ -37,19 +37,19 @@ ___
 >> [!info]- QUÊTES/STORYLINES:
 >>```dataview
 >>LIST WITHOUT ID headerLink
->>FROM "Compendium/Party/Quests" AND [[Harrier]]
+>>FROM "Compendium/Party/Quests" AND [[Harrier Von Kessler]]
 >>SORT file.ctime DESC
 >
 >>[!note]- HISTOIRE
 >>```dataview
 >>LIST WITHOUT ID headerLink
->>FROM "Session Notes" AND [[Harrier]]
+>>FROM "Session Notes" AND [[Harrier Von Kessler]]
 >>SORT file.ctime DESC
 >
 >>[!hint]- Relations (PNJ)
 >>```dataview
 >>LIST WITHOUT ID headerLink
->>FROM "Compendium/NPC's" AND [[Harrier]]
+>>FROM "Compendium/NPC's" AND [[Harrier Von Kessler]]
 >>SORT file.ctime DESC
 
 ![[COLLAGE_Harrier.png]]
