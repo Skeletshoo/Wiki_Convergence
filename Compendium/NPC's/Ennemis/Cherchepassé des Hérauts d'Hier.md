@@ -13,7 +13,7 @@ headerLink: "[[Cherchepassé des Hérauts d'Hier#Cherchepassé des Hérauts d'Hi
 ___
 
 > [!infobox|no-t right]
-> ![[cherchepasse_heraut_dhier.png]]
+> ![[Cherchepassé.jpg]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
