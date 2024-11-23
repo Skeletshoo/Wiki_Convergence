@@ -13,7 +13,7 @@ headerLink: "[[Port Nyanzaru#Port Nyanzaru]]"
 ___
 
 > [!quote|no-t] RÉSUMÉ
->Port Nyanzaru est le principal centre du commerce de la [[Péninsule de Chult]]. Vers la fin du XVe siècle CV, elle en est la dernière cité humaine connue. Le [[Le Jour de la Convergence]], la cité a subi une attaque des Hérauts d'Hier qui aurait été repoussée par [[Suleiman Al-Ghazi]].
+>Port Nyanzaru est le principal centre du commerce de la [[Péninsule de Chult]]. Vers la fin du XVe siècle CV, elle en est la dernière cité humaine connue. [[Le Jour de la Convergence]], la cité a subi une attaque des Hérauts d'Hier qui aurait été repoussée par [[Suleiman Al-Ghazi]] et son équipage.
 
 #### marker
 > [!column|flex 3]

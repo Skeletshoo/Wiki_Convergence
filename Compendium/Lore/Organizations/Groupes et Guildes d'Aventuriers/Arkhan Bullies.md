@@ -12,7 +12,7 @@ headerLink: "[[Arkhan Bullies#Arkhan Bullies]]"
 ___
 
 > [!quote|no-t]
->![[embed.jpg|right wm-sm]]Fait partie de la [[Grande Alliance de Défense de Toril]]
+>![[ABSymbol.png|right wm-sm]]Fait partie de la [[Grande Alliance de Défense de Toril]]
 
 #### marker
 > [!column|flex 3]
