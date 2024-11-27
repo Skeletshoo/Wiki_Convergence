@@ -6,7 +6,7 @@ tags:
  - location/city
 headerLink: "[[Candlekeep#Candlekeep]]"
 ---
-![[Candlekeep_5E.png|banner]]
+![[Candlekeep_5E.png|banner+tall]]
 ###### Candlekeep
 <span class="sub2">:FasCity: City</span>
 ___

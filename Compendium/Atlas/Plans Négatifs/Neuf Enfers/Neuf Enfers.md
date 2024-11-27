@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Neuf Enfers#Neuf Enfers]]"
 ---
 
-![[nine_hells.webp|banner]]
+![[nine_hells.webp|banner+tall]]
 ###### Neuf Enfers
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

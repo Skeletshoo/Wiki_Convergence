@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Féérie#Féérie]]"
 ---
 
-![[feywild.webp|banner]]
+![[feywild.webp|banner+tall]]
 ###### Féérie
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

@@ -8,7 +8,7 @@ tags:
 headerLink: "[[La Taverne du Chant de l'Elfe#La Taverne du Chant de l'Elfe]]"
 ---
 
-![[elfsong.jpg|banner]]
+![[elfsong.jpg|banner+tall]]
 ###### Le Chant de l’Elfe
 <span class="sub2">:RiBeerLine: Tavern</span>
 ___

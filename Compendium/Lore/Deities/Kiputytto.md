@@ -11,7 +11,7 @@ headerLink: "[[Kiputytto#Kiputytto]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg]]
+> ![[kiputtyto_placheolder.webp]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |

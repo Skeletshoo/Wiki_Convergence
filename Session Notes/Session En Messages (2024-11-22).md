@@ -50,7 +50,7 @@ left: Séraphine
 
 |     |     |
 | --- | --- |
-|   ![[CarteGlitchee.png]]  |![[Glitched_Card.webp]]     |
+|   ![[CarteGlitchee.png]]  | Apparence de la Carte du Goliath ![[Glitched_Card.webp]]     |
 
 
 

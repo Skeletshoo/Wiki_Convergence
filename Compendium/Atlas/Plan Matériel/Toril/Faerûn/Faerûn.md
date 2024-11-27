@@ -6,7 +6,7 @@ tags:
 headerLink: "[[Faerûn#Faerûn]]"
 ---
 
-![[Faerûn.jpg|banner]]
+![[Faerûn.jpg|banner+tall]]
 ###### Faerûn
 <span class="sub2">:FasEarthAmericas: Continent</span>
 ___

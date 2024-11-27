@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Forge de Bel#Forge de Bel]]"
 ---
 
-![[force_bel.webp|banner]]
+![[force_bel.webp|banner+tall]]
 ###### Forge de Bel
 <span class="sub2">:FasCircleQuestion: Mountain</span>
 ___

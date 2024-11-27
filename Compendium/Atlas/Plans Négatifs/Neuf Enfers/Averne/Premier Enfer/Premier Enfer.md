@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Premier Enfer#Premier Enfer]]"
 ---
 
-![[averne.jpg|banner]]
+![[averne.jpg|banner+tall]]
 ###### Premier Enfer
 <span class="sub2">:FasMap: General Region</span>
 ___

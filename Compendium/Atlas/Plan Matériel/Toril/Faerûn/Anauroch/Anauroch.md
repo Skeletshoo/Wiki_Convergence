@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Anauroch#Anauroch]]"
 ---
 
-![[banner.jpg|banner]]
+![[anauroch.jpg|banner+tall]]
 ###### Anauroch
 <span class="sub2">:FasMap: General Region</span>
 ___

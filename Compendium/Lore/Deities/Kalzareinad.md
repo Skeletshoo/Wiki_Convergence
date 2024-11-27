@@ -12,7 +12,7 @@ headerLink: "[[Kalzareinad#Kalzareinad]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg]]
+> ![[kalzareinad_placeholder.webp]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |

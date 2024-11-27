@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Mer des Épées#Mer des Épées]]"
 ---
 
-![[banner.jpg|banner]]
+![[swordsea.jpg|banner+tall]]
 ###### Mer des Épées
 <span class="sub2">:FasMap: General Region</span>
 ___

@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Padhiver#Padhiver]]"
 ---
 
-![[baldursGate.webp|banner]]
+![[neverwinter.webp|banner+tall]]
 ###### Padhiver
 <span class="sub2">:FasCity: City</span>
 ___

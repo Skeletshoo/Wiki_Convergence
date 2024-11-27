@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Naraja#Naraja]]"
 ---
 
-![[banner.jpg|banner]]
+![[najara.webp|banner+tall]]
 ###### Naraja
 <span class="sub2">:FasChessRook: Kingdom</span>
 ___

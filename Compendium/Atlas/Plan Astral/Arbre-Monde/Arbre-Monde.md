@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Arbre-Monde#Arbre-Monde]]"
 ---
 
-![[world-tree.webp|banner]]
+![[world-tree.webp|banner+tall]]
 ###### Arbre-Monde
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

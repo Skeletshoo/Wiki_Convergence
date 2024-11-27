@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Gisombre#Gisombre]]"
 ---
 
-![[5e_DMG_Shadowfell.png|banner]]
+![[5e_DMG_Shadowfell.png|banner+tall]]
 ###### Gisombre
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

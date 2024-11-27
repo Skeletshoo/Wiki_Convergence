@@ -28,7 +28,7 @@ tags:
  - 
 headerLink: "[[<% name %>#<% name %>]]"
 ---
-![[banner.jpg|banner]]
+![[banner.jpg|banner+tall]]
 ###### <% name %>
 <span class="sub2">:FasCircleHalfStroke:  Plan d'Existence</span>
 ___

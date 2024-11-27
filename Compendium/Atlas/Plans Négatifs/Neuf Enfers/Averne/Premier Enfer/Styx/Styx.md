@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Styx#Styx]]"
 ---
 
-![[667px-Avernus_View.webp.png|banner]]
+![[667px-Avernus_View.webp.png|banner+tall]]
 ###### Styx
 <span class="sub2">:FasCircleQuestion: Lake</span>
 ___
