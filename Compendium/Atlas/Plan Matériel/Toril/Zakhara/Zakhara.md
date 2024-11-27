@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Zakhara#Zakhara]]"
 ---
 
-![[Zakhara.jpg|banner]]
+![[Zakhara.jpg|banner+tall]]
 ###### Zakhara
 <span class="sub2">:FasEarthAmericas: Continent</span>
 ___

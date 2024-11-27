@@ -7,7 +7,7 @@ tags:
 headerLink: "[[La Flèche de Givre#La Flèche de Givre]]"
 ---
 
-![[baldursGate.webp|banner]]
+![[laflèchedegivre.webp|banner+tall]]
 ###### La Flèche de Givre
 <span class="sub2">:FasCity: City</span>
 ___

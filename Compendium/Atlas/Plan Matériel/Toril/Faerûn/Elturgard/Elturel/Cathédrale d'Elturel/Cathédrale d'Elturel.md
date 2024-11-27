@@ -8,7 +8,7 @@ tags:
 headerLink: "[[Cathédrale d'Elturel#Cathédrale d'Elturel]]"
 ---
 
-![[banner.jpg|banner]]
+![[elturel_cathedral.png|banner+tall]]
 ###### Cathédrale d'Elturel
 <span class="sub2">:FasChurch: Temple</span>
 ___

@@ -23,7 +23,7 @@ ___
 <span class="clearfix"></span>
 
 > [!quote|no-t]
->Profile de Jean Pipi, le masculin pigeon PNJ.
+> Le meilleur pigeon, MVP des Hexaforces, Revenu à la vie.
 #### marker
 > [!column|flex 3]
 >> [!important]- QUÊTE:

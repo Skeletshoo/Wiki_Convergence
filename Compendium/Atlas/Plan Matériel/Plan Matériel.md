@@ -4,7 +4,7 @@ tags:
 headerLink: "[[Plan Matériel#Material Plane]]"
 ---
 
-![[materialPlane.avif|banner]]
+![[materialPlane.avif|banner+tall]]
 ###### Plan Matériel
 <span class="sub2">:FasCircleHalfStroke: Plan d'Existence</span>
 ___

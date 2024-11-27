@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Citadelle Sanglante#Citadelle Sanglante]]"
 ---
 
-![[bleeding_citadel.webp|banner]]
+![[bleeding_citadel.webp|banner+tall]]
 ###### Citadelle Sanglante
 <span class="sub2">:FasCity: City</span>
 ___

@@ -7,7 +7,7 @@ tags:
 headerLink: "[[La Côte des Épées#The Sword Coast]]"
 ---
 
-![[swordCoast.jpg|banner]]
+![[swordCoast.jpg|banner+tall]]
 ###### La Côte des Épées
 <span class="sub2">:FasMap: General Region</span>
 ___

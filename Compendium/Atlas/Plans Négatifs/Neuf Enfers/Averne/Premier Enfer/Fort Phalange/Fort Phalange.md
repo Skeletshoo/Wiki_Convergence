@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Fort Phalange#Fort Phalange]]"
 ---
 
-![[fort_phalange.webp|banner]]
+![[fort_phalange.webp|banner+tall]]
 ###### Fort Phalange
 <span class="sub2">:RiBuilding4Fill: Town</span>
 ___

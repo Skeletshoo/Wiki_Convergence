@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Eauprofonde#Eauprofonde]]"
 ---
 
-![[waterdeep.jpg|banner]]
+![[waterdeep.jpg|banner+tall]]
 ###### Eauprofonde
 <span class="sub2">:FasCity: City</span>
 ___

@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Averne#Averne]]"
 ---
 
-![[1920x600descent-into.jpg|banner]]
+![[1920x600descent-into.jpg|banner+tall]]
 ###### Averne
 <span class="sub2">:FasEarthAmericas: Continent</span>
 ___

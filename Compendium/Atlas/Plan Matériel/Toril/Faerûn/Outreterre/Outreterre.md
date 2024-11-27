@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Outreterre#Outreterre]]"
 ---
 
-![[banner.jpg|banner]]
+![[outreterre.jpg|banner+tall]]
 ###### Outreterre
 <span class="sub2">:FasMap: General Region</span>
 ___

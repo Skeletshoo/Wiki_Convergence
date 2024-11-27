@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Crypte des Cavaliers des Enfers#Crypte des Cavaliers des Enfers]]"
 ---
 
-![[Lava-Field-Thumbnail.jpg|banner]]
+![[Lava-Field-Thumbnail.jpg|banner+tall]]
 ###### Crypte des Cavaliers des Enfers
 <span class="sub2">:FasCircleQuestion: Encampment</span>
 ___

@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Port Nyanzaru#Port Nyanzaru]]"
 ---
 
-![[Nyanzaru.webp|banner]]
+![[Nyanzaru.webp|banner+tall]]
 ###### Port Nyanzaru
 <span class="sub2">:FasCity: City</span>
 ___

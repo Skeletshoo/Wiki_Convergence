@@ -8,7 +8,7 @@ tags:
 headerLink: "[[Manoir Hexaforce#Manoir Hexaforce]]"
 ---
 
-![[banner.jpg|banner]]
+![[porte_de_baldur.jpg|banner+tall]]
 ###### Manoir Hexaforce
 <span class="sub2">:FasHouse: Residence</span>
 ___

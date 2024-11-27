@@ -48,7 +48,7 @@ tags:
 headerLink: "[[<% name %>#<% name %>]]"
 ---
 
-![[banner.jpg|banner]]
+![[banner.jpg|banner+tall]]
 ###### <% name %>
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Elturel#Elturel]]"
 ---
 
-![[elruel.jpg|banner]]
+![[elruel.jpg|banner+tall]]
 ###### Elturel
 <span class="sub2">:FasCity: City</span>
 ___

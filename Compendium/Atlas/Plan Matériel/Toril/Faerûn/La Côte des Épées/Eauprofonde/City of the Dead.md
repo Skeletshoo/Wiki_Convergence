@@ -8,7 +8,7 @@ tags:
 headerLink: "[[City of the Dead#City of the Dead]]"
 ---
 
-![[cityDead.webp|banner]]
+![[cityDead.webp|banner+tall]]
 ###### City of the Dead
 <span class="sub2">:FasGhost: Cemetery</span>
 ___

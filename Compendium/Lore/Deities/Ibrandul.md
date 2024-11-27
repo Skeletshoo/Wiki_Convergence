@@ -12,7 +12,7 @@ headerLink: "[[Ibrandul#Ibrandul]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg]]
+> ![[Ibrandul2e.webp]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |

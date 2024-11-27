@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Porte de Baldur#Porte de Baldur]]"
 ---
 
-![[baldursGate.webp|banner]]
+![[baldursGate.webp|banner+tall]]
 ###### Porte de Baldur
 <span class="sub2">:FasCity: City</span>
 ___

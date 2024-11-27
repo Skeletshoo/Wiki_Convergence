@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Monument de Tiamat#Monument de Tiamat]]"
 ---
 
-![[Avernus+Label+Sample+3.jpg|banner]]
+![[Avernus+Label+Sample+3.jpg|banner+tall]]
 ###### Monument de Tiamat
 <span class="sub2">:FasCircleQuestion: Encampment</span>
 ___

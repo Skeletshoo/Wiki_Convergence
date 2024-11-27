@@ -13,7 +13,7 @@ headerLink: "[[Gargauth#Gargauth]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg]]
+> ![[Gargauth_3E.webp]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
@@ -22,7 +22,7 @@ ___
 > | :FasBuildingColumns: Panthéon | Faerûnian |
 
 > [!quote|no-t]
->Demi-Dieu, Enfermé dans le bouclier de [[Magnus Myst]]
+>Demi-Dieu, Enfermé dans le [[Bouclier du Seigneur Caché|bouclier]] de [[Magnus Myst]]
 
 #### marker
 > [!column|flex 3]

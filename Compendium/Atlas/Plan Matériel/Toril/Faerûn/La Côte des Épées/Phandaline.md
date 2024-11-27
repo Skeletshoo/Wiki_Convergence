@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Phandaline#Phandaline]]"
 ---
 
-![[baldursGate.webp|banner]]
+![[phandalin.webp|banner+tall]]
 ###### Phandaline
 <span class="sub2">:FasCity: City</span>
 ___

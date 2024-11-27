@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Toril#Toril]]"
 ---
 
-![[toril.jpg|banner]]
+![[toril.jpg|banner+tall]]
 ###### Toril
 <span class="sub2">:FasGlobe: Realm (world)</span>
 ___

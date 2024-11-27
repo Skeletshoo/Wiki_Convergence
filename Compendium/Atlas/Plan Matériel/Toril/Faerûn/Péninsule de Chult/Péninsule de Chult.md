@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Péninsule de Chult#Péninsule de Chult]]"
 ---
 
-![[JunglesChultimg.webp|banner]]
+![[JunglesChultimg.webp|banner+tall]]
 ###### Péninsule de Chult
 <span class="sub2">:FasMap: General Region</span>
 ___

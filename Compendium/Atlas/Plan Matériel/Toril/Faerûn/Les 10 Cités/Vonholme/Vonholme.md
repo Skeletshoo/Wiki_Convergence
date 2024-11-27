@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Vonholme#Vonholme]]"
 ---
 
-![[banner.jpg|banner]]
+![[silverymoon.webp|banner+tall]]
 ###### Vonholme
 <span class="sub2">:FasCity: City</span>
 ___

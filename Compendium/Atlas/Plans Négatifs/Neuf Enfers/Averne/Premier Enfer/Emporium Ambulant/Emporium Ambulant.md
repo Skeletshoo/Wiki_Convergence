@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Emporium Ambulant#Emporium Ambulant]]"
 ---
 
-![[wandering_emporium.png|banner]]
+![[wandering_emporium.png|banner+tall]]
 ###### Emporium Ambulant
 <span class="sub2">:FasCity: City</span>
 ___
