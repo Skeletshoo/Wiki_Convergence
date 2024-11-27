@@ -13,7 +13,7 @@ headerLink: "[[Zakhara#Zakhara]]"
 ___
 
 > [!quote|no-t]
->Le Zakhara, surnommé les Terres de la destinée, est une terre désertique ponctuée d'oasis luxuriantes et peuplées de puissants génies qui interviennent dans les affaires. Le Zakhara forme une nation unifiée par une intense foi inspirant la piété, le zèle et l'honneur. Mais le continent possède son lot de cités hantées par des démons et d'ensorceleurs impies pratiquant une étrange magie. Les côtes du continent sont infestées de corsaires redoutables qui exigent de lourds tributs et interdisent parfois même la traversée de la Grande Mer où ils opèrent.
+>Le Zakhara, surnommé les Terres de la destinée, est une terre désertique ponctuée d'oasis luxuriantes et peuplées de puissants génies qui interviennent parfois dans les affaires des mortels. Le Zakhara forme une nation unifiée par une intense foi inspirant la piété, le zèle et l'honneur. Mais le continent possède son lot de cités hantées par des démons et d'ensorceleurs impies pratiquant une étrange magie. Les côtes du continent sont infestées de corsaires redoutables qui exigent de lourds tributs et interdisent parfois même la traversée de la Grande Mer où ils opèrent.
 
 #### marker
 > [!column|flex 3]

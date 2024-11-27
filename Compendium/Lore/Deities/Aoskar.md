@@ -13,7 +13,7 @@ headerLink: "[[Aoskar#Aoskar]]"
 ___
 
 > [!infobox|no-t right]
-> ![[aoskar.png]]
+> ![[AoskarWB.webp]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
