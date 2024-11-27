@@ -13,7 +13,7 @@ headerLink: "[[Kara-Tur#Kara-Tur]]"
 ___
 
 > [!quote|no-t]
->Kara-Tur est un des continents de [[Toril#Toril]], situé à l'est de [Faerûn] et de [Zakhara]. C'est un merveilleux territoire de légende constitué de montagnes aussi hautes que le ciel, d'impénétrables jungles et de vastes prairies inhabitées, parcourues par de féroces tribus séparent des empires tentaculaires. Kara-Tur est réputé pour sa soie, ses épices et son or, ainsi que pour ses cruels seigneurs de guerre.
+>Kara-Tur est un des continents de [[Toril#Toril]], situé à l'est de [[Faerûn]] et de [[Zakhara]]. C'est un merveilleux territoire de légende constitué de montagnes aussi hautes que le ciel, d'impénétrables jungles et de vastes prairies inhabitées, parcourues par de féroces tribus séparent des empires tentaculaires. Kara-Tur est réputé pour sa soie, ses épices et son or, ainsi que pour ses cruels seigneurs de guerre.
 
 #### marker
 > [!column|flex 3]

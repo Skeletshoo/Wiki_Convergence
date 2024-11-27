@@ -1,14 +1,14 @@
 ---
 type: npc
 locations:
- - "[[? ]]"
+  - "[[? ]]"
 tags:
- - affinity/hostile
- - job/bâTard
- - race/demiOrc
-headerLink: "[[ViggOmbre#ViggOmbre]]"
+  - affinity/hostile
+  - job/bâTard
+  - race/demiOrc
+headerLink: "[[Viggo (Alter)#ViggOmbre]]"
 ---
-###### ViggOmbre
+###### Viggo, Archange de la Trahison
 <span class="sub2">:FasMapLocationDot: [[? #? ]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Hostile </span>
 ___
 
