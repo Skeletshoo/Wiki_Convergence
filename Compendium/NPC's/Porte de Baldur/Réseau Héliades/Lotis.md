@@ -25,6 +25,14 @@ ___
 > [!quote|no-t]
 >Lotis est la garante des renseignements des [[Réseau Héliades|Héliades]] mais aussi leur exécutante principale. Elle suit discrètement [[Nox]] et lui rapporte les rumeurs et légendes tout en permettant à [[Calliope]] de les archiver. Il lui arrive aussi parfois de se battre pour protéger les affaires de son créateur. Contrairement à ses deux aînées, [[Calypso]] et [[Himalia]], elle ne possède qu’une voix basique peu raffinée. Ses points forts se trouvent dans sa dextérité et sa discrétion ainsi que sa capacité à rapporter ses observations le plus fidèlement possible. Assez froide, Lotis ne met pas d’artifices dans ses discussions. Elle assume son rôle de la manière la plus logique et la plus efficace, sans en faire ni trop, ni pas assez.
 
+```dialogue
+left: Calliope
+titleMode: all
+
+<Lotis est occupée actuellement mais vous pourrez la contacter si vous avez besoin de renseignements en tout genre... 👀
+
+```
+
 #### marker
 > [!column|flex 3]
 >> [!important]- QUÊTE:

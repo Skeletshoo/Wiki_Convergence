@@ -15,6 +15,8 @@ ___
 > [!quote|no-t] RÉSUMÉ
 >Château de [[Titania]], où la [[Cour d'Été]] est convoquée.
 >Grosse bâtisse, absolument majestueux, ça pullule de fées et de bardes de toutes les races, des fleurs et des fontaines dans tous les coins
+>
+>Actuellement gelé. /!\
 
 #### marker
 > [!column|flex 3]

@@ -25,6 +25,14 @@ ___
 > [!quote|no-t]
 >Himalia est la gardienne du Manoir des [[Arkhan Bullies]] et une membre du réseau des [[Réseau Héliades|Héliades]]. [[Nox]] l'a conçue pour protéger la propriété du Groupe et coordonner les tâches quotidiennes ou aider les résidents en faisant le lien avec sa soeur [[Calypso]]. Bien qu’elles ne se rencontrent jamais en public, les deux sœurs forment un duo symbiotique bien utile pour Nox puisque les tâches mentales ne sont pas le fort d’Himalia. Elle porte un impeccable uniforme de domestique noir et blanc. Même hors combat, elle porte de légers renforts en fer qui se marient parfaitement avec son tablier. Bien qu’elle soit méticuleuse et qu’elle arbore une façade assez froide, Himalia est assez gentille. Elle cherche souvent à faire plaisir aux résidents du Manoir si cela reste en son pouvoir, mais elle le fera discrètement, en niant presque si on l’interroge.
 
+```dialogue
+left: Calliope
+titleMode: all
+
+<Himalia pourra vous proposer une ou plusieurs chambre dans le manoir de notre Père et vous ravitailler en nourriture. 🍲
+
+```
+
 #### marker
 > [!column|flex 3]
 >> [!important]- QUÊTE:

@@ -30,7 +30,8 @@ ___
 > | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
-> Zyrielle fait partie du groupe du Prophète du Crapaud. Elle a parcouru Prismeer afin de délivrer Zyblina. Toujours à la recherche de quelque chose, elle s'est remise en route accompagnée de [[Zu]] et de [[Leonhard Breginton]] en direction de la Mer des Étoiles Déchues
+> Zyrielle fait partie du groupe du Prophète du Crapaud. Elle a parcouru [[Prismeer]] afin de délivrer [[Zyblina]]. Toujours à la recherche de quelque chose, elle s'est remise en route accompagnée de [[Zu]] et de [[Leonhard Breginton]] en direction de la [[Mer des Étoiles Déchues]].
+> Fait possiblement partie de la [[Cour d'Été]] ?
  
 #### marker
 > [!column|flex 3]

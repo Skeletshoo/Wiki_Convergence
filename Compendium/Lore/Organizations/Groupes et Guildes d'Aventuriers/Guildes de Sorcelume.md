@@ -12,7 +12,7 @@ headerLink: "[[Guildes de Sorcelume#Guildes de Sorcelume]]"
 ___
 
 > [!quote|no-t]
->![[embed.jpg|right wm-sm]]Profile de Guildes de Sorcelume, une unknown organisation.
+>![[embed.jpg|right wm-sm]]Un groupes d'aventurier du Carnaval de Sorcelume (Timeline H).
 
 #### marker
 > [!column|flex 3]

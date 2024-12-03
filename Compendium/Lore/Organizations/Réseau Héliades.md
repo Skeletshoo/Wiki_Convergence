@@ -31,3 +31,25 @@ ___
 >>```dataview
 >>LIST WITHOUT ID headerLink
 >>FROM "Session Notes" AND [[Réseau Héliades]]
+
+```dialogue
+left: Calliope
+titleMode: all
+
+<Permettez que je (re)présente notre réseau aux nouveaux venus... 😃 
+
+<Si vous avez reçu une pierre de communication supérieure, vous pouvez désormais contacter le réseau Heliades à tout moment ainsi que tout utilisateur possédant aussi cet objet 😎 
+
+<Le Réseau Heliades est un groupe d'homoncules créés pour gérer les affaires de notre Père, Nox. Chaque membre dispose d'une spécialité et nous vous invitons à vous en remettre à nous si vous avez besoin de nos services.
+
+<Demandez Calliope (moi même 🤠 ) si vous souhaitez recevoir des informations allant des forces que nous affrontons aux rumeurs et légendes de notre monde.
+
+<Métis se fera un plaisir de réparer votre équipement et de vous fournir des munitions ou des objets magiques mineurs, moyennant finances bien sûr. 🛠️ 
+
+<Himalia pourra vous proposer une ou plusieurs chambre dans le manoir de notre Père et vous ravitailler en nourriture. 🍲 
+
+<En cas d'urgence financière ou si vous avez un soucis avec la pègre, contactez Calypso, elle pourra vous proposer un prêt ou une escorte. 🕵️  
+
+<Lotis est occupée actuellement mais vous pourrez la contacter si vous avez besoin de renseignements en tout genre... 👀
+
+```

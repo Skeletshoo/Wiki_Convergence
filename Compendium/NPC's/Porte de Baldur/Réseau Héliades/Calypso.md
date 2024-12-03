@@ -25,6 +25,14 @@ ___
 > [!quote|no-t]
 >Calypso est la gestionnaire de [[La Guilde]] et du réseau des [[Réseau Héliades|Héliades]], les créations homoncules de [[Nox]].  En tant qu'ainée (après [[Galatée]]), elle est douée de parole et dispose de l’intelligence suffisante pour contrôler la Guilde à la place de son créateur. Sa voix est inhumaine mais dispose d’un côté charmant de même que son visage est légèrement plus doux que celui de Galatée. Elle est vêtue d’un uniforme soigné et est méticuleuse, calme et réfléchie. C’est une personnalité rassurante qui résout les problèmes de manière logique.
 
+```dialogue
+left: Calliope
+titleMode: all
+
+<En cas d'urgence financière ou si vous avez un soucis avec la pègre, contactez Calypso, elle pourra vous proposer un prêt ou une escorte. 🕵️  
+
+```
+
 #### marker
 > [!column|flex 3]
 >> [!important]- QUÊTE:
