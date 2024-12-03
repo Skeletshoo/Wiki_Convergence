@@ -4,7 +4,7 @@ tags:
  - class/paladin
  - race/humain
 headerLink: "[[Leonhard Breginton#Leonhard Breginton]]"
-level: "4"
+level: "5"
 race: "Humain"
 class: "Paladin"
 subClass: "Parjure"
