@@ -24,8 +24,8 @@ ___
 > | :FasChessKing: Serment |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[Guildes de Sorcelume]] |
-> |  :LiCalendarClock: Âge | - |
-> |  :LiCalendar: Anniversaire | - |
+> |  :LiCalendarClock: Âge | 39 ans |
+> |  :LiCalendar: Anniversaire | 23 Nuiteuse |
 > | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
