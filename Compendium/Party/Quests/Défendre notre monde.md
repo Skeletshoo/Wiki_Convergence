@@ -23,7 +23,8 @@ ___
 >>> - *En [[Thay]], une jeune fille aux Cheveux Roses a été aperçue et fout le chaos.* - ***[[Bienfaiteur Occulaire]]***
 >>> - ~~*En Outreterre, un Archange est en train de foutre le chaos.*  - ***[[Bienfaiteur Occulaire]]***~~
 >>>> L'Archange Sombre, [[Viggo (Alter)]], a réussit à s'enfuir avec un contrat signé par les dirigeant d'[[]]
->>> - *Un artificier qui veut réparer les gens.*  - ***[[Bienfaiteur Occulaire]]*** (Quelque part sur la carte de Lulu, j'arrive pas à lire)
+>>> - ~~*Un artificier qui veut réparer les gens.*  - ***[[Bienfaiteur Occulaire]]*** (Quelque part sur la carte de Lulu, j'arrive pas à lire)~~
+>>> - > Notez que les informations sur l'artificier datent d'avant l'attaque des Hérauts après vérifications. Les rumeurs le dépeignaient pour la dernière fois dans un village en Cormyr mais plus personne ne l'a vue depuis, il semble qu'il se soit enfoncé dans la forêt pour ne jamais en ressortir. - [[Calliope]]
 >>> - *Un Ensorceleur au corps nimbé d'ombre.*  - ***[[Bienfaiteur Occulaire]]*** (Nord de Eauprofonde, Forêt)
 >>> - La Cour de l'Été, dont Titania, a été frappé soudainement. L'endroit a été complètement gelé. - Information de [[Zyrielle Unseele]], [[Zu]] et [[Leonhard Breginton]]
 >>
