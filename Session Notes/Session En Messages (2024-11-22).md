@@ -4,7 +4,7 @@ locations:
   - "[[Faerûn]]"
 tags:
   - 
-headerLink: "[[Session En Messages (2024-11-22)#Messages de Chults|Messages de Chults (2024-11-22)]]"
+headerLink: "[[Session En Messages (2024-11-22)#Messages de Chults|Session En Messages (2024-11-22)]]"
 ---
 
 ![[session.png|banner]]
