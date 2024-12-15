@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Ysgard#Ysgard]]"
 ---
 
-![[banner.jpg|banner]]
+![[Ysgard.png|banner+tall]]
 ###### Ysgard
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

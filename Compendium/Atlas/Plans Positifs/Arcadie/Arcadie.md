@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Arcadie#Arcadie]]"
 ---
 
-![[banner.jpg|banner]]
+![[Arcadia.png|banner+tall]]
 ###### Arcadie
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Géhenne#Géhenne]]"
 ---
 
-![[banner.jpg|banner]]
+![[Gehenna.png|banner+tall]]
 ###### Géhenne
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

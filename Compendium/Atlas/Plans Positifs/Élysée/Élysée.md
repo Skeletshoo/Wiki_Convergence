@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Élysée#Élysée]]"
 ---
 
-![[banner.jpg|banner]]
+![[Elysium.webp|banner+tall]]
 ###### Élysée
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

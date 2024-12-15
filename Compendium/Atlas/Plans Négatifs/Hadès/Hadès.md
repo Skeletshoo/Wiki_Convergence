@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Hadès#Hadès]]"
 ---
 
-![[banner.jpg|banner]]
+![[Hades.webp|banner+tall]]
 ###### Hadès
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

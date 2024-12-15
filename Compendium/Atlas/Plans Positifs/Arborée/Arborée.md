@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Arborée#Arborée]]"
 ---
 
-![[banner.jpg|banner]]
+![[Arborea.jpeg|banner+tall]]
 ###### Arborée
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

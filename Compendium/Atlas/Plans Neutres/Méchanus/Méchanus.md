@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Méchanus#Méchanus]]"
 ---
 
-![[banner.jpg|banner]]
+![[Mechanus.jpg|banner+tall]]
 ###### Méchanus
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

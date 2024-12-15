@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Compendium/Atlas/Plans Neutres/Limbes/Limbes#Limbes]]"
 ---
 
-![[banner.jpg|banner]]
+![[Limbo.webp|banner+tall]]
 ###### Limbes
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Mont Céleste#Mont Céleste]]"
 ---
 
-![[banner.jpg|banner]]
+![[Celestia.webp|banner+tall]]
 ###### Mont Céleste
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Ooltul#Ooltul]]"
 ---
 
-![[ooltul.webp|banner]]
+![[ooltul.webp|banner+tall]]
 ###### Ooltul
 <span class="sub2">:FasCity: City</span>
 ___

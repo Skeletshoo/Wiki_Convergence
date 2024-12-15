@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Kara-Tur#Kara-Tur]]"
 ---
 
-![[KaraTur.jpg]]
+![[KaraTur.jpg|banner+tall]]
 ###### Kara-Tur
 <span class="sub2">:FasEarthAmericas: Continent</span>
 ___
