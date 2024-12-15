@@ -15,7 +15,7 @@ cover: "/Assets/Images/Party/Portrait.jpg"
 :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: Hello :FasQuoteRight:
 ___
 > [!infobox|no-t right]
-> ![[portrait.jpg]]
+> ![[Luther.webp]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |

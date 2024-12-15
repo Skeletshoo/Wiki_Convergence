@@ -5,7 +5,7 @@ tags:
 headerLink: "[[Primus#Primus]]"
 ---
 
-###### Primus, Dieu de Méchanicus
+###### Primus, Dieu de Méchanus
 <span class="sub2">:FasCross: Divinité &nbsp; | &nbsp; :FasYinYang: Neutre</span>
 ___
 
@@ -14,12 +14,12 @@ ___
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasBoltLightning: Domaines | Mechanicus |
+> | :FasBoltLightning: Domaines | Mechanus |
 > | :FasVenusMars: Genre | Masculin |
 > | :FasBuildingColumns: Panthéon |  |
 
 > [!quote|no-t]
->Primus, Dieu de Méchanicus.
+>Primus, Dieu de [[Méchanus]].
 
 #### marker
 > [!column|flex 3]

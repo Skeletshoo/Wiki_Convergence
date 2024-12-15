@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Terres des Bêtes#Terres des Bêtes]]"
 ---
 
-![[banner.jpg|banner]]
+![[Beastlands.avif|banner+tall]]
 ###### Terres des Bêtes
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

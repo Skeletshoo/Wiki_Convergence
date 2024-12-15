@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Achéron#Achéron]]"
 ---
 
-![[banner.jpg|banner]]
+![[Acheron.webp|banner+tall]]
 ###### Achéron
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

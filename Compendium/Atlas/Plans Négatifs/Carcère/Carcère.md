@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Carcère#Carcère]]"
 ---
 
-![[banner.jpg|banner]]
+![[Carceri.webp|banner+tall]]
 ###### Carcère
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

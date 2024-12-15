@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Pandémonium#Pandémonium]]"
 ---
 
-![[banner.jpg|banner]]
+![[Pandemonium.jpg|banner+tall]]
 ###### Pandémonium
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

@@ -6,7 +6,7 @@ tags:
   - affinity/hostile
   - job/bâTard
   - race/demiOrc
-headerLink: "[[Viggo (Alter)#ViggOmbre]]"
+headerLink: "[[Viggo (Alter)]]"
 ---
 ###### Viggo, Archange de la Trahison
 <span class="sub2">:FasMapLocationDot: [[? #? ]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Hostile </span>

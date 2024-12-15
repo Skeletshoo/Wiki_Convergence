@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Abysses#Abysses]]"
 ---
 
-![[banner.jpg|banner]]
+![[Abyss.webp|banner+tall]]
 ###### Abysses
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

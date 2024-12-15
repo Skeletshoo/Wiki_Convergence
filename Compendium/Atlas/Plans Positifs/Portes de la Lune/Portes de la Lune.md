@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Portes de la Lune#Portes de la Lune]]"
 ---
 
-![[banner.jpg|banner]]
+![[GatesOfTheMoon.webp|banner+tall]]
 ###### Portes de la Lune
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

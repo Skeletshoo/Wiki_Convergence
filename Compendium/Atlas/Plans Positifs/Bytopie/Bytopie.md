@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Bytopie#Bytopie]]"
 ---
 
-![[banner.jpg|banner]]
+![[Bytopia.png|banner+tall]]
 ###### Bytopie
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___
