@@ -6,7 +6,7 @@ tags:
  - affinity/hostile
  - job/?
  - race/lizardfolk
-headerLink: "[[Edarsjach (Alter)#Edarsjach (Alter)]]"
+headerLink: "[[Edarsjach (Alter)]]"
 ---
 ###### Edarsjach (Alter)
 <span class="sub2">:FasMapLocationDot: [[?#?]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Hostile </span>
