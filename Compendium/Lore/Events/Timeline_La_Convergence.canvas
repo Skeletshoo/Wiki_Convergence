@@ -384,12 +384,12 @@
 		{"id":"9e036fa8685299f5","type":"text","text":"## 6","x":32440,"y":116,"width":100,"height":80},
 		{"id":"a6f908f077d30d60","type":"text","text":"## 7","x":32540,"y":116,"width":100,"height":80},
 		{"id":"a6ad0f0f8107239c","type":"text","text":"[Redacted]\n","x":-824,"y":1741,"width":184,"height":161,"color":"1"},
-		{"id":"5d420bfce56a634e","type":"file","file":"Assets/Images/Token_Timeline/minialexa.png","x":-792,"y":1822,"width":98,"height":99,"color":"1"},
+		{"id":"5d420bfce56a634e","type":"file","file":"Assets/Images/Token_Timeline/minialexa.png","x":-792,"y":1822,"width":98,"height":98,"color":"1"},
 		{"id":"5317583c93d7025e","type":"text","text":"# LA CONVERGENCE\n![[token_bienfaiteur_occulaire.png|right hsmall]] Nox Séraphine, Alexander, Àine, Harrier, Magnus et Lulu se retrouvent à la Porte de Baldur. La ville est assaillie par des créatures inconnues. Le ieu Aoscar apparaît et attaque nos héros. Une personne contacte la ville via un sort de type scrutation. \n![[minisera.png|hmicro]] ![[mininox.png|hmicro]] ![[miniha_S3.png|hmicro]]![[minialexa.png|hmicro]] ![[miniaine_S2.png|hmicro]] ![[minilulu.png|hmicro]]![[minimag_S3.png|hmicro]]","x":-3660,"y":-490,"width":820,"height":371,"color":"6"},
 		{"id":"64ac0ddf60283f64","type":"text","text":"Adeus, Gilgas et Liv se réveillent dans un autel étrange au coeur du Glacier Reghed. Un clan barbare installé à Evermelt leur apprend que des légions entières de gnoll occupent les plaines du Valbise entre le Glacier et les 10 Citées.\n![[minigilgas.png|hmicro]] ![[miniadeus.png|hmicro]]![[miniliv.png|hmicro]]","x":-2780,"y":-476,"width":420,"height":344,"color":"5"},
-		{"id":"090569950ef613a4","type":"text","text":"Nox, Alexander, Harrier et Magnus partent vers l'Outreterre, et pour celà se dirigent vers le Narajara afin de trouver un passage. \n![[minialexa.png| hmicro]]  ![[mininox.png| hmicro]]  ![[miniha_S3.png| hmicro]]  ![[minimag_S3.png| hmicro]] ","x":-4174,"y":656,"width":428,"height":209,"color":"6"},
+		{"id":"090569950ef613a4","type":"text","text":"Nox, Alexander, Harrier et Magnus partent vers l'Outreterre, et pour celà se dirigent vers le Narajara afin de trouver un passage. \n![[minialexa.png| hmicro]]  ![[mininox.png| hmicro]]  ![[miniha_S3.png| hmicro]]  ![[minimag_S3.png| hmicro]] ","x":-4174,"y":656,"width":428,"height":251,"color":"6"},
 		{"id":"b1df6c979d05e9ae","type":"text","text":"![[minialexa.png|left hmicro]] Alexander se fait emmener par Viggo dans un cercle de téléportation. [Redacted]","x":-2960,"y":1754,"width":422,"height":166,"color":"1"},
-		{"id":"0a7a179f3e21a746","x":-3948,"y":511,"width":88,"height":88,"color":"5","type":"file","file":"Assets/Images/Token_Timeline/miniliv.png"},
+		{"id":"0a7a179f3e21a746","type":"file","file":"Assets/Images/Token_Timeline/miniliv.png","x":-3948,"y":511,"width":88,"height":88,"color":"5"},
 		{"id":"51f1fbc6c3244724","type":"file","file":"Assets/Images/Token_Timeline/minigilgas.png","x":-3860,"y":511,"width":88,"height":88,"color":"5"},
 		{"id":"4d98be65b4ded31e","type":"file","file":"Assets/Images/Token_Timeline/miniadeus.png","x":-3772,"y":511,"width":88,"height":88,"color":"5"},
 		{"id":"cea9c3c031ec5919","type":"text","text":"Fort Beluarian a été déserté par ses habitants et Port Nyanzaru subit une attaque d'un Goliath Portemémoires. La déesse Kiputytto endort la ville et s'enfuit dans la jungle. Suleiman annonce aider le trio à la traquer.","x":-3028,"y":1205,"width":539,"height":166,"color":"2"},
@@ -398,13 +398,13 @@
 		{"id":"03402d112d40f571","type":"file","file":"Assets/Images/Token_Timeline/minilulu.png","x":-2573,"y":1354,"width":84,"height":84,"color":"2"},
 		{"id":"9e8f914241fd1890","type":"file","file":"Assets/Images/Token_Timeline/miniaine_S2.png","x":-2652,"y":1354,"width":84,"height":84,"color":"2"},
 		{"id":"d7f3e9ca7dcdf5f3","type":"file","file":"Assets/Images/Token_Timeline/minisera.png","x":-2733,"y":1354,"width":84,"height":84,"color":"2"},
-		{"id":"7ca6ee0cd93dfbf0","type":"text","text":"Arrivée en Najara. Le groupe aprend que les problèmes viennent du domaine situé sous l'Anauroch","x":-3588,"y":684,"width":357,"height":154,"color":"6"},
-		{"id":"760b0841b3ba1b4a","type":"text","text":"![[miniania.png| right hmicro]]  Arrivée en Anauroch. Le groupe affronte d'étranges vases qui renvoient leurs attaques. Ania est retrouvée dans la Brèche des Géants Déchus. Un autel est découvert au même endroit.  \nDécouverte d'une mine abandonnée, d'un puit rempli de vases, et d'une citée de Tyrannoeil.\n","x":-3106,"y":581,"width":446,"height":361,"color":"6"},
 		{"id":"f86cafcd9c271ff3","type":"text","text":"Les vases attaquent la citée des tyrannoeils, Viggo apparait et repart par un cercle de téléportation, emmenant Alexander avec lui.","x":-2600,"y":617,"width":293,"height":290,"color":"6"},
 		{"id":"de016d5b328456f3","type":"file","file":"Assets/Images/Token_Timeline/minimag_S3.png","x":-2422,"y":869,"width":77,"height":77,"color":"6"},
 		{"id":"a134a3c75bbb2f55","type":"file","file":"Assets/Images/Token_Timeline/miniania.png","x":-2345,"y":869,"width":77,"height":77,"color":"6"},
 		{"id":"d6a0c85da04c673e","type":"file","file":"Assets/Images/Token_Timeline/miniha_S3.png","x":-2502,"y":869,"width":77,"height":77,"color":"6"},
-		{"id":"a359209d7d5d5fb4","type":"file","file":"Assets/Images/Token_Timeline/mininox.png","x":-2577,"y":869,"width":77,"height":77,"color":"6"}
+		{"id":"a359209d7d5d5fb4","type":"file","file":"Assets/Images/Token_Timeline/mininox.png","x":-2577,"y":869,"width":77,"height":77,"color":"6"},
+		{"id":"7ca6ee0cd93dfbf0","type":"text","text":"Arrivée en Najara. Le groupe aprend que les problèmes viennent du domaine situé sous l'Anauroch","x":-3626,"y":705,"width":357,"height":154,"color":"6"},
+		{"id":"760b0841b3ba1b4a","type":"text","text":"![[miniania.png| right hmicro]]  Arrivée en Anauroch. Le groupe affronte d'étranges vases qui renvoient leurs attaques. Ania est retrouvée dans la Brèche des Géants Déchus. Un autel est découvert au même endroit.  \nDécouverte d'une mine abandonnée, d'un puit rempli de vases, et d'une citée de Tyrannoeil.\n","x":-3123,"y":599,"width":446,"height":361,"color":"6"}
 	],
 	"edges":[
 		{"id":"02d81061fb4c5b82","fromNode":"ddae79a0cefdd802","fromSide":"bottom","toNode":"e3da6c51cb1468c0","toSide":"top","color":"2"},
@@ -423,7 +423,7 @@
 		{"id":"d3c12fbb09046953","fromNode":"6b1eae83360660ee","fromSide":"bottom","toNode":"f86cafcd9c271ff3","toSide":"top"},
 		{"id":"42eb9fa4ddb22ade","fromNode":"6b1eae83360660ee","fromSide":"bottom","toNode":"b1df6c979d05e9ae","toSide":"top","color":"1"},
 		{"id":"98d52667c35abe0c","fromNode":"ecb283de21c47b75","fromSide":"bottom","toNode":"a6ad0f0f8107239c","toSide":"top"},
-		{"id":"b26cc9524fa39c22","fromNode":"b1df6c979d05e9ae","fromSide":"right","toNode":"a6ad0f0f8107239c","toSide":"left"},
+		{"id":"b26cc9524fa39c22","fromNode":"b1df6c979d05e9ae","fromSide":"right","toNode":"a6ad0f0f8107239c","toSide":"left","color":"1"},
 		{"id":"17b789580bc015bf","fromNode":"a6ad0f0f8107239c","fromSide":"bottom","toNode":"5d420bfce56a634e","toSide":"top"},
 		{"id":"748ccfb8ebe3f88f","fromNode":"b1df6c979d05e9ae","fromSide":"top","toNode":"f86cafcd9c271ff3","toSide":"bottom"}
 	]

@@ -11,8 +11,10 @@ headerLink: "[[Grande Alliance de Défense de Toril#Grande Alliance de Défense 
 <span class="sub2">:FasSitemap: Organization</span>
 ___
 
-> [!quote|no-t]
->![[convergence.webp|right wm-sm]]Profile de Grande Alliance de Défense de Toril, une unknown organisation.
+![[convergence.webp|right wm-sm]]Profile de Grande Alliance de Défense de Toril, une unknown organisation.
+
+![[Convergence_Alliés.png]]
+![[grandallianceorder3.jpg]]
 
 #### marker
 > [!column|flex 3]
@@ -20,7 +22,6 @@ ___
 >>```dataview
 >>LIST WITHOUT ID headerLink
 >>FROM "Compendium/Lore/Organizations" AND [[Grande Alliance de Défense de Toril]]
->
 >
 >>[!note]- Individus
 >>```dataview
