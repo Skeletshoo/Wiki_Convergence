@@ -6,7 +6,7 @@ tags:
   - affinity/friendly
   - job/caïD
   - race/?
-headerLink: "[[Themis Aior#Thernis Aoir]]"
+headerLink: "[[Themis Aior#Themis Aior]]"
 ---
 ###### Themis Aior
 <span class="sub2">:FasMapLocationDot: [[Porte de Baldur#Porte de Baldur]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
