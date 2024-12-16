@@ -1,12 +1,12 @@
 ---
-type: archfey
+type: deity
 tags:
-  - 
-headerLink: "[[Zybilna#Zybilna]]"
+-
+headerLink: "[[Istasha#Istasha]]"
 ---
 
-###### Zylbina
-<span class="sub2">:FasCross: Archifée </span>
+###### Istasha
+<span class="sub2">:FasCross: Divinité &nbsp; | &nbsp; :FasYinYang: ?</span>
 ___
 
 > [!infobox|no-t right]
@@ -19,16 +19,16 @@ ___
 > | :FasBuildingColumns: Panthéon |  |
 
 > [!quote|no-t]
->Une Archifée, et patronne de [[Zu]]. Maîtresse de [[Prismeer]].
+> La patronne de [[Zu]]. Se trouve dans la [[Mer des Étoiles déchues]] (?).
 
 #### marker
 > [!column|flex 3]
 >> [!hint]-  PNJs
 >>```dataview
 >>LIST WITHOUT ID headerLink
->>FROM "Compendium/NPC's" AND [[Zybilna]] 
+>>FROM "Compendium/NPC's" AND [[Istasha]] 
 >
 >>[!note]- HISTOIRE
 >>```dataview
 >>LIST WITHOUT ID headerLink
->>FROM "Session Notes" AND [[Zybilna]]
+>>FROM "Session Notes" AND [[Istasha]]

@@ -13,7 +13,7 @@ headerLink: "[[Prismeer#Prismeer]]"
 ___
 
 > [!quote|no-t] RÉSUMÉ
->Domaine de [[Zybilna]]. C'est un Domaine de Délice. 
+>Domaine de [[Tasha|Zylbina]]. C'est un Domaine de Délice. 
 
 #### marker
 > [!column|flex 3]

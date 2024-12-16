@@ -30,7 +30,7 @@ ___
 > | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
-> Zu est un occultiste ayant perdu le contact avec son patron. Durant son excursion en féérie, dans le but de retrouver [[Zybilna]], cette connexion lui fut rendue après avoir fouillé la demeure d'une guenaude.
+> Zu est un occultiste ayant perdu le contact avec son [[Istasha|patron]]. Durant son excursion en féérie, dans le but de retrouver [[Tasha]], cette connexion lui fut rendue après avoir fouillé la demeure d'une guenaude.
  
 #### marker
 > [!column|flex 3]
