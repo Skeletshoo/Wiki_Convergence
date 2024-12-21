@@ -13,7 +13,7 @@ cover: "/Assets/Images/Party/Hexaforce/Hogarth/Hogarth_cha.png"
 ---
 
 ###### Hogarth Kontsonkan
-:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Jeanpipi! :FasQuoteRight:
+:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Nooooooon ! Jean-pipi ! :FasQuoteRight:
 ___
 > [!infobox|no-t right]
 > ![[Hogarth_cha.png]]

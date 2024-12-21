@@ -13,7 +13,7 @@ cover: "/Assets/Images/Party/Arkhan_Bullies/Ania.png"
 ---
 
 ###### Ania Galanodel, de la maison Selemchant d’Athkatla
-:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Est maudite et bénie par trop de personnes à la fois :FasQuoteRight:
+:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Qui aime bien châtie bien :FasQuoteRight:
 ___
 > [!infobox|no-t right]
 > ![[Ania.png]]

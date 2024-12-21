@@ -13,28 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/Party/Player Characters/Active/Leonhard Breginton.md",
+                "file": "INDEX.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Leonhard Breginton"
-            }
-          },
-          {
-            "id": "b4189ca2e6a14d6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/NPC's/Porte de Baldur/Lames de Sang/Lust.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lust"
+              "title": "INDEX"
             }
           }
         ]
@@ -181,35 +166,35 @@
   },
   "active": "2a2dc14bdc14d2ae",
   "lastOpenFiles": [
-    "INDEX.md",
-    "Éclipse du Crapaud.md",
     "Compendium/Party/Player Characters/Active/Zyrielle Unseele.md",
-    "Compendium/Party/Player Characters/Inactive/PNG/Varis Liadon.md",
+    "INDEX.md",
     "Compendium/Party/Player Characters/Active/Zu.md",
     "Compendium/Party/Player Characters/Active/Séraphine Rosebonbon.md",
-    "Compendium/Party/Player Characters/Active/Ania.md",
-    "Assets/Images/Party/Eclipse_du_Crapaud/zu_art.png",
-    "Compendium/Party/Player Characters/Active/Áine Korgan.md",
-    "Assets/Images/Party/Eclipse_du_Crapaud/Zyrielle.png",
-    "Assets/Images/Party/Eclipse_du_Crapaud",
-    "Compendium/Party/Player Characters/Active/Leonhard Breginton.md",
     "Compendium/Party/Player Characters/Active/Nox.md",
     "Compendium/Party/Player Characters/Active/Magnus Myst.md",
     "Compendium/Party/Player Characters/Active/Lulu.md",
     "Compendium/Party/Player Characters/Active/Liv.md",
+    "Compendium/Party/Player Characters/Active/Leonhard Breginton.md",
+    "Compendium/Party/Player Characters/Active/Hogarth Kontsonkan.md",
     "Compendium/Party/Player Characters/Active/Harrier Von Kessler.md",
     "Compendium/Party/Player Characters/Active/Gilgas Saga.md",
+    "Compendium/Party/Player Characters/Active/Ania.md",
     "Compendium/Party/Player Characters/Active/Alexander White.md",
+    "Compendium/Party/Player Characters/Active/Áine Korgan.md",
+    "Compendium/Party/Player Characters/Active/Adeus Grek.md",
+    "Compendium/NPC's/Porte de Baldur/Lames de Sang/Lust.md",
+    "Éclipse du Crapaud.md",
+    "Compendium/Party/Player Characters/Inactive/PNG/Varis Liadon.md",
+    "Assets/Images/Party/Eclipse_du_Crapaud/zu_art.png",
+    "Assets/Images/Party/Eclipse_du_Crapaud/Zyrielle.png",
+    "Assets/Images/Party/Eclipse_du_Crapaud",
     "Compendium/Atlas/Plan Matériel/Toril/Faerûn/Outreterre/Outreterre.md",
     "Compendium/Atlas/Plan Matériel/Toril/Faerûn/La Côte des Épées/Candlekeep/Candlekeep.md",
     "Compendium/Atlas/Plan Matériel/Plan Matériel.md",
     "Compendium/Atlas/Plan Astral/Arbre-Monde/Cynosure/Cynosure.md",
     "Compendium/Atlas/Plan Astral/Arbre-Monde/Arbre-Monde.md",
-    "Compendium/NPC's/Porte de Baldur/Lames de Sang/Lust.md",
     "Compendium/NPC's/Porte de Baldur/Lames de Sang/Sloth.md",
     "Compendium/NPC's/Porte de Baldur/Lames de Sang/Greed.md",
-    "Compendium/NPC's/Porte de Baldur/Lames de Sang/Wrath.md",
-    "Compendium/Lore/Objects/Ailes Jumelles.md",
     "Assets/Images/Party/Arkhan_Bullies/Nox_fiche.jpg",
     "Assets/Images/Party/Arkhan_Bullies/sticker_nox.png",
     "Assets/Images/Party/Arkhan_Bullies/NoxFrontFig.PNG",
