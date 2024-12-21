@@ -1,13 +1,13 @@
 ---
 type: pc
 tags:
- - class/clerc12/Roublard5
+ - class/clerc20
  - race/shadarKai/DemiAnge
 headerLink: "[[Magnus Myst#Magnus Myst]]"
 level: "17"
 race: "Shadar-Kai / Demi-Ange"
-class: "Clerc 12 / Roublard 5"
-subClass: "Domaine de la Paix / Sangelame"
+class: "Clerc 20"
+subClass: "Domaine de la Paix"
 groupe: "[[Hexaforce]]"
 cover: "/Assets/Images/Party/Hexaforce/Magnus/icon_magnus.png"
 ---
@@ -22,7 +22,7 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Domaine / Archétype |  `=this.subClass`|
+> | :FasLandmark: Domaine |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  `=this.groupe`|
 > |  :LiCalendarClock: Âge | 147 ans |
