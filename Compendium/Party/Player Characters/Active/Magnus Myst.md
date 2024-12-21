@@ -13,7 +13,7 @@ cover: "/Assets/Images/Party/Hexaforce/Magnus/icon_magnus.png"
 ---
 
 ###### Magnus Myst
-:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Avec Amour, avec Ruse et si rien ne marche, avec Espoir.  :FasQuoteRight: | Aliases : Magnus Myst, Vyllin Myrrh, Lethen
+:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Avec Amour, avec Ruse et si rien ne marche, avec Espoir.  :FasQuoteRight: | Aliases : Vyllin Myrrh, Lethen
 ___
 > [!infobox|no-t right]
 > ![[magnus_s3.png]]
@@ -28,6 +28,7 @@ ___
 > |  :LiCalendarClock: Âge | 147 ans |
 > |  :LiCalendar: Anniversaire | 14 Martel |
 > | :LiActivity: Statut | En vie |
+> | :FasHeart: Relations | - Harrier von Kessler (amant) |
 
 > [!quote|no-t]
 > Ayant rejoint le plan matériel très jeune, Magnus cache sa nature de Shadar-Kai à l'aide d'un anneau rendant la majorité de son anatomie rose. Il a grandit en [[Cormyr]], avant de partir pour rendre sa famille fière. Cela a été loin d'une réussite, vu qu'il s'est retrouvé dans le [[Cirque De la Brume]] et s'est [[Ilphas|fiancé]].

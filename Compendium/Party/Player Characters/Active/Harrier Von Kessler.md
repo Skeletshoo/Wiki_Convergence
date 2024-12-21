@@ -28,6 +28,7 @@ ___
 > |  :LiCalendarClock: Âge | 38 ans |
 > |  :LiCalendar: Anniversaire | 23 Marpenoth |
 > | :LiActivity: Statut | En vie |
+> | :FasHeart: Relations | - Magnus Mist (amant) <br> - Bann (Père adoptif, décédé) <br> - Jeardra Heiphyra (Mère) <br> - Jendal Miadan (Frère jumeau) |
 
 > [!quote|no-t]
 > Ancien membre d'une [[Lames de Sang|organisation criminelle]], Harrier est un demi-elfe ayant choisi d'embrasser son côté humain. Toujours prêt à enfreindre l'intégralité des lois d'une cité tant que cela lui est profitable, il fait tout ce qu'il peut pour accomplir sa mission, malgré quelques détours par la case bar. Accompagné de [[Magnus Myst|Magnus]], son stagiaire et meilleur ami, il a rejoint le groupe en se faisant entrainer malgré lui dans un complot à la [[Porte de Baldur]], et est devenu depuis un élément central du groupe, surtout parce qu'il est celui qui leur attire le plus de problème. Se rendant aujourd'hui compte que quelque chose cloche sur la mort de son père et l'absence de sa mère, il est prêt à tout pour découvrir la vérité, même si cela doit mettre sa mission au second plan.
