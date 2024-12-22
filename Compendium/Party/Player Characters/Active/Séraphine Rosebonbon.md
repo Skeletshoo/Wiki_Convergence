@@ -13,7 +13,7 @@ cover: "/Assets/Images/Party/Arkhan_Bullies/Seraphine.png"
 ---
 
 ###### Séraphine Rosebonbon
-:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Mais Viggo, tu as un couteau dans les côtes ! :FasQuoteRight: | Aliases : Atraxia
+:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Mais Viggo, tu as un couteau dans les côtes ! :FasQuoteRight: | Aliases : La Diablesse Rose, Atraxia
 ___
 > [!infobox|no-t right]
 > ![[Seraphine.png]]
