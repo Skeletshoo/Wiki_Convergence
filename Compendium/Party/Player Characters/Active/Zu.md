@@ -13,7 +13,7 @@ cover: /Assets/Images/Party/Eclipse_du_Crapaud/zu_art.png
 ---
 
 ###### Zu
-:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Ma patronne, c'est la meilleure patronne qui puisse exister ! :FasQuoteRight:
+:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Ma patronne, c'est la meilleure patronne qui puisse exister ! :FasQuoteRight: | Aliases :  La Voix des Profondeurs
 ___
 > [!infobox|no-t right]
 >![[zu_art.png]]

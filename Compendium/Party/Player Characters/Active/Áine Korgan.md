@@ -13,7 +13,7 @@ cover: /Assets/Images/Party/Hexaforce/Aine/Áine.png
 ---
 
 ###### Áine Korgan
-:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: S'il me sépare de ma famille, je vais le tuer :FasQuoteRight:
+:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: S'il me sépare de ma famille, je vais le tuer :FasQuoteRight: | Aliases :  Régente de la Cour d'Été
 ___
 > [!infobox|no-t right]
 >![[IMG_5165.jpeg]]

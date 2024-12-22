@@ -13,7 +13,7 @@ cover: "/Assets/Images/Party/Hexaforce/Harrier/harrier_icon.png"
 ---
 
 ###### Harrier Von Kessler
-:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Hein ? Quoi. :FasQuoteRight: | Aliases : Jendal Miadan, Pride
+:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Hein ? Quoi. :FasQuoteRight: | Aliases : Jendal Miadan, Pride, Maître de Stage
 ___
 > [!infobox|no-t right]
 > ![[harrier_s3.png]]

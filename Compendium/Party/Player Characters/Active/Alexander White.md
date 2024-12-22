@@ -13,7 +13,7 @@ cover: /Assets/Images/Party/Arkhan_Bullies/Alexander.png
 ---
 
 ###### Alexander White
-:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Qu'il vienne. Il va goûter à ma Flèche de Sombrume, ça va lui faire tout drôle. :FasQuoteRight:
+:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Qu'il vienne. Il va goûter à ma Flèche de Sombrume, ça va lui faire tout drôle. :FasQuoteRight: | Aliases : Le Sombre Voyageur
 ___
 > [!infobox|no-t right]
 > ![[Alexander.png]]

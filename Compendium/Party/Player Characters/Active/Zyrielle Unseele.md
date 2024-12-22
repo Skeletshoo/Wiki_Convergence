@@ -13,7 +13,7 @@ cover: /Assets/Images/Party/Eclipse_du_Crapaud/Zyrielle.png
 ---
 
 ###### Zyrielle Unseele
-:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft:  :FasQuoteRight:
+:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft:  :FasQuoteRight: | Aliases :  La Magelame
 ___
 > [!infobox|no-t right]
 >![[Zyrielle.png]]

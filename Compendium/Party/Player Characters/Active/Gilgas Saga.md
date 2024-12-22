@@ -12,7 +12,7 @@ cover: "/Assets/Images/Party/Daronne_Slayers/Gilgas_Saga.png"
 ---
 
 ###### Gilgas Saga
-:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Je sens un butin pas loin, et il va finir dans ma bourse :FasQuoteRight:
+:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Je sens un butin pas loin, et il va finir dans ma bourse :FasQuoteRight: | Aliases :  L'Héritier des Deux Jumeaux
 ___
 > [!infobox|no-t right]
 > ![[Gilgas_Saga.png]]

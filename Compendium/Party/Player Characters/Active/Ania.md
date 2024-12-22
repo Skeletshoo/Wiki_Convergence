@@ -13,7 +13,7 @@ cover: "/Assets/Images/Party/Arkhan_Bullies/Ania.png"
 ---
 
 ###### Ania Galanodel, de la maison Selemchant d’Athkatla
-:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Qui aime bien châtie bien :FasQuoteRight:
+:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Qui aime bien châtie bien :FasQuoteRight: | Aliases : La Dame de Platine
 ___
 > [!infobox|no-t right]
 > ![[Ania.png]]

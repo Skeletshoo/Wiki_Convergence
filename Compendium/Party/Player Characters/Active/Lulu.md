@@ -13,7 +13,7 @@ cover: "/Assets/Images/Party/Hexaforce/Lulu/Lulu_bby.png"
 ---
 
 ###### Lulu
-:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Ensembles, on peut le faire! :FasQuoteRight:
+:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft: Ensembles, on peut le faire! :FasQuoteRight: | Aliases :  Monture Dorée
 ___
 > [!infobox|no-t right]
 >![[Lulu_bby.png]]
