@@ -2,6 +2,9 @@
 
 Bonjour et bienvenue! Voici un wiki autour de notre campagne Convergence :]c 
 Si vous avez des questions, MPez moi sur discord.
+# REGLES
+1 - TOUJOURS créer des nouvelles pages avec les boutons. Si ça marche pas, copier-coller une page du même type fonctionne, mais faut bien remplacer les trucs SVP.
+2 - SI VOUS FAITES DES PUSH, pensez à discard toutes modifications  dans le dossier .obsidian. C'est ce qui définit sur quelle page s'ouvrir, etc, donc ça change tout le temps.
 
 # HOW TO USE
 Étape 1 :  Téléchargez Obsidiant. https://obsidian.md/download <br>

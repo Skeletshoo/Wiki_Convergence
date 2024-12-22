@@ -12,7 +12,7 @@ headerLink: "[[Ceux Qui Complotent Sous Vos Pieds#Ceux Qui Complotent Sous Vos P
 ___
 
 > [!quote|no-t]
->![[quest.png|right wm-sm]] Des disparitions en série inquiètent les autorités de la [[Porte de Baldur]] et un symbole de culte a été découvert dans les égouts. [[Séraphine Rosebonbon|Séraphine]] est partie, avec [[Hu Shen]], enquêter mais n'a pas donné de signe de vie depuis environ une semaine.
+>![[temple_baahl.jpg|right wm-sm]] ![[200px-Absolute_symbol.png|right hsmall]]Des disparitions en série inquiètent les autorités de la [[Porte de Baldur]] et un symbole de culte a été découvert dans les égouts. [[Séraphine Rosebonbon|Séraphine]] est partie, avec [[Hu Shen]], enquêter mais n'a pas donné de signe de vie depuis environ une semaine.
 > ![[minisera.png|hsmall]]
 
 #### marker

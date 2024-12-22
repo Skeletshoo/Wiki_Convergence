@@ -15,7 +15,7 @@ ___
 ![[defensedumonde.webp|right wm-sm]] 
 ##### En cours
 - [[Ceux qui Complotent sous vos Pieds]] : Des disparitions en série inquiètent les autorités de la [[Porte de Baldur]] et un symbole de culte a été découvert dans les égouts. [[Séraphine Rosebonbon|Séraphine]] est partie enquêter mais n'a pas donné de signe de vie depuis environ une semaine.
-- [[Nom de Quête]] : Un Dracosire dormirait sur la ville de [[Cendriane]] gêlée, par un sort puissant. *5 grands froids se sont abattus sur notre région.*
+- [[Sus au Dracosire]] : Un Dracosire dormirait sur la ville de [[Cendriane]] gêlée, par un sort puissant. *5 grands froids se sont abattus sur notre région.*
 - [[Plongée en Outreterre]] : Une version ténébreuse de Viggo a signé un pacte étrange avec une ville de Tyrannoeils de l'Anauroch.
 - [[Dernière Quête de Titania]] : La Cour d'Eté a été gelée par un puissant sort de Permafrost.
 - [[Patrons et Profondeurs]] : Zu, Zyrielle et Leonhard sont partis pour la [[Mer des Étoiles déchues]]

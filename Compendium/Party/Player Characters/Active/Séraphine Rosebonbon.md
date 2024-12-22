@@ -37,19 +37,19 @@ ___
 >> [!info]- QUÊTES/STORYLINES:
 >>```dataview
 >>LIST WITHOUT ID headerLink
->>FROM "Compendium/Party/Quests" AND [[Séraphine]]
+>>FROM "Compendium/Party/Quests" AND [[Séraphine Rosebonbon]]
 >>SORT file.ctime DESC
 >
 >>[!note]- HISTOIRE
 >>```dataview
 >>LIST WITHOUT ID headerLink
->>FROM "Session Notes" AND [[Séraphine]]
+>>FROM "Session Notes" AND [[Séraphine Rosebonbon]]
 >>SORT file.ctime DESC
 >
 >>[!hint]- Relations (PNJ)
 >>```dataview
 >>LIST WITHOUT ID headerLink
->>FROM "Compendium/NPC's" AND [[Séraphine]]
+>>FROM "Compendium/NPC's" AND [[Séraphine Rosebonbon]]
 >>SORT file.ctime DESC
 
 ```image-layout-a

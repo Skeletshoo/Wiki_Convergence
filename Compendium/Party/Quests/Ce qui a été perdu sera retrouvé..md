@@ -40,17 +40,17 @@ Ces personnages se reconnaîtront d'eux-même, en plus de recevoir la lettre... 
 
 |      |    |
 | --- | --- |
-| Le Duc au Corbeau | [[Ulder Gardecorbeau]]. Il a perdu un fils. |
+||Le Duc au Corbeau | [[Ulder Gardecorbeau]]. Il a perdu un fils. |
 |La Régente de la Cour d'Été| [[Áine Korgan]]|
 |Le Marchand d'Âmes | ? Pas de Légendes sur lui |
 |La Diablesse Rose| [[Séraphine Rosebonbon]]|
-|Le Vagabond de l'Est| TBA |
+|Le Vagabond de l'Est| il s'agit d'un individu puissant, né dans un village caché où les enfants sont endoctrinés dès le plus jeune âge afin qu'ils puissent se transmettre les traditions martiales de leurs pères. Ayant réussi à s'échapper de ce cercle, il erre entre [[Kara-Tur]] et [[Faerûn]] en agissant parfois dans les affaires de personnages louches. |
 |Le Grand Horloger| [[Nox]]|
-|Le Maître d'Armes| TBA |
+|Le Maître d'Armes| Un gentilhomme autoproclamé venant des contrées de l'Est, expert en rime et en rixe. Il se battrait aujourd'hui au nom de l'Amour qu'il a autrefois perdu. |
 |L'Héritier des Jumeaux| [[Gilgas Saga]] |
-|Le Dévot| Un prêtre(?) de Tyr en toge noire (?), qui nous a délivré ces invitations.|
+|Le Dévot| Un prêtre(?) de Tyr en toge noire (?), qui nous a délivré ces invitations. Il a affirmé avoir conclu un pacte avec [[Melinoe|Dame Melinoe]] en échange d'un pouvoir ou d'un objet. Ce pacte l'a mené à distribuer les lettres d'invitation.|
 |Le Jumeau Céleste| [[Magnus Myst]]|
-|Le Seigneur de Guerre| TBA|
+|Le Seigneur de Guerre| Il porte un titre très important en Terres de la Horde, qui désigne le Chef de plusieurs tribus nomades voyageant au gré des vents de ce territoire hostile.|
 |Le Maître de Stage| [[Harrier Von Kessler]]|
 |La Lance de Shar| ? Pas de Légendes sur elle (Mais probablement Shadowheart)|
 |La Voix des Profondeur| [[Zu]] |

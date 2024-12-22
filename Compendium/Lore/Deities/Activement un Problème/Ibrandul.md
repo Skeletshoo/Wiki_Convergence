@@ -21,7 +21,7 @@ ___
 > | :FasBuildingColumns: Panthéon | ?,Drow |
 
 > [!quote|no-t]
->Ressucité lors de [[Compendium/Party/Quests/Campaign/La Convergence]].
+>Ressucité lors de [[La Convergence]].
 
 #### marker
 > [!column|flex 3]

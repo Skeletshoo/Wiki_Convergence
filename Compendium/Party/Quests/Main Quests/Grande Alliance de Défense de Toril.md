@@ -3,7 +3,7 @@ type: organization
 locations:
  - "[[Toril]]"
 tags:
- - 
+  - quest/ongoing
 headerLink: "[[Grande Alliance de Défense de Toril#Grande Alliance de Défense de Toril]]"
 ---
 

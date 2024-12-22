@@ -2,7 +2,7 @@
 type: quest
 target: "[[Magnus Myst]]"
 locations:
- - 
+ - "[[Manoir Hexaforce]]"
 tags:
  - quest/ongoing
 headerLink: "[[Toute vérité n'est pas bonnes à prendre#Toute vérité n'est pas bonnes à prendre]]"

@@ -1,6 +1,6 @@
 ---
 type: quest
-target: 
+target: "[[Arkhan Bullies]]"
 locations:
   - "[[Porte de Baldur]]"
 tags:
