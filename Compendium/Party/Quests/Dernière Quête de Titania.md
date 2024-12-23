@@ -16,7 +16,7 @@ ___
 
 > [!quote|no-t]
 >![[quest.png|right wm-sm]]  
-> La Cour d'Eté a été gelée par un puissant sort de Permafrost.
+> La [[Cour d'Été]] a été gelée par un puissant sort de Permafrost.
 > ![[miniaine_S2.png|hsmall]]
 
 #### marker
