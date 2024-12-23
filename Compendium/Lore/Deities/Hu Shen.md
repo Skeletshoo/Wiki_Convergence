@@ -21,7 +21,7 @@ ___
 > [!quote|no-t]
 >Hu Shen, également connu sous le nom de Singe Fou, est un demi-dieu et un Esprit Supérieur, ancien fonctionnaire de la [[Bureaucratie Céleste]]. C'est un escroc voyou et connu pour ses farces, raison pour laquelle il fut banni en [[Toril]], ce qui n'empêche pas ses pairs de parfois faire appel à lui pour sauver [[Kara-Tur]] lorsque même les Dieux ne peuvent agir.
 >Par un concours de circonstances, il est devenu le maître des [[Six Samouraïs]] et s'est retrouvé au contact de la [[Grande Alliance de Défense de Toril]] en voyageant contre son gré à bord du navire de [[Suleiman Al-Ghazi]]. 
->Aux dernières nouvelles, il a reçu une pierre de communication supérieure et inspectait les égouts de [[Porte de Baldur|La Porte de Baldur]] avec [[Séraphine Rosebonbon]] mais les deux ne donnent plus de signes de vie depuis environ une semaine.
+>Aux dernières nouvelles, Hu Shen est revenu avec [[Séraphine Rosebonbon]] des profondeurs de l'[[Outreterre]] où les deux ont traqué les forces du [[Culte de l'Absolue]], qui semble dirigé par nul autre que [[Viggo (Alter)]].
 
 #### marker
 > [!column|flex 3]
