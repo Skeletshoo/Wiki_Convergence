@@ -17,13 +17,13 @@ ___
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasBriefcase: Occupation |  Bâtard |
+> | :FasBriefcase: Occupation | Elu du [[Culte de l'Absolue]]|
 > | :FasVenusMars: Genre | Masculin |
 > | :FasUser: Race | Demi-Orc |
 <span class="clearfix"></span>
 
 > [!quote|no-t]
->Evil [[Viggo]] qui nous a bien eu >:((
+>Une version sombre de l'Archange [[Viggo]]. Il semble que son pouvoir vienne en partie des Trois Funestes et qu'il dirige actuellement le [[Culte de l'Absolue]]. [[Séraphine Rosebonbon]] a réussi à déjouer ses tentatives d'infiltration à la [[Porte de Baldur]], mais il semble qu'il se dirige actuellement vers la ville avec une immense armée dans un but inconnu. 
 #### marker
 > [!column|flex 3]
 >> [!important]- QUÊTE:
