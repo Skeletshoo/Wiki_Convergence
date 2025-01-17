@@ -13,7 +13,7 @@ headerLink: "[[Ulder Gardecorbeau#Ulder Gardecorbeau]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg]]
+> ![[Ulder_gardecorbeau_baldur.webp]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |

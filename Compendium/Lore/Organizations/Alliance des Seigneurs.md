@@ -12,7 +12,7 @@ headerLink: "[[Alliance des Seigneurs#Alliance des Seigneurs]]"
 ___
 
 > [!quote|no-t]
->![[embed.jpg|right wm-sm]]L'**Alliance des Seigneurs**, ou **Conseil seigneurial**, est une organisation regroupant de multiples cités du Nord et des Contrées du Mitan occidentales. Inclut le [[Conseil des Quatres]].
+>![[Alliance_des_Seigneurs_v5.webp|right wm-sm]]L'**Alliance des Seigneurs**, ou **Conseil seigneurial**, est une organisation regroupant de multiples cités du Nord et des Contrées du Mitan occidentales. Inclut le [[Conseil des Quatres]].
 
 #### marker
 > [!column|flex 3]

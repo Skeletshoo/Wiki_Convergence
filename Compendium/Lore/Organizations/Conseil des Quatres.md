@@ -12,7 +12,8 @@ headerLink: "[[Conseil des Quatres#Conseil des Quatres]]"
 ___
 
 > [!quote|no-t]
->![[embed.jpg|right wm-sm]]Le **Conseil des Quatre**, constitué de quatre ducs, représente l'autorité suprême à la [[Porte de Baldur]]. Le conseil fait partie de l'[[Alliance des Seigneurs]], avec [[Eauprofonde]], [[Silverymoon]] et d'autres cités.
+>![[Conseil_des_Quatre_MTG.webp|right wm-sm]]Le **Conseil des Quatre**, constitué de quatre ducs, représente l'autorité suprême à la [[Porte de Baldur]]. Le conseil fait partie de l'[[Alliance des Seigneurs]], avec [[Eauprofonde]], [[Silverymoon]] et d'autres cités.
+>Après la mort de Thalmara Vanthampur, un nouveau duc a été nommé sur recommandations du [[Nox|Comte Einzbern]] et du Parlement des Pairs : [[Frederic Jhasso]].
 
 #### marker
 > [!column|flex 3]
