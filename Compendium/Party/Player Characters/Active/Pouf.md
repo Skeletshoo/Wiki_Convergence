@@ -1,18 +1,18 @@
 ---
 type: pc
 tags:
-  - class/tireurDeBaliste
-  - race/goblin
+  - class/occultiste
+  - race/gobelin
 headerLink: "[[Compendium/Party/Player Characters/Inactive/Daronnes Slayers/Pouf#Pouf]]"
-level: "1"
-race: Goblin
-class: Tireur de Baliste
-subClass: ""
-cover: /Assets/Images/Party/Daronne_Slayers/Pouf.png
+level: "5"
+race: Gobelin
+class: Occultiste
+subClass: Diablesse Rose
+cover: /Assets/Images/NPC/Pouf.png
 ---
 
 ###### Pouf
-:FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: Tire à la baliste sur le boss final :FasQuoteRight:
+:FasPerson: Personnage Joueur &nbsp; | &nbsp; :FasQuoteLeft:  :FasQuoteRight:
 ___
 > [!infobox|no-t right]
 > ![[Pouf.png]]
@@ -21,7 +21,7 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Niveau   | `=this.level` |
 > | :RiSwordFill: Classe |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :RiSwordFill: Archétype |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  [[Daronnes Slayers]] |
 > |  :LiCalendarClock: Âge | - |
@@ -29,7 +29,7 @@ ___
 > | :LiActivity: Statut | En vie |
 
 > [!quote|no-t]
-> Autrefois gobelin harcelé par ses pairs, aujourd'hui servant de baliste, Pouf est la mascotte toute désignée du groupe. Adopté par les [[Daronnes Slayers]], il semble beaucoup plus apprécier la vie avec une arme de siège entre les mains.
+> 
  
 #### marker
 > [!column|flex 3]
